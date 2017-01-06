@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Data>
+    <RootStartPoints>
+        <!--Stores the users start points for the root traces-->
+        <root0>
+            <startx>60</startx>
+            <starty>145</starty>
+        </root0>
+        <root1>
+            <startx>209</startx>
+            <starty>149</starty>
+        </root1>
+        <root2>
+            <startx>350</startx>
+            <starty>155</starty>
+        </root2>
+        <root3>
+            <startx>479</startx>
+            <starty>142</starty>
+        </root3>
+        <root4>
+            <startx>639</startx>
+            <starty>121</starty>
+        </root4>
+    </RootStartPoints>
+</Data>

@@ -1,0 +1,4 @@
+Link to home page with user manual...
+https://www.cpib.ac.uk/tools-resources/software/roottrace/
+
+Note: For root tip angle measurement go to the "Misc" tab and change the tip angle fitting number from its default level of 2 to 9.

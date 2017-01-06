@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfEMConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <!-- EM Configurations -->
+  <EMConfiguration>  
+    <Name>Wheat</Name>
+    <InitialClassCount>3</InitialClassCount>
+    <MaximumClassCount>4</MaximumClassCount>
+    <ExpectedRootClassCount>2</ExpectedRootClassCount>
+    <PatchSize>150</PatchSize>
+    <BackgroundPercentage>0.50</BackgroundPercentage>
+    <BackgroundExcessSigma>1.5</BackgroundExcessSigma>
+    <Weights>
+        <double>0.35</double>
+        <double>0.68</double>
+        <double>0.99</double>
+    </Weights>
+    
+    <Default/>
+  
+  </EMConfiguration>
+  <EMConfiguration>
+    <Name>Arabidopsis Plate</Name>
+    <InitialClassCount>2</InitialClassCount>
+    <MaximumClassCount>3</MaximumClassCount>
+    <ExpectedRootClassCount>1</ExpectedRootClassCount>
+    <PatchSize>150</PatchSize>
+    <BackgroundPercentage>0.50</BackgroundPercentage>
+    <BackgroundExcessSigma>1.5</BackgroundExcessSigma>
+    <Weights>
+      <double>0.68</double>
+      <double>0.99</double>
+    </Weights>
+
+  </EMConfiguration>
+  <EMConfiguration>
+    <Name>Rice Scan</Name>
+    <InitialClassCount>3</InitialClassCount>
+    <MaximumClassCount>4</MaximumClassCount>
+    <ExpectedRootClassCount>2</ExpectedRootClassCount>
+    <PatchSize>150</PatchSize>
+    <BackgroundPercentage>0.50</BackgroundPercentage>
+    <BackgroundExcessSigma>1.5</BackgroundExcessSigma>
+    <Weights>
+      <double>0.68</double>
+      <double>0.99</double>
+    </Weights>
+  </EMConfiguration>
+</ArrayOfEMConfiguration>
