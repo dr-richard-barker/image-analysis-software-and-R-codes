@@ -1,3 +1,6 @@
+library("MASS")
+library("stats")
+
 # WeGas Analyses
 
 # upload data
@@ -5,13 +8,13 @@ weGAS <- read.csv("~/Desktop/weGAS.csv")
 View(weGAS)
 str(weGAS)
 
-Shoot <- weGAS[1:511,]
+Shoot <- weGAS[1:511,] # only the Shoot data
 View(Shoot)
 
-Root <- weGAS[512:1238,]
+Root <- weGAS[512:1238,] # only the Root data
 View(Root)
 
-# viewing distributions
+# Check variable distributions - are they fairly normal (bell-shaped) or do they need to be transformed?
 hist(weGAS$Emergence.Angle)
 hist(1/(weGAS$Emergence.Angle))
 hist(weGAS$Tip.Angle)
@@ -36,38 +39,35 @@ RTPABIN$counts
 plot(RTPABIN)
 #hist(Root$Tortuosity) #normal
 
-# simple linear models (first round)
-library("MASS")
-library("stats")
-
-STL <- lm(Total.Length ~ X02conc*Genotype, data=Shoot)
-boxcox(STL) #0 or 0.5 log or sqrt
+# Calculate factorial models and use BoxCox transformations to determine the best transformation for the y-variable 
+STL <- lm(Total.Length ~ X02conc*Genotype, data = Shoot)
+boxcox(STL) # lambda = 0 or 0.5, so a log or sqrt transformation will work best
 STL1 <- lm(log(Total.Length) ~ X02conc*Genotype, data=Shoot)
 summary(STL1)
 
 drop1(STL1,~.,test="F")
 STL1A <- aov(log(Total.Length) ~ X02conc*Genotype, data=Shoot)
-TukeyHSD(STL1A)
+TukeyHSD(STL1A) # compare groups
 
 #STL2 <- lm(sqrt(Total.Length) ~ X02conc*Genotype, data=Shoot)
 #summary(STL2)
 #drop1(STL2,~.,test="F")
 
 RTA <- lm(Tip.Angle ~ X02conc*Genotype, data=Root)
-boxcox(RTA) #0 log
+boxcox(RTA) # lambda = 0, so log transformation is best
 RTA1 <- lm(log(Tip.Angle) ~ X02conc*Genotype, data=Root)
 drop1(RTA1,~.,test="F")
 RTA1A <- aov(log(Tip.Angle) ~ X02conc*Genotype, data=Root)
 TukeyHSD(RTA1A)
 
 RTL <- lm(Total.Length ~ X02conc*Genotype, data=Root)
-#boxcox(RTL) #0 
+#boxcox(RTL) # lambda = 0, so log transformation is best 
 drop1(RTL,~.,test="F")
 RTLA <- aov(Total.Length ~ X02conc*Genotype, data=Root)
 TukeyHSD(RTLA)
 
 RTPA <- lm(Total.Primary.Angle ~ X02conc*Genotype, data=Root)
-#boxcox(RTPA) #0 
+#boxcox(RTPA) # lambda = 0, so log transformation is best 
 drop1(RTPA,~.,test="F")
 RTPAA <- aov(Total.Primary.Angle ~ X02conc*Genotype, data=Root)
 TukeyHSD(RTPAA)
