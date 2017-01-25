@@ -1,0 +1,48 @@
+# These codes were developed in a collaboration between Natasha Bikey and Richard Barker in order to compare root growth different media types
+
+# viewing distributions
+hist(Col.0.R$Total.Primary.Angle)
+hist(Col.0.R$Total.Length)
+
+#break into angle categories#
+Col.0hist <- hist(Col.0.R$Total.Primary.Angle, breaks = c(-70,-60,-50,-40,-30,-20,-10,0,10,20,30,40,50,60,70,80,90,100,110)) #normal
+Col.0hist$counts
+plot(Col.0hist)
+cml24.2hist <- hist(cml24.2.R$Total.Primary.Angle, breaks = c(-70,-60,-50,-40,-30,-20,-10,0,10,20,30,40,50,60,70,80,90,100,110)) #normal
+cml24.4hist <- hist(cml24.4.R$Total.Primary.Angle, breaks = c(-70,-60,-50,-40,-30,-20,-10,0,10,20,30,40,50,60,70,80,90,100,110)) #normal
+g12hist <- hist(g12.R$Total.Primary.Angle, breaks = c(-70,-60,-50,-40,-30,-20,-10,0,10,20,30,40,50,60,70,80,90,100,110)) #normal
+g13hist <- hist(g13.R$Total.Primary.Angle, breaks = c(-70,-60,-50,-40,-30,-20,-10,0,10,20,30,40,50,60,70,80,90,100,110)) #normal
+
+# simple linear models (first round)
+library("MASS")
+library("stats")
+
+#TukeyHSD for total primary angle all genes#
+summary(All.genes.R)
+RTA1A <- aov(Total.Primary.Angle ~ X.Phytagel + Gene + X.Phytagel:Gene, data=All.genes.R)
+summary(RTA1A)
+fX.Phytagel <-factor(All.genes.R$X.Phytagel) #make %Phytagel a factor#
+fGene <- factor(All.genes.R$Gene) #make genotype a factor#
+RTA1A2 <- aov(Total.Primary.Angle ~ fX.Phytagel + fGene + fX.Phytagel:fGene, data=All.genes.R) #redo anova with %P and genotype as factors#
+summary(RTA1A2)
+model.tables(RTA1A2,"means")
+TukeyRTA1A2 <- TukeyHSD(RTA1A2, ordered = TRUE)
+TukeyRTA1A2
+
+#export data for TukeyHSD for total primary angle all genes#
+write.csv(data.frame(TukeyRTA1A2$`fX.Phytagel:fGene`), 'tukeyresultsTPA.csv') 
+
+#TukeyHSD for total length all genes#
+summary(All.genes.R)
+RTL1A <- aov(Total.Length ~ X.Phytagel + Gene + X.Phytagel:Gene, data=All.genes.R)
+summary(RTL1A)
+fX.Phytagel <-factor(All.genes.R$X.Phytagel) #make %Phytagel a factor#
+fGene <- factor(All.genes.R$Gene) #make genotype a factor#
+RTL1A2 <- aov(Total.Length ~ fX.Phytagel + fGene + fX.Phytagel:fGene, data=All.genes.R) #redo anova with %P and genotype as factors#
+summary(RTL1A2)
+model.tables(RTL1A2,"means")
+TukeyRTL1A2 <- TukeyHSD(RTL1A2, ordered = TRUE)
+TukeyRTL1A2
+
+#export data for TukeyHSD for total length all genes#
+write.csv(data.frame(TukeyRTL1A2$`fX.Phytagel:fGene`), 'tukeyresultsTL.csv') 
