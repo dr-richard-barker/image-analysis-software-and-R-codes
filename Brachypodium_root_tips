@@ -1,0 +1,96 @@
+## R-Script created to plot Brachypodium root tip reorientation kinetics 
+
+r <- read.csv("~/Desktop/c.csv", header = T)
+
+length(unique(r$genotype))
+
+#Use the grep command to identify columns that have certain information in them
+grep("X.coord", names(r))
+names(r)[grep("X.coord", names(r))]
+
+#Create a new data frame to have all replicates separate
+m <- as.data.frame( matrix(numeric(0), 274392, 13) )
+names(m) <- names(r)[1:12]
+
+m[,1:5] <- rbind(r[,1:5], r[,1:5], r[,1:5], r[,1:5], r[,1:5], r[,1:5], r[,1:5], r[,1:5], r[,1:5], r[,1:5], r[,1:5], r[,1:5])
+
+
+m[1:22866, 6:12] <- r[, 6:12]
+m[(1 + 22866*1):(2*22866), 6:12] <- r[, (6+7*1):(12+7*1)]
+m[(1 + 22866*2):(3*22866), 6:12] <- r[, (6+7*2):(12+7*2)]
+m[(1 + 22866*3):(4*22866), 6:12] <- r[, (6+7*3):(12+7*3)]
+m[(1 + 22866*4):(5*22866), 6:12] <- r[, (6+7*4):(12+7*4)]
+m[(1 + 22866*5):(6*22866), 6:12] <- r[, (6+7*5):(12+7*5)]
+m[(1 + 22866*6):(7*22866), 6:12] <- r[, (6+7*6):(12+7*6)]
+m[(1 + 22866*7):(8*22866), 6:12] <- r[, (6+7*7):(12+7*7)]
+m[(1 + 22866*8):(9*22866), 6:12] <- r[, (6+7*8):(12+7*8)]
+m[(1 + 22866*9):(10*22866), 6:12] <- r[, (6+7*9):(12+7*9)]
+m[(1 + 22866*10):(11*22866), 6:12] <- r[, (6+7*10):(12+7*10)]
+m[(1 + 22866*11):(12*22866), 6:12] <- r[, (6+7*11):(12+7*11)]
+
+#Give a rep and unique identifier to each plant
+m[,13] <- rep(seq(1:12), each = 22866)
+m$PlantID <- paste(m$fileName, m[,13], sep = ".")
+
+#Now, each replicate should have its own time column, X coord column, PlantID, etc 
+#Check that it looks correct at the end 
+tail(m, 2)
+
+#Create a new column for cumulative root displacement
+m$CumRootDis <- NA
+#Generate a column for cumulative root tip displacement 
+for(i in unique(m$PlantID)){
+  m$CumRootDis[which(m$PlantID == i)] <- cumsum(m$Displacement.0[which(m$PlantID == i)])
+}
+
+##This is another potential way of generating cumulative lengths, but it keeps crashing R
+#CumRootDis <- ((tapply(m$Displacement.0, m$PlantID, cumsum)))
+#m$RootDis <- unlist(CumRootDis[match(m$PlantID, names(CumRootDis))])
+
+#Take out blank reps
+n <- m[-(which(is.na(m$CumRootDis) == "TRUE")), ]
+
+#See how long each plant was monitored
+max.Time <- unlist(tapply(n$Time, n$PlantID, max))
+hist(max.Time, breaks = 35)
+max.Time[which(max.Time < 1000)]
+
+max.Length <- unlist(tapply(n$CumRootDis, n$PlantID, max))
+hist(max.Length, breaks = 35)
+max.Time[which(max.Length < 100)] #This identifies which roots did not grow much 
+
+#Double check that the data frame is returning correct values. Look these up in the original csv to see if these numbers are accurate. 
+n[n$PlantID == "TR7A_DB_2-1_Tabellare.csv.8", ]
+n[n$PlantID == "DB_1-3_Tek2_Tabellare.csv.1", ]
+
+library(Hmisc)
+#Get means and standard errors for root tip displacement by time for each genotype
+##Because R studio cannot hold 50 plots in its memory, change the values in brackets in after "unique(n$genotype)" to change the plots generated
+for(i in unique(n$genotype)[18]){
+  new <- n[n$genotype == i, ]
+  means <- tapply(new$CumRootDis, new$Time, mean)
+  assign(paste(get("i"), "mean", sep = "."), means)
+  
+  stes <- tapply(new$CumRootDis, new$Time, sd)
+  assign(paste(get("i"), "se", sep = "."), stes)
+  
+  times <- unique(new$Time)[order(unique(new$Time))]
+  assign(paste(get("i"), "time", sep = "."), times)
+  
+  #Plot of just means
+  #plot(get(paste(get("i"), "time", sep = ".")), get((paste(get("i"), "mean", sep = "."))), ylab = paste(get("i"), "mean", sep = "."), xlab = paste(get("i"), "times", sep = "."), pch = 20)
+  
+  #Make plots with error bars
+  errbar(x = get(paste(get("i"), "time", sep = ".")), y = get((paste(get("i"), "mean", sep = "."))), yplus = get((paste(get("i"), "mean", sep = "."))) + get((paste(get("i"), "se", sep = ".")))/2, yminus = get((paste(get("i"), "mean", sep = "."))) - get((paste(get("i"), "se", sep = ".")))/2, ylab = paste(get("i"), "mean", sep = "."), xlab = paste(get("i"), "time"))
+  
+  
+}
+
+
+#Diagnostics for some problematic plots 
+n[n$genotype == "TR13C", ]
+plot(new$Time, new$CumRootDis)
+
+which(unique(n$genotype) == "Tek11")
+
+
