@@ -9,3 +9,4 @@
 * [RootNav Statisitics from EVT @ KSC summer 2016](rootnav-statisitics-from-evt-ksc-summer-2016.md)
 * [weGAS analysis codes](wegas-analysis-codes.md)
 * [RootNav2 and AstroDart in CyVerse](rootnav2-and-astrodart-in-cyverse.md)
+* [CARA root modeling template](cara-root-modeling-template.md)
