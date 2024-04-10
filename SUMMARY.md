@@ -10,3 +10,4 @@
 * [weGAS analysis codes](wegas-analysis-codes.md)
 * [RootNav2 and AstroDart in CyVerse](rootnav2-and-astrodart-in-cyverse.md)
 * [CARA root modeling template](cara-root-modeling-template.md)
+* [AstroRoot Modelling plan](astroroot-modelling-plan.md)
