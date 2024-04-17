@@ -1,4 +1,4 @@
-# Web-glyphics App: T
+# Web-glyphics App
 
 **Web-glyphics App:** This web application by Lvbauer utilizes the Astrobotany calibration sticker for image analysis (code available on GitHub):&#x20;
 

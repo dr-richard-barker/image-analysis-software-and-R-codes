@@ -14,4 +14,4 @@
 * [Space Chilie](space-chilie.md)
 * [StreamLit: PlaNet - neural web for plant detection and progress tracking](streamlit-planet-neural-web-for-plant-detection-and-progress-tracking.md)
 * [StreamLit: automated-analysis](streamlit-automated-analysis.md)
-* [Web-glyphics App: T](web-glyphics-app-t.md)
+* [Web-glyphics App](web-glyphics-app.md)
