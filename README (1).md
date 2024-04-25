@@ -1,25 +1,38 @@
----
-description: Root Navigator data visualisation
----
+# Introduction
 
-# plant-image-analysis-software-and-R-codes
+**AstroBotany Calibration Stickers:**
 
-The CPIB RootNav software has an extra feature allowing it to measure root skewing. The CPIB RootTrace software folder contains the extra .dll required to make it function.
+A consistent calibration source is crucial for accurate image analysis. We developed the Astrobotany spectrum sticker \[link to Astrobotany spectrum sticker] specifically to address this challenge and make image analysis more accessible: \[[https://astrobotany.com/product/airi-bio-imaging-spectrum-5cm/](https://astrobotany.com/product/airi-bio-imaging-spectrum-5cm/)].
 
-This repositry also contain a statisical analysis repositry deisnged to make plant image analysis easier. These codes were developed in collaboration with Ralph Møller Trane. The bar plot code development continued and led to the creation of these two R-shiny websites.
+**Image Analysis Tutorials and Tools:**
 
-For RootNav&#x20;
+While a comprehensive automated analysis tutorial is still in the works, here are some resources that might be a good starting point:
 
-{% embed url="https://rmtrane.shinyapps.io/RootNav/" %}
+* **Space Photography Guide:** This guide by Dr. Richard Barker offers tips on planning your biological photography: \[[https://dr-richard-barker.github.io/Space\_Photography\_Guide.io/](https://dr-richard-barker.github.io/Space\_Photography\_Guide.io/)].
+* **SpaceChile\_phenotyping notebook:** This Python code prototype explores image segmentation for plant detection using the PlantCV package: \[[https://github.com/dr-richard-barker/image-analysis-software-and-R-codes/blob/master/SpaceChile\_phenotyping\_v1.ipynb](SpaceChile\_phenotyping\_v1.ipynb) on GitHub].
+* **Web-glyphics App:** This web application by Lvbauer utilizes the Astrobotany calibration sticker for image analysis (code available on GitHub): \[[https://web-glyphics.streamlit.app/](https://web-glyphics.streamlit.app/)], \[[https://github.com/lvbauer/web-glyphics](https://github.com/lvbauer/web-glyphics)], \[[https://github.com/lvbauer/web-glyphics/blob/main/func/airisquare.py](https://github.com/lvbauer/web-glyphics/blob/main/func/airisquare.py)].
 
-For RootTrace&#x20;
+Streamlit Apps (Under Development):
 
-{% embed url="https://rmtrane.shinyapps.io/RootTrace/" %}
+We're also developing user-friendly Streamlit apps to simplify image analysis without requiring coding. Here are some examples currently in progress:
 
-In addition, these R-shiny sites were also found to be useful for creating Venn diagrams http://bioinfo.genotoul.fr/jvenn/example.html Philippe Bardou, Jérôme Mariette, Frédéric Escudié, Christophe Djemiel and Christophe Klopp. jvenn: an interactive Venn diagram viewer. BMC Bioinformatics 2014, 15:293 doi:10.1186/1471-2105-15-293
+* Plant Detection App: \[[https://viva-fidel-planet-main-n4sviq.streamlit.app/](https://viva-fidel-planet-main-n4sviq.streamlit.app/)]
+* Plant Health Classification App: \[[https://drplantclassifier.streamlit.app/](https://drplantclassifier.streamlit.app/)]
+* Plant Cross Section Quantification App: \[[https://nathanpouliquen-projet-m1-automated-analysis-app-it8h6s.streamlit.app/](https://nathanpouliquen-projet-m1-automated-analysis-app-it8h6s.streamlit.app/)]
 
-Box & whisker plots&#x20;
+\
 
-{% embed url="http://shiny.chemgrid.org/boxplotr/" %}
 
-Further references Hadley Wickham and Lisa Stryjewski: 40 years of boxplots Kristin Potter: Methods for Presenting Statistical Information: The Box Plot This application was created by the Tyers and Rappsilber labs. Please send bugs and feature requests to Michaela Spitzer (michaela.spitzer(at)gmail.com) and Jan Wildenhain (jan.wildenhain(at)gmail.com). This application uses the shiny package from RStudio .
+
+
+This repo contains folders full of images including Azola, Lemna, Londultia and Wolfinia.&#x20;
+
+It also contains a folder with everything needed to run the "Germinator" software.
+
+There are also a folders that contain the RootNav, RootTrace, and RootTraceV2 software.&#x20;
+
+There is python notebooks for running analysis with cellpos2.0.
+
+There is also a python notebook for spectrum, CARA, flashlapse ("Guage\_growth"), and other PlantCV ruse examples.&#x20;
+
+Morphometric\_R-cides

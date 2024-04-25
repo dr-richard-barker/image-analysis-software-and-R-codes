@@ -1,8 +1,9 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [OSDR AWG Action plan](README.md)
+* [Introduction](<README (1).md>)
 * [Example CARA root modeling example reanalysis paper](example-cara-root-modeling-example-reanalysis-paper.md)
-* [plant-image-analysis-software-and-R-codes](<README (1).md>)
+* [plant-image-analysis-software-and-R-codes](<README (1) (1).md>)
 * [Basics Statisic on RootNav](<Basics Statisic on RootNav/README.md>)
 * [Morphometric\_R-codes](Morphometric\_R-codes/README.md)
   * [Morphometric\_script\_leaves\_Dr Kribel.R](morphometric\_script\_leaves\_dr-kribel.r.md)
