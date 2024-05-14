@@ -2,6 +2,10 @@
 
 **Web-glyphics App:** This web application by Lvbauer utilizes the Astrobotany calibration sticker for image analysis (code available on GitHub):&#x20;
 
+[Link to edit poster.](https://docs.google.com/presentation/d/19s9xtd82jsaG6SnuJ\_NEHOE3KeLnSvbRns\_PrUTOokc/edit?usp=sharing)
+
+{% embed url="https://docs.google.com/presentation/d/19s9xtd82jsaG6SnuJ_NEHOE3KeLnSvbRns_PrUTOokc/edit?usp=sharing" %}
+
 {% embed url="https://web-glyphics.streamlit.app/" %}
 
 [https://web-glyphics.streamlit.app/](https://web-glyphics.streamlit.app/)
