@@ -16,3 +16,4 @@
 * [StreamLit: PlaNet - neural web for plant detection and progress tracking](streamlit-planet-neural-web-for-plant-detection-and-progress-tracking.md)
 * [StreamLit: automated-analysis](streamlit-automated-analysis.md)
 * [Web-glyphics App](web-glyphics-app.md)
+* [Spectrum sticker](spectrum-sticker.md)
