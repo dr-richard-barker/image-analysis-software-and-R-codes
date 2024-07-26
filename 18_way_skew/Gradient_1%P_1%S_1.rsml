@@ -1,0 +1,282 @@
+<rsml>
+  <metadata>
+    <version>
+    </version>
+    <unit>pixel</unit>
+    <resolution>1</resolution>
+    <last-modified>2017-11-27T09:24:33</last-modified>
+    <software>RootNav</software>
+    <user>gilroylab</user>
+    <file-key>Gradient 1%P_1%S_1</file-key>
+  </metadata>
+  <scene>
+    <plant ID="1" label="">
+      <root ID="" label="">
+        <geometry>
+          <polyline>
+            <point x="997" y="229" />
+            <point x="992.08405" y="262.05332" />
+            <point x="988" y="401" />
+            <point x="983" y="435" />
+            <point x="982" y="470" />
+            <point x="977" y="504" />
+            <point x="976" y="538" />
+          </polyline>
+          <rootnavspline controlpointseparation="40" tension="0.5">
+            <point x="997" y="229" />
+            <point x="992.21133" y="260.88761" />
+            <point x="991.9933" y="291.9622" />
+            <point x="991.30152" y="323.27971" />
+            <point x="989.7152" y="353.60662" />
+            <point x="988.58226" y="384.035" />
+            <point x="986.07186" y="414.40346" />
+            <point x="982.64332" y="444.69139" />
+            <point x="981.23882" y="475.86297" />
+            <point x="976.82451" y="506.76998" />
+            <point x="976" y="538" />
+          </rootnavspline>
+        </geometry>
+      </root>
+    </plant>
+    <plant ID="2" label="">
+      <root ID="" label="">
+        <geometry>
+          <polyline>
+            <point x="904" y="226" />
+            <point x="902.03804" y="294.55391" />
+            <point x="896.11873" y="358.64395" />
+            <point x="897.18671" y="463.44647" />
+            <point x="893.02371" y="500.54986" />
+            <point x="893" y="570" />
+          </polyline>
+          <rootnavspline controlpointseparation="40" tension="0.5">
+            <point x="904" y="226" />
+            <point x="904.03973" y="257.86775" />
+            <point x="902.37301" y="289.90211" />
+            <point x="898.84574" y="320.60192" />
+            <point x="896.4799" y="351.24197" />
+            <point x="897.04285" y="382.13225" />
+            <point x="898.09552" y="413.45134" />
+            <point x="897.76571" y="443.70003" />
+            <point x="896.15067" y="474.59814" />
+            <point x="893.00456" y="506.1295" />
+            <point x="893.9776" y="538.13225" />
+            <point x="893" y="570" />
+          </rootnavspline>
+        </geometry>
+      </root>
+    </plant>
+    <plant ID="3" label="">
+      <root ID="" label="">
+        <geometry>
+          <polyline>
+            <point x="838" y="231" />
+            <point x="845.5389" y="270.82877" />
+            <point x="848.89834" y="301.10876" />
+            <point x="849.01198" y="304.50294" />
+            <point x="836.29751" y="377.92764" />
+            <point x="836" y="381" />
+            <point x="838.0039" y="418.49097" />
+            <point x="837.00975" y="456.49677" />
+            <point x="839.01782" y="492.31947" />
+            <point x="838.93463" y="495.05862" />
+            <point x="834.07697" y="530.95298" />
+            <point x="835" y="569" />
+          </polyline>
+          <rootnavspline controlpointseparation="40" tension="0.5">
+            <point x="838" y="231" />
+            <point x="844.62469" y="264.72363" />
+            <point x="848.78163" y="299.38952" />
+            <point x="843.87837" y="333.50896" />
+            <point x="837.87136" y="367.19945" />
+            <point x="836.88271" y="400.06243" />
+            <point x="837.63716" y="432.93324" />
+            <point x="837.56417" y="466.54358" />
+            <point x="838.32031" y="500.52477" />
+            <point x="833.94044" y="535.0379" />
+            <point x="835" y="569" />
+          </rootnavspline>
+        </geometry>
+      </root>
+    </plant>
+    <plant ID="4" label="">
+      <root ID="" label="">
+        <geometry>
+          <polyline>
+            <point x="746" y="236" />
+            <point x="754.81561" y="270.01444" />
+            <point x="757.96547" y="299.90847" />
+            <point x="758.09476" y="305.40668" />
+            <point x="758" y="307" />
+            <point x="757.71987" y="308.59208" />
+            <point x="747.49499" y="340.76335" />
+            <point x="747.08199" y="342.52937" />
+            <point x="746.93775" y="343.47077" />
+            <point x="747.19488" y="376.78322" />
+            <point x="747.06225" y="378.53518" />
+            <point x="746.6839" y="380.56233" />
+            <point x="727.80366" y="446.31765" />
+            <point x="714.94484" y="522.47063" />
+            <point x="713" y="558" />
+          </polyline>
+          <rootnavspline controlpointseparation="40" tension="0.5">
+            <point x="746" y="236" />
+            <point x="754.56002" y="268.80562" />
+            <point x="758.04666" y="301.69166" />
+            <point x="749.5568" y="334.00849" />
+            <point x="747.14364" y="365.9277" />
+            <point x="741.60352" y="397.03195" />
+            <point x="732.28309" y="428.14541" />
+            <point x="725.49914" y="459.98865" />
+            <point x="720.81965" y="492.17246" />
+            <point x="714.71953" y="524.93292" />
+            <point x="713" y="558" />
+          </rootnavspline>
+        </geometry>
+      </root>
+    </plant>
+    <plant ID="5" label="">
+      <root ID="" label="">
+        <geometry>
+          <polyline>
+            <point x="655" y="234" />
+            <point x="635.26085" y="265.50258" />
+            <point x="633.43601" y="268.9866" />
+            <point x="633" y="270" />
+            <point x="632.30512" y="272.27891" />
+            <point x="623" y="344" />
+            <point x="621.19596" y="379.36369" />
+            <point x="620.82325" y="382.03021" />
+            <point x="612.18835" y="416.96979" />
+            <point x="607.94231" y="486.58368" />
+            <point x="608" y="492" />
+            <point x="613" y="528" />
+          </polyline>
+          <rootnavspline controlpointseparation="40" tension="0.5">
+            <point x="655" y="234" />
+            <point x="634.41626" y="267.04357" />
+            <point x="627.81145" y="300.64668" />
+            <point x="624.11082" y="332.68489" />
+            <point x="622.03573" y="365.31173" />
+            <point x="617.26353" y="396.68827" />
+            <point x="610.82204" y="429.31511" />
+            <point x="608.70527" y="461.35332" />
+            <point x="608.26632" y="494.95643" />
+            <point x="613" y="528" />
+          </rootnavspline>
+        </geometry>
+      </root>
+    </plant>
+    <plant ID="6" label="">
+      <root ID="" label="">
+        <geometry>
+          <polyline>
+            <point x="502" y="234" />
+            <point x="484.67033" y="269.36369" />
+            <point x="475.27163" y="301.62265" />
+            <point x="474.06573" y="307.5105" />
+            <point x="473.87882" y="309.66606" />
+            <point x="475.03214" y="344.95242" />
+            <point x="470.03722" y="382.51645" />
+            <point x="468.53101" y="451.64689" />
+            <point x="468" y="457" />
+            <point x="459.60484" y="487.48693" />
+            <point x="459.11111" y="490.03295" />
+            <point x="459" y="491" />
+            <point x="463" y="527" />
+          </polyline>
+          <rootnavspline controlpointseparation="40" tension="0.5">
+            <point x="502" y="234" />
+            <point x="485.27842" y="267.98561" />
+            <point x="475.27163" y="301.62265" />
+            <point x="474.70516" y="334.3969" />
+            <point x="472.10952" y="367.33876" />
+            <point x="469.88136" y="398.68827" />
+            <point x="469.59678" y="431.3727" />
+            <point x="466.56867" y="462.91103" />
+            <point x="459.02031" y="493.88591" />
+            <point x="463" y="527" />
+          </rootnavspline>
+        </geometry>
+      </root>
+    </plant>
+    <plant ID="7" label="">
+      <root ID="" label="">
+        <geometry>
+          <polyline>
+            <point x="418" y="226" />
+            <point x="399.79279" y="244.42643" />
+            <point x="396.65651" y="248.20604" />
+            <point x="395.60861" y="249.75296" />
+            <point x="395.35351" y="250.2046" />
+            <point x="395.14978" y="250.62094" />
+            <point x="395" y="251" />
+            <point x="394.8889" y="251.3921" />
+            <point x="394.7989" y="251.8468" />
+            <point x="394.67853" y="252.93147" />
+            <point x="394.68281" y="256.51928" />
+            <point x="397.98022" y="284.54841" />
+            <point x="397.08528" y="319.03595" />
+            <point x="384.94395" y="388.45189" />
+            <point x="382" y="423" />
+            <point x="374.9303" y="457.44448" />
+            <point x="371" y="491" />
+          </polyline>
+          <rootnavspline controlpointseparation="40" tension="0.5">
+            <point x="418" y="226" />
+            <point x="396.26268" y="248.7517" />
+            <point x="397.37489" y="279.05241" />
+            <point x="397.5677" y="309.31434" />
+            <point x="393.6792" y="339.61079" />
+            <point x="388.37486" y="368.38921" />
+            <point x="384.04828" y="398.68566" />
+            <point x="380.90531" y="428.86297" />
+            <point x="374.6036" y="459.76998" />
+            <point x="371" y="491" />
+          </rootnavspline>
+        </geometry>
+      </root>
+    </plant>
+    <plant ID="8" label="">
+      <root ID="" label="">
+        <geometry>
+          <polyline>
+            <point x="261" y="239" />
+            <point x="281.60434" y="255.85274" />
+            <point x="284.65363" y="258.82252" />
+            <point x="285.98054" y="260.35253" />
+            <point x="286.32157" y="260.80999" />
+            <point x="286.6071" y="261.23822" />
+            <point x="286.83422" y="261.63548" />
+            <point x="287" y="262" />
+            <point x="287.12168" y="262.38035" />
+            <point x="287.21909" y="262.82417" />
+            <point x="287.29327" y="263.3283" />
+            <point x="287.37601" y="264.5049" />
+            <point x="287.17293" y="269.15405" />
+            <point x="283" y="296" />
+            <point x="280.4997" y="329.03704" />
+            <point x="280.10291" y="331.52328" />
+            <point x="266.30776" y="367.96923" />
+            <point x="260.36311" y="402.24672" />
+            <point x="260" y="406" />
+            <point x="264.00287" y="478.52196" />
+            <point x="261" y="515" />
+          </polyline>
+          <rootnavspline controlpointseparation="40" tension="0.5">
+            <point x="261" y="239" />
+            <point x="285.58693" y="259.86763" />
+            <point x="283.93446" y="290.00017" />
+            <point x="281.30547" y="320.91529" />
+            <point x="271.95712" y="353.2847" />
+            <point x="262.96339" y="384.7153" />
+            <point x="260.31546" y="417.02713" />
+            <point x="262.38992" y="448.31989" />
+            <point x="263.87312" y="481.95643" />
+            <point x="261" y="515" />
+          </rootnavspline>
+        </geometry>
+      </root>
+    </plant>
+  </scene>
+</rsml>
