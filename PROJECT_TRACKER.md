@@ -222,6 +222,29 @@ Assessed → [`docs/CARA_REPO_ASSESSMENT.md`](docs/CARA_REPO_ASSESSMENT.md); cle
 
 ---
 
+## Tier 11 — ABRS prediction test + cellpose plant segmentation 🟡
+
+- [x] **ABRS angle dispersion** (`scripts/python/abrs_angle_analysis.py`) tests synthesis
+  prediction #1 → flight > ground dispersion (59.1° vs 57.7°) & deviation (51.7° vs 48.7°)
+  across 11 days, predicted direction. Single plate/condition = descriptive.
+  → [`docs/ABRS_ANGLE_FINDINGS.md`](docs/ABRS_ANGLE_FINDINGS.md).
+- [x] **Cellpose plant segmentation** (`scripts/python/cellpose_plant_segmentation.py`) — adapts
+  the cell notebooks to segment whole plants in the Lemna/Londultia 12-well plates. Works:
+  12 objects on Lemna (=12 wells), 15 on Londultia. Segments well/plant units; pure leaf area
+  needs green-tissue refinement. → [`docs/CELLPOSE_PLANTS_FINDINGS.md`](docs/CELLPOSE_PLANTS_FINDINGS.md).
+- **GPU note:** machine has a GTX 1050 Ti (4 GB) but Python 3.13 has no CUDA torch wheels →
+  CPU-only torch installed; cellpose/RootNav2 run on CPU. (A py3.11 env would unlock the GPU.)
+
+## Tier 10 — Cross-experiment synthesis ✅
+
+[`docs/CROSS_EXPERIMENT_SYNTHESIS.md`](docs/CROSS_EXPERIMENT_SYNTHESIS.md): ties the
+ground skew assay + spaceflight image sets into one model — root-angle organisation
+(*organised/handed* ↔ *dispersed/wandering*) is shifted by either the gelling agent
+(agar→handed; phytogel→wandering) or removing gravity (flight→dispersed). Angle
+metrics are the calibration-free common currency. Includes 4 testable predictions
+(ABRS quantified, sku mutants, medium×gravity interaction, CARA omics link). Linked
+from README "Analyses & findings".
+
 ## Tier 9 — Analysis of the flagship 18-way skew dataset ✅
 
 Ran a proper statistical analysis (`scripts/python/skew_analysis.py`, 483 roots)
