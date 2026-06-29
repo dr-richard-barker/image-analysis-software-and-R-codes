@@ -142,7 +142,11 @@ Reproducible analyses of the datasets here (scripts in `scripts/python/`):
   drives root skewing & handedness; sucrose/concentration do not.
 - **[OSD-121 morphometrics](docs/OSD121_MORPHOMETRIC_FINDINGS.md)** — flight roots
   more angularly dispersed; the apparent size difference was an imaging artifact.
+- **[ABRS time-lapse](docs/ABRS_ANGLE_FINDINGS.md)** — flight roots more dispersed
+  than ground over 11 days (tests synthesis prediction #1).
 - **[OSD-670 PlantCV pilot](docs/OSD670_PLANTCV_PILOT.md)** — crop leaf-area.
+- **[Cellpose plant segmentation](docs/CELLPOSE_PLANTS_FINDINGS.md)** — per-well
+  plant counts in the Lemna/Londultia plates.
 - **[OSDR plant-image catalogue](docs/OSDR_PLANT_IMAGE_DATASETS.md)** — what's in
   NASA OSDR and what to pull next.
 

@@ -228,9 +228,10 @@ Assessed → [`docs/CARA_REPO_ASSESSMENT.md`](docs/CARA_REPO_ASSESSMENT.md); cle
   prediction #1 → flight > ground dispersion (59.1° vs 57.7°) & deviation (51.7° vs 48.7°)
   across 11 days, predicted direction. Single plate/condition = descriptive.
   → [`docs/ABRS_ANGLE_FINDINGS.md`](docs/ABRS_ANGLE_FINDINGS.md).
-- [~] **Cellpose plant segmentation** (`scripts/python/cellpose_plant_segmentation.py`) — adapts
-  the cell notebooks to segment whole plants in the Lemna/Londultia 12-well plates (cellpose 4.2
-  / cellpose-SAM, version-robust). Running on CPU.
+- [x] **Cellpose plant segmentation** (`scripts/python/cellpose_plant_segmentation.py`) — adapts
+  the cell notebooks to segment whole plants in the Lemna/Londultia 12-well plates. Works:
+  12 objects on Lemna (=12 wells), 15 on Londultia. Segments well/plant units; pure leaf area
+  needs green-tissue refinement. → [`docs/CELLPOSE_PLANTS_FINDINGS.md`](docs/CELLPOSE_PLANTS_FINDINGS.md).
 - **GPU note:** machine has a GTX 1050 Ti (4 GB) but Python 3.13 has no CUDA torch wheels →
   CPU-only torch installed; cellpose/RootNav2 run on CPU. (A py3.11 env would unlock the GPU.)
 
