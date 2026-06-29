@@ -59,10 +59,12 @@ currency for comparing across these heterogeneously-imaged datasets.
 
 ## Testable predictions
 
-1. **ABRS, quantified:** running the angle-dispersion pipeline (RootNav2 Path A,
-   or the model-free Path B in [`notebooks/rootnav2/`](../notebooks/rootnav2/))
-   on ABRS flight vs ground should reproduce **flight > ground dispersion**, as
-   OSD-121 did.
+1. **ABRS, quantified:** ✅ **TESTED** — flight roots show consistently higher
+   angle dispersion (59.1° vs 57.7°) and deviation from vertical (51.7° vs 48.7°)
+   than ground across the 11-day time course, in the predicted direction. It is a
+   single plate per condition (descriptive, not powered) — see
+   [ABRS findings](ABRS_ANGLE_FINDINGS.md). Direction confirmed; statistical power
+   awaits more independent plates.
 2. **Genetics (APEX-03):** `sku` mutants — already perturbed in handed skewing on
    the ground — should show an **altered dispersion response** to spaceflight vs WT.
 3. **Medium × gravity interaction:** phytogel-grown roots (already non-handed on
