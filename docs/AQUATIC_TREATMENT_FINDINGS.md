@@ -9,29 +9,47 @@ outputs in `results/aquatic_treatments/`.
 
 ## Result — GA + nutrients drive plant growth (all 4 species)
 
-Mean green plant-blob area (px), pooled across species and images:
+**Calibrated** to mm² via the cm ruler in each photo (FFT tick detection →
+median **18.5 px/mm**). Mean green plant area, pooled across species & images:
 
-| Treatment | Mean area | vs Water |
-|-----------|----------:|---------:|
-| Water | 385 | 1.0× |
-| Nutrients | 557 | 1.4× |
-| GA | 684 | 1.8× |
-| **GA + Nutrient** | **1577** | **4.1×** |
+| Treatment | Mean area (mm²) | vs Water |
+|-----------|----------------:|---------:|
+| Water | 15.6 | 1.0× |
+| Nutrients | 22.6 | 1.4× |
+| GA | 27.7 | 1.8× |
+| **GA + Nutrient** | **64.0** | **4.1×** |
 
-Total green area by species & treatment — **GA+Nutrient is the largest in every
+Total green area (mm²) by species & treatment — **GA+Nutrient is largest in every
 species**:
 
 | Species | Water | GA | Nutrients | GA+Nutrient |
 |---------|------:|----:|----------:|------------:|
-| Azola | 7,199 | 30,189 | 23,636 | **159,785** |
-| Lemna | 8,692 | 10,123 | 8,463 | **19,713** |
-| Londultia | 9,590 | 9,526 | 13,682 | **18,632** |
-| Wolfinia | 1,451 | 1,455 | 2,699 | **6,888** |
+| Azola | 292 | 1,225 | 959 | **6,483** |
+| Lemna | 353 | 411 | 343 | **800** |
+| Londultia | 389 | 387 | 555 | **756** |
+| Wolfinia | 59 | 59 | 110 | **280** |
 
-**Interpretation.** Gibberellic acid (GA) and added nutrients each increase plant
-size over water, and **together they act more than additively** (≈4× water) — a
-clear, consistent growth response across all four aquatic species. *Azolla*
-responds most dramatically.
+**Interpretation.** GA and added nutrients each increase plant size over water,
+and **together they act more than additively** (≈4× water) — consistent across
+all four aquatic species. *Azolla* responds most dramatically.
+
+## Growth curves (if the images are a time series)
+
+Ordering each folder's 5 images by IMG number (assumed time) and plotting total
+mm² per treatment (`growth_curves.png`) gives a clear separation. Linear
+growth-rate (slope of total mm² vs sequence step, pooled species):
+
+| Treatment | Growth rate (mm²/step) | vs Water |
+|-----------|-----------------------:|---------:|
+| Water | 7.7 | 1.0× |
+| Nutrients | 21.1 | 2.7× |
+| GA | 33.7 | 4.4× |
+| **GA + Nutrient** | **245.2** | **32×** |
+
+GA+Nutrient plants grow ~**32× faster** than water; water-only plants are nearly
+flat. The GA+Nutrient curve looks exponential (≈90 → ≈1030 mm² over the series).
+**This is contingent on the images being an ordered time series** — confirm before
+treating these as growth rates.
 
 ## Caveats (read before quoting numbers)
 
@@ -46,7 +64,8 @@ responds most dramatically.
   timepoints and the means are **descriptive, not statistically powered** — no
   significance test is claimed. The strength here is the **consistent direction
   across 4 independent species**.
-- Absolute areas are uncalibrated px (each plate has a ruler → px→mm is possible).
+- Areas are now **ruler-calibrated to mm²** (median 18.5 px/mm); the per-image
+  ruler reads were consistent, so calibration is reliable.
 
 ## Reproduce
 ```bash
@@ -55,7 +74,8 @@ python scripts/python/aquatic_treatment_analysis.py
 ```
 
 ## Next steps
-- Confirm plate orientation + whether images are timepoints or replicates.
-- Ruler-calibrate to mm²; if time-lapse, fit per-well growth curves.
+- **Confirm plate orientation + whether images are timepoints or replicates** —
+  this is the one input that turns the growth curves from indicative to rigorous.
+- ✅ Ruler-calibrated to mm²; ✅ growth curves fitted (above).
 - Resolve the species names (`Azola`→*Azolla*, `Wolfinia`→*Wolffia*?,
   `Londultia`→*Landoltia*?) — see [data dictionary](DATA_DICTIONARY.md).

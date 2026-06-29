@@ -31,14 +31,20 @@ gives reliable **plant-per-well counts** and a per-well size proxy.
   [`plantcv_crops_leafarea.py`](../scripts/python/plantcv_crops_leafarea.py)
   is the complementary tool), or tune `--diameter` to the plant size.
 
-## Performance note (environment)
+## Performance — CPU vs GPU (resolved)
 
-This machine has a GTX 1050 Ti, but **Python 3.13 has no CUDA torch wheels** and
-**cellpose 3.x won't build on 3.13**, so only **cellpose 4.x (SAM, a ViT)** is
-available, on **CPU**: ~24 min/image at 512 px (≈10 min at 384 px). Full-batch
-processing is impractical here. To run all plates quickly, use a **Python 3.11
-env** — that unlocks both the GPU (`pip install torch --index-url .../cu121`) and
-cellpose 3.x's fast CNN models, dropping inference to seconds per image.
+cellpose 4.x (SAM, a ViT) is the only cellpose installable on Python 3.13. On
+**CPU** it took ~24 min/image — impractical. Installing a **CUDA build of torch**
+(`torch 2.6.0+cu124`, which *does* have py3.13 wheels — the earlier `cu121`
+index did not) put it on the **GTX 1050 Ti GPU**: **~4 s/image**, a ~300×
+speedup, no OOM at 448 px on 4 GB VRAM. The full 20-image aquatic batch then ran
+in ~2 minutes.
+
+Full GPU batch (all 4 aquatic folders, `--target-w 448`): ~12 objects/plate
+consistently (= the 12 wells), with total object area near-constant (~75k px) —
+confirming cellpose segments the **wells/plant-units** (uniform), which is why
+the green-tissue analysis (`aquatic_treatment_analysis.py`) is the tool for plant
+**size** and cellpose is the tool for **counts**.
 
 ## Reproduce
 

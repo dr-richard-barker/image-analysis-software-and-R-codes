@@ -235,14 +235,23 @@ Assessed → [`docs/CARA_REPO_ASSESSMENT.md`](docs/CARA_REPO_ASSESSMENT.md); cle
 - **GPU note:** machine has a GTX 1050 Ti (4 GB) but Python 3.13 has no CUDA torch wheels →
   CPU-only torch installed; cellpose/RootNav2 run on CPU. (A py3.11 env would unlock the GPU.)
 
-## Tier 12 — Aquatic GA × nutrient experiment ✅
+## Tier 13 — GPU enabled ✅
 
-`scripts/python/aquatic_treatment_analysis.py` on the Lemna/Londultia/Azola/Wolfinia
-12-well plates → **GA + nutrients increase plant size ~4× over water, consistent
-across all 4 species** (Water 385 < Nutrients 557 < GA 684 < GA+Nutrient 1577 px
-mean area). → [`docs/AQUATIC_TREATMENT_FINDINGS.md`](docs/AQUATIC_TREATMENT_FINDINGS.md).
-Caveats: blob area not true counts; column→treatment mapping & timepoint-vs-replicate
-need confirmation (descriptive, not powered).
+`torch 2.6.0+cu124` (py3.13 CUDA wheels from the cu124 index — cu121 had none)
+→ **GTX 1050 Ti now active**. cellpose GPU = **~4 s/image** (was ~24 min CPU,
+~300×). Full 20-image aquatic cellpose batch ran in ~2 min. requirements.txt note
+added. RootNav2 Path A is now feasible to attempt on-GPU (next).
+
+## Tier 12 — Aquatic GA × nutrient experiment ✅ (calibrated + growth curves)
+
+`scripts/python/aquatic_treatment_analysis.py` on the 4 aquatic 12-well plates →
+**GA + nutrients increase plant size ~4× over water, consistent across all 4
+species** (Water 15.6 < Nutrients 22.6 < GA 27.7 < GA+Nutrient **64.0 mm²**).
+**Ruler-calibrated** to mm² (18.5 px/mm). **Growth curves** (images as assumed
+time series): GA+Nutrient grows **~32× faster** than water (245 vs 7.7 mm²/step).
+→ [`docs/AQUATIC_TREATMENT_FINDINGS.md`](docs/AQUATIC_TREATMENT_FINDINGS.md).
+Caveats: green-blob area not true counts; column→treatment mapping &
+timepoint-vs-replicate need confirmation.
 
 ## Tier 10 — Cross-experiment synthesis ✅
 
