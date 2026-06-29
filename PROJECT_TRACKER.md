@@ -235,6 +235,15 @@ Assessed → [`docs/CARA_REPO_ASSESSMENT.md`](docs/CARA_REPO_ASSESSMENT.md); cle
 - **GPU note:** machine has a GTX 1050 Ti (4 GB) but Python 3.13 has no CUDA torch wheels →
   CPU-only torch installed; cellpose/RootNav2 run on CPU. (A py3.11 env would unlock the GPU.)
 
+## Tier 12 — Aquatic GA × nutrient experiment ✅
+
+`scripts/python/aquatic_treatment_analysis.py` on the Lemna/Londultia/Azola/Wolfinia
+12-well plates → **GA + nutrients increase plant size ~4× over water, consistent
+across all 4 species** (Water 385 < Nutrients 557 < GA 684 < GA+Nutrient 1577 px
+mean area). → [`docs/AQUATIC_TREATMENT_FINDINGS.md`](docs/AQUATIC_TREATMENT_FINDINGS.md).
+Caveats: blob area not true counts; column→treatment mapping & timepoint-vs-replicate
+need confirmation (descriptive, not powered).
+
 ## Tier 10 — Cross-experiment synthesis ✅
 
 [`docs/CROSS_EXPERIMENT_SYNTHESIS.md`](docs/CROSS_EXPERIMENT_SYNTHESIS.md): ties the

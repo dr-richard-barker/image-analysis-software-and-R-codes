@@ -147,6 +147,8 @@ Reproducible analyses of the datasets here (scripts in `scripts/python/`):
 - **[OSD-670 PlantCV pilot](docs/OSD670_PLANTCV_PILOT.md)** — crop leaf-area.
 - **[Cellpose plant segmentation](docs/CELLPOSE_PLANTS_FINDINGS.md)** — per-well
   plant counts in the Lemna/Londultia plates.
+- **[Aquatic treatment experiment](docs/AQUATIC_TREATMENT_FINDINGS.md)** — GA +
+  nutrients increase plant size ~4× across all four aquatic species.
 - **[OSDR plant-image catalogue](docs/OSDR_PLANT_IMAGE_DATASETS.md)** — what's in
   NASA OSDR and what to pull next.
 
