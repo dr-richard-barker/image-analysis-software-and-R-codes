@@ -1,6 +1,9 @@
-## R-Script created to plot Brachypodium root tip reorientation kinetics 
+## R-Script created to plot Brachypodium root tip reorientation kinetics
 
-r <- read.csv("~/Desktop/c.csv", header = T)
+library("here")   # portable paths relative to the repo root (see .here)
+# Place c.csv in data/tables/ (see data/tables/README.md).
+# Original hard-coded path was: read.csv("~/Desktop/c.csv", header = T)
+r <- read.csv(here::here("data", "tables", "c.csv"), header = T)
 
 length(unique(r$genotype))
 

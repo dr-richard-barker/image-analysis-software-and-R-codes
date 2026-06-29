@@ -1,0 +1,44 @@
+{
+  "title": "Image Analysis Software and R Codes for Astrobotany Root and Plant Phenotyping",
+  "description": "A collection of image-analysis software, Jupyter/Colab notebooks, R scripts, example image datasets, and RSML root-architecture traces used in spaceflight-related astrobotany experiments (incl. ISS APEX-03 and ABRS). Includes workflows for RootNav, RootTrace, Germinator, PlantCV, and Cellpose, with an emphasis on measuring root system architecture and exporting data in the open RSML format. Code is MIT-licensed; data, images, and RSML are released under CC-BY-4.0 (see LICENSE and LICENSE-DATA.md).",
+  "upload_type": "software",
+  "license": "MIT",
+  "access_right": "open",
+  "creators": [
+    {
+      "name": "Barker, Richard"
+    }
+  ],
+  "contributors": [
+    { "name": "Trane, Ralph Møller", "type": "Other" },
+    { "name": "Gilroy Lab, University of Wisconsin–Madison", "type": "ResearchGroup" }
+  ],
+  "keywords": [
+    "astrobotany",
+    "root system architecture",
+    "RSML",
+    "plant phenotyping",
+    "image analysis",
+    "spaceflight",
+    "microgravity",
+    "Arabidopsis thaliana",
+    "PlantCV",
+    "RootNav",
+    "NASA OSDR",
+    "GeneLab"
+  ],
+  "related_identifiers": [
+    {
+      "relation": "isSupplementTo",
+      "identifier": "https://github.com/dr-richard-barker/image-analysis-software-and-R-codes",
+      "scheme": "url"
+    },
+    {
+      "relation": "references",
+      "identifier": "10.1104/pp.113.221531",
+      "scheme": "doi",
+      "resource_type": "publication-article"
+    }
+  ],
+  "notes": "Bundled third-party tools (RootNav, RootTrace, Germinator) retain their own upstream licenses and are not redistributed in version control — see software/README.md. Spaceflight imagery (APEX-03, ABRS) is NASA-derived; see LICENSE-DATA.md for attribution."
+}

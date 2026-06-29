@@ -1,0 +1,37 @@
+# --- Bundled third-party binaries: do NOT commit (see software/README.md) ---
+# These belong in GitHub Releases or upstream, not in version control.
+*.exe
+*.dll
+*.msi
+*.chm
+*.lnk
+
+# Large bundled archives / derived videos
+Germinator/GERMINATOR.zip
+*.avi
+
+# If you must keep a specific binary in-tree, track it with Git LFS
+# (see .gitattributes) and add a negation here, e.g.:
+# !path/to/required.dll
+
+# --- Derived/generated outputs (e.g. RootNav2 pilot notebook results) ---
+results/
+
+# --- OS / editor cruft ---
+.DS_Store
+._*
+Thumbs.db
+*.db
+
+# --- Python ---
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# --- R ---
+.Rhistory
+.RData
+.Rproj.user/

@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Modulation of Photomorphogenesis in Spaceflight Influences Root System Architecture (CARA — GeneLab AWG analysis)"
+abstract: >-
+  OSDR Analysis Working Group re-analysis and manuscript for the CARA spaceflight
+  experiment: root-tip transcriptomic/epigenetic mapping, GO/PPI network
+  enrichment, and intersection of root-skewing loci with OSDR spaceflight data,
+  alongside root morphometric/physiology analyses.
+type: dataset
+authors:
+  - family-names: Barker
+    given-names: Richard
+    # orcid: "https://orcid.org/0000-0000-0000-0000"  # TODO
+  # TODO: add co-authors / AWG contributors
+repository-code: "https://github.com/dr-richard-barker/CARA_GeneLab_AWG"
+url: "https://github.com/dr-richard-barker/CARA_GeneLab_AWG"
+keywords:
+  - astrobotany
+  - spaceflight
+  - Arabidopsis thaliana
+  - root system architecture
+  - photomorphogenesis
+  - root skewing
+  - GO enrichment
+  - NASA OSDR
+  - GeneLab
+license: CC-BY-4.0
+# doi: "10.5281/zenodo.xxxxxxx"   # TODO after Zenodo release
+references:
+  - type: data
+    title: "CARA / APEX spaceflight study (NASA OSDR)"
+    notes: "Record the OSD accession(s), e.g. OSD-120, and link them here."

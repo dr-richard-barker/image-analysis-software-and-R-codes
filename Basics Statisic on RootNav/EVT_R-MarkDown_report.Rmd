@@ -17,17 +17,20 @@ install.packages("ggplot2")
 install.packages("xtable")
 ```
 Then activate them
-```{r} 
+```{r}
 library ('car')
 library ('dplyr')
 library ('ggplot2')
 library(xtable)
+library(here)   # portable paths relative to the repo root (see .here)
 ```
 
 The data is imported and then can be summarised as a table
 
 ```{r, echo=FALSE}
-EVT_Root_measurements <- read.csv ("~/Downloads/Google Drive/R & Stats/APIX5 & thermal test/EVT_Root_measurements.csv")
+# Place EVT_Root_measurements.csv in data/tables/ (see data/tables/README.md).
+# Original hard-coded path: "~/Downloads/Google Drive/R & Stats/APIX5 & thermal test/EVT_Root_measurements.csv"
+EVT_Root_measurements <- read.csv(here::here("data", "tables", "EVT_Root_measurements.csv"))
 knitr::kable(summary(EVT_Root_measurements))
 knitr::kable(str(EVT_Root_measurements))
 ```

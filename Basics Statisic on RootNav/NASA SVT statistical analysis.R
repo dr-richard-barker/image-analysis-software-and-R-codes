@@ -1,6 +1,9 @@
 # NASA SVT Data Analyses
 
-Root <- read.csv("~/Desktop/Root measurements_KSC_SVT_processed.csv")
+library("here")   # portable paths relative to the repo root (see .here)
+# Place the CSV in data/tables/ (see data/tables/README.md).
+# Original hard-coded path was: read.csv("~/Desktop/Root measurements_KSC_SVT_processed.csv")
+Root <- read.csv(here::here("data", "tables", "Root measurements_KSC_SVT_processed.csv"))
 str(Root)
 
 # Checking distributions
