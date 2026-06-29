@@ -222,6 +222,16 @@ Assessed → [`docs/CARA_REPO_ASSESSMENT.md`](docs/CARA_REPO_ASSESSMENT.md); cle
 
 ---
 
+## Tier 10 — Cross-experiment synthesis ✅
+
+[`docs/CROSS_EXPERIMENT_SYNTHESIS.md`](docs/CROSS_EXPERIMENT_SYNTHESIS.md): ties the
+ground skew assay + spaceflight image sets into one model — root-angle organisation
+(*organised/handed* ↔ *dispersed/wandering*) is shifted by either the gelling agent
+(agar→handed; phytogel→wandering) or removing gravity (flight→dispersed). Angle
+metrics are the calibration-free common currency. Includes 4 testable predictions
+(ABRS quantified, sku mutants, medium×gravity interaction, CARA omics link). Linked
+from README "Analyses & findings".
+
 ## Tier 9 — Analysis of the flagship 18-way skew dataset ✅
 
 Ran a proper statistical analysis (`scripts/python/skew_analysis.py`, 483 roots)

@@ -131,6 +131,21 @@ CSVs are not yet committed; see the [project tracker](PROJECT_TRACKER.md).)
 
 ---
 
+## Analyses & findings
+
+Reproducible analyses of the datasets here (scripts in `scripts/python/`):
+
+- **[Cross-experiment synthesis](docs/CROSS_EXPERIMENT_SYNTHESIS.md)** — how the
+  ground skew assay and the spaceflight image sets tell one story (root-angle
+  organisation), with a unifying model + testable predictions. **Start here.**
+- **[18-way skew assay](docs/SKEW_ANALYSIS_FINDINGS.md)** — gelling agent (agar)
+  drives root skewing & handedness; sucrose/concentration do not.
+- **[OSD-121 morphometrics](docs/OSD121_MORPHOMETRIC_FINDINGS.md)** — flight roots
+  more angularly dispersed; the apparent size difference was an imaging artifact.
+- **[OSD-670 PlantCV pilot](docs/OSD670_PLANTCV_PILOT.md)** — crop leaf-area.
+- **[OSDR plant-image catalogue](docs/OSDR_PLANT_IMAGE_DATASETS.md)** — what's in
+  NASA OSDR and what to pull next.
+
 ## Related tools & web apps
 
 - **AstroBotany Spectrum calibration sticker** — https://astrobotany.com/product/airi-bio-imaging-spectrum-5cm/
