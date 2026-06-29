@@ -98,7 +98,7 @@ def main():
     ap.add_argument('--limit', type=int, default=0, help='process only first N images per folder (0 = all)')
     ap.add_argument('--target-w', type=int, default=TARGET_W, help='downscale width (smaller = faster on CPU)')
     args = ap.parse_args()
-    global TARGET_W; TARGET_W = args.target_w
+    globals()['TARGET_W'] = args.target_w   # override module default for analyse()
 
     repo = find_repo_root()
     out = repo / 'results' / 'cellpose_plants'; out.mkdir(parents=True, exist_ok=True)
