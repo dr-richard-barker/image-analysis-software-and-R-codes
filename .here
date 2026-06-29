@@ -1,0 +1,3 @@
+This empty sentinel file marks the repository root for the R `here` package, so
+scripts can resolve data paths with here::here("data/tables/...") regardless of
+the working directory. See install.R and data/tables/README.md.

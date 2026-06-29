@@ -1,0 +1,32 @@
+# Git LFS configuration — ALTERNATIVE to removing binaries (see software/README.md).
+#
+# By default this repository does NOT track binaries at all (see .gitignore).
+# If you decide instead to keep some binaries in-tree, enable Git LFS:
+#
+#   git lfs install
+#   git lfs track "*.msi"        # for example
+#   git add .gitattributes <file>
+#
+# and remove the corresponding ignore rule from .gitignore. The lines below are
+# provided (commented) as ready-made LFS rules:
+#
+# *.exe  filter=lfs diff=lfs merge=lfs -text
+# *.dll  filter=lfs diff=lfs merge=lfs -text
+# *.msi  filter=lfs diff=lfs merge=lfs -text
+# *.zip  filter=lfs diff=lfs merge=lfs -text
+# *.avi  filter=lfs diff=lfs merge=lfs -text
+
+# --- Treat data/image formats as binary (no line-ending munging, no diff) ---
+*.jpg   binary
+*.jpeg  binary
+*.png   binary
+*.bmp   binary
+*.avi   binary
+*.acr   binary
+*.pdf   binary
+*.dll   binary
+*.exe   binary
+*.msi   binary
+
+# --- RSML is XML text: normalize line endings, allow diffs ---
+*.rsml  text eol=lf

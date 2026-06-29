@@ -1,0 +1,17 @@
+# Drop-in .gitignore for CARA_GeneLab_AWG (rename to ".gitignore" in that repo).
+# Keeps the repo lean: source data + manuscript stay; vendored web app, large
+# binaries, and OS cruft go to Releases / stay out of git.
+
+# Vendored Cytoscape.js export (keep the source .xgmml/.cys in results/Enrichment_*)
+results/CyJS/
+
+# Large binaries -> prefer GitHub Releases
+*.pptx
+
+# OS / editor cruft
+.DS_Store
+._*
+Thumbs.db
+
+# Backups left by sed during tidy
+*.bak

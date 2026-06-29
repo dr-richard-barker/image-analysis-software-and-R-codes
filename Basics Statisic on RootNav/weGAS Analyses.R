@@ -1,10 +1,13 @@
 library("MASS")
 library("stats")
+library("here")   # portable paths relative to the repo root (see .here)
 
 # WeGas Analyses
 
 # upload data
-weGAS <- read.csv("~/Desktop/weGAS.csv")
+# Place weGAS.csv in data/tables/ (see data/tables/README.md).
+# Original hard-coded path was: read.csv("~/Desktop/weGAS.csv")
+weGAS <- read.csv(here::here("data", "tables", "weGAS.csv"))
 View(weGAS)
 str(weGAS)
 

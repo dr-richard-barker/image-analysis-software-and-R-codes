@@ -1,0 +1,42 @@
+# Python dependencies for the notebooks and scripts in this repository.
+#
+# These cover the *.ipynb notebooks (PlantCV, Cellpose, "gauge growth",
+# SpaceChile, CARA, Spectrum) and the Python scripts (Plant_gauge_growth.py,
+# an_attempt_to_gauge_growth(streamlist_test).py).
+#
+# Install with:   pip install -r requirements.txt
+#
+# Notes:
+#  * In Google Colab most of these are preinstalled; you typically only need
+#    `plantcv` and `cellpose` (the notebooks pip-install them inline).
+#  * Cellpose pulls in PyTorch. On a local machine install the torch build that
+#    matches your CUDA/CPU setup from https://pytorch.org/get-started/locally/
+#  * PlantCV historically pins opencv to `opencv-python-headless<4.3` in some
+#    notebooks; if you hit OpenCV errors, install that pinned version.
+
+# --- Core image / data stack ---
+numpy
+pandas
+matplotlib
+scikit-image
+opencv-python-headless
+pillow
+natsort
+tqdm
+tabulate
+requests
+
+# --- Plotting / dashboards ---
+seaborn
+plotly
+altair
+streamlit
+
+# --- Plant phenotyping ---
+plantcv
+
+# --- Deep-learning cell/root segmentation ---
+cellpose
+torch
+torchvision
+torchaudio

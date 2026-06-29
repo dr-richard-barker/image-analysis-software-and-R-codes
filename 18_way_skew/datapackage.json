@@ -1,0 +1,111 @@
+{
+  "name": "18-way-skew-rsml",
+  "title": "18-way nutritional root-skew assay (RSML root traces)",
+  "description": "RootNav v1 root-system-architecture traces of Arabidopsis seedlings grown on 18 media treatments (gelling agent agar/phytogel x concentration x sucrose), used to study root skewing. 53 RSML files, ~500 traced primary roots. See ../docs/DATA_DICTIONARY.md for the full treatment design and the pixel-calibration caveat.",
+  "keywords": ["astrobotany", "root system architecture", "RSML", "skew", "Arabidopsis", "agar", "phytogel", "sucrose"],
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "title": "Creative Commons Attribution 4.0 International",
+      "path": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "contributors": [
+    { "title": "Richard Barker", "role": "author" },
+    { "title": "Gilroy Lab (UW-Madison)", "role": "contributor" }
+  ],
+  "homepage": "https://github.com/dr-richard-barker/image-analysis-software-and-R-codes",
+  "created": "2017-11-27",
+  "resources": [
+    {
+      "name": "skew-index",
+      "title": "Per-file treatment index",
+      "description": "One row per RSML file: parsed treatment factors and trace metadata. Generated from the filenames and RSML <metadata> blocks.",
+      "path": "index.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "primaryKey": "filename",
+        "missingValues": [""],
+        "fields": [
+          { "name": "filename", "type": "string", "title": "RSML file name", "constraints": { "unique": true, "required": true } },
+          { "name": "gelling_agent", "type": "string", "title": "Gelling agent", "constraints": { "enum": ["agar", "phytogel"] } },
+          { "name": "gelling_pct", "type": "number", "title": "Gelling-agent concentration", "unit": "% w/v", "constraints": { "enum": [0.5, 1, 1.5] } },
+          { "name": "sucrose_pct", "type": "number", "title": "Sucrose concentration", "unit": "% w/v", "constraints": { "enum": [0, 0.3, 1] } },
+          { "name": "replicate", "type": "integer", "title": "Replicate number", "constraints": { "minimum": 1 } },
+          { "name": "n_plants", "type": "integer", "title": "Number of plants traced in the file" },
+          { "name": "n_roots", "type": "integer", "title": "Number of roots traced in the file" },
+          { "name": "unit", "type": "string", "title": "RSML coordinate unit", "description": "'pixel' here -> traces are NOT calibrated to mm" },
+          { "name": "resolution", "type": "string", "title": "RSML resolution (pixels per unit)" },
+          { "name": "software", "type": "string", "title": "Tracing software" },
+          { "name": "last_modified", "type": "datetime", "title": "Trace last-modified timestamp" }
+        ]
+      }
+    },
+    {
+      "name": "rsml-traces",
+      "title": "RSML root traces",
+      "description": "The 53 RSML root-system-architecture files. RSML is an open XML standard (https://rootsystemml.github.io/). Geometry only (polyline + spline); coordinates in pixels.",
+      "profile": "data-resource",
+      "format": "rsml",
+      "mediatype": "application/xml",
+      "path": [
+        "Gradient_0.5%A_0%S_1.rsml",
+        "Gradient_0.5%A_0%S_2.rsml",
+        "Gradient_0.5%A_0%S_3.rsml",
+        "Gradient_0.5%A_0.3%S_1.rsml",
+        "Gradient_0.5%A_0.3%S_2.rsml",
+        "Gradient_0.5%A_0.3%S_3.rsml",
+        "Gradient_0.5%A_0.3%S_4.rsml",
+        "Gradient_0.5%A_1%S_1.rsml",
+        "Gradient_0.5%A_1%S_2.rsml",
+        "Gradient_0.5%A_1%S_3.rsml",
+        "Gradient_0.5%P_0%S_1.rsml",
+        "Gradient_0.5%P_0%S_2.rsml",
+        "Gradient_0.5%P_0%S_3.rsml",
+        "Gradient_0.5%P_0.3%S_1.rsml",
+        "Gradient_0.5%P_0.3%S_2.rsml",
+        "Gradient_0.5%P_0.3%S_3.rsml",
+        "Gradient_0.5%P_0.3%S_4.rsml",
+        "Gradient_0.5%P_1%S_1.rsml",
+        "Gradient_0.5%P_1%S_2.rsml",
+        "Gradient_1%A_0%S_1.rsml",
+        "Gradient_1%A_0%S_2.rsml",
+        "Gradient_1%A_0%S_3.rsml",
+        "Gradient_1%A_0.3%S_1.rsml",
+        "Gradient_1%A_0.3%S_2.rsml",
+        "Gradient_1%A_0.3%S_3.rsml",
+        "Gradient_1%A_1%S_1.rsml",
+        "Gradient_1%A_1%S_2.rsml",
+        "Gradient_1%A_1%S_3.rsml",
+        "Gradient_1%P_0%S_1.rsml",
+        "Gradient_1%P_0%S_2.rsml",
+        "Gradient_1%P_0%S_3.rsml",
+        "Gradient_1%P_0.3%S_1.rsml",
+        "Gradient_1%P_0.3%S_2.rsml",
+        "Gradient_1%P_0.3%S_3.rsml",
+        "Gradient_1%P_1%S_1.rsml",
+        "Gradient_1%P_1%S_2.rsml",
+        "Gradient_1%P_1%S_3.rsml",
+        "Gradient_1.5%A_0%S_1.rsml",
+        "Gradient_1.5%A_0%S_2.rsml",
+        "Gradient_1.5%A_0%S_3.rsml",
+        "Gradient_1.5%A_0.3%S_1.rsml",
+        "Gradient_1.5%A_0.3%S_2.rsml",
+        "Gradient_1.5%A_1%S_1.rsml",
+        "Gradient_1.5%A_1%S_2.rsml",
+        "Gradient_1.5%A_1%S_3.rsml",
+        "Gradient_1.5%P_0%S_1.rsml",
+        "Gradient_1.5%P_0%S_2.rsml",
+        "Gradient_1.5%P_0%S_3.rsml",
+        "Gradient_1.5%P_0.3%S_2.rsml",
+        "Gradient_1.5%P_0.3%S_3.rsml",
+        "Gradient_1.5%P_1%S_1.rsml",
+        "Gradient_1.5%P_1%S_2.rsml",
+        "Gradient_1.5%P_1%S_3.rsml"
+      ]
+    }
+  ]
+}

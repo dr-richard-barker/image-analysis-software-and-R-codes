@@ -1,6 +1,16 @@
-setwd("~/Dropbox/1_misc/Richards_plots/outlines_edited")
-setwd("~/USB20FD/Hyperspectral_exp_Photo/Exported_for_processing/JPEG")
-setwd("/Volumes/Data_Drive/Hyperspectral_images_JPEG_centered/JPEG")
+library(here)   # portable paths relative to the repo root (see .here)
+
+# --- Configure the leaf-image directory -------------------------------------
+# The leaf JPEGs analysed here are an EXTERNAL dataset (originally on Dropbox /
+# USB / Data_Drive) and are not committed to this repo. Point image_dir at your
+# local copy of the centered leaf JPEGs before running.
+# Original hard-coded paths were:
+#   "~/Dropbox/1_misc/Richards_plots/outlines_edited"
+#   "~/USB20FD/Hyperspectral_exp_Photo/Exported_for_processing/JPEG"
+#   "/Volumes/Data_Drive/Hyperspectral_images_JPEG_centered/JPEG"
+image_dir <- Sys.getenv("LEAF_IMAGE_DIR", unset = here::here("data", "images", "leaves"))
+setwd(image_dir)
+# ----------------------------------------------------------------------------
 
 library(Momocs)
 ### ### ### ### ### ### ### 
@@ -23,7 +33,7 @@ library(dplyr)
 library(reshape2)
 
 ########## run this script to center the images...
-setwd("/Volumes/Data_Drive/Hyperspectral_images_JPEG/")
+setwd(Sys.getenv("LEAF_IMAGE_DIR_UNCENTERED", unset = image_dir))  # was: "/Volumes/Data_Drive/Hyperspectral_images_JPEG/"
 jpg_list <- list.files(pattern = ".jpg")
 for (file in jpg_list){
   test <- readJPEG(source = file)
@@ -60,7 +70,7 @@ for (file in jpg_list){
 panel(leaves, col=1)
 
 ### Lets read in the grouping variable which is in the folder with the outlines
-read.csv("groups.csv")-> groups
+read.csv(here::here("data", "tables", "groups.csv"))-> groups  # was: read.csv("groups.csv")
 groups_leaves <-data.frame(groups[,1:2])
 leaves$fac <- groups_leaves
 

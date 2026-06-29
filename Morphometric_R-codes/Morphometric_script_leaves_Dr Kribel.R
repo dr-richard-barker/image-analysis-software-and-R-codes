@@ -1,4 +1,7 @@
-setwd("~/Dropbox/1_misc/Richards_plots/outlines_edited")
+library(here)   # portable paths relative to the repo root (see .here)
+# Leaf JPEGs are an EXTERNAL dataset not committed to this repo — point
+# LEAF_IMAGE_DIR at your local copy (was: "~/Dropbox/1_misc/Richards_plots/outlines_edited").
+setwd(Sys.getenv("LEAF_IMAGE_DIR", unset = here::here("data", "images", "leaves")))
 library(Momocs)
 ### ### ### ### ### ### ### 
 ### First we read in the outlines
@@ -12,7 +15,7 @@ Out(returns_leaves)-> leaves
 panel(leaves, col=1)
 
 ### Lets read in the grouping variable which is in the folder with the outlines
-read.csv("groups.csv")-> groups
+read.csv(here::here("data", "tables", "groups.csv"))-> groups  # was: read.csv("groups.csv")
 groups_leaves <-data.frame(groups[,1:2])
 leaves$fac <- groups_leaves
 

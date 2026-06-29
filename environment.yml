@@ -1,0 +1,40 @@
+# Conda environment for the notebooks/scripts in this repository.
+# Mirror of requirements.txt for users who prefer conda.
+#
+#   conda env create -f environment.yml
+#   conda activate astrobotany-image-analysis
+#
+# Notes:
+#  * Cellpose pulls in PyTorch. The pip line below installs the CPU build; for
+#    GPU, install the CUDA-matched torch from https://pytorch.org/ instead.
+#  * PlantCV and Cellpose are installed via pip (most reliable across platforms).
+name: astrobotany-image-analysis
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  # --- Core image / data stack ---
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-image
+  - pillow
+  - natsort
+  - tqdm
+  - tabulate
+  - requests
+  # --- Plotting / dashboards ---
+  - seaborn
+  - plotly
+  - altair
+  - jupyterlab
+  # --- pip-only packages ---
+  - pip:
+      - opencv-python-headless
+      - streamlit
+      - plantcv
+      - cellpose
+      - torch
+      - torchvision
+      - torchaudio

@@ -1,0 +1,57 @@
+cff-version: 1.2.0
+message: "If you use this software, data, or methods, please cite it as below."
+title: "Image Analysis Software and R Codes for Astrobotany Root and Plant Phenotyping"
+abstract: >-
+  A collection of image-analysis software, Jupyter/Colab notebooks, R scripts,
+  example image datasets, and RSML root-architecture traces used in
+  spaceflight-related astrobotany experiments. Includes tooling and example
+  workflows for RootNav, RootTrace, Germinator, PlantCV, and Cellpose, with an
+  emphasis on measuring root system architecture and exporting data in the open
+  RSML format.
+type: software
+authors:
+  - family-names: Barker
+    given-names: Richard
+    # orcid: "https://orcid.org/0000-0000-0000-0000"  # TODO: add ORCID
+  # TODO: add co-authors / contributors (e.g. Ralph Møller Trane)
+repository-code: "https://github.com/dr-richard-barker/image-analysis-software-and-R-codes"
+url: "https://github.com/dr-richard-barker/image-analysis-software-and-R-codes"
+keywords:
+  - astrobotany
+  - root system architecture
+  - RSML
+  - plant phenotyping
+  - image analysis
+  - spaceflight
+  - PlantCV
+  - RootNav
+license: MIT
+# version: "1.0.0"          # TODO: set on first tagged release
+# date-released: 2025-01-11 # TODO: set on first tagged release
+# doi: "10.5281/zenodo.xxxxxxx"  # TODO: add after archiving a release on Zenodo
+
+references:
+  - type: article
+    title: "RootNav: Navigating Images of Complex Root Architectures"
+    authors:
+      - family-names: Pound
+        given-names: Michael P.
+    journal: "Plant Physiology"
+    year: 2013
+    notes: "See RootNav/Plant Physiol.-2013-Pound-1802-14.pdf"
+  - type: article
+    title: "High-throughput quantification of root growth (RootTrace)"
+    authors:
+      - family-names: French
+        given-names: Andrew
+    journal: "Plant Physiology"
+    year: 2009
+    notes: "See RootTrace/Plant Physiol.-2009-French-1784-95.pdf"
+  - type: article
+    title: "GERMINATOR: a software package for high-throughput scoring and curve fitting of Arabidopsis seed germination"
+    authors:
+      - family-names: Joosen
+        given-names: Ronny V. L.
+    journal: "The Plant Journal"
+    year: 2010
+    notes: "See Germinator/Joosen_et_al-2010-The_Plant_Journal(Germinator).pdf"
