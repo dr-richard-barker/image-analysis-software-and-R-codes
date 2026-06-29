@@ -222,6 +222,24 @@ Assessed → [`docs/CARA_REPO_ASSESSMENT.md`](docs/CARA_REPO_ASSESSMENT.md); cle
 
 ---
 
+## Tier 9 — Analysis of the flagship 18-way skew dataset ✅
+
+Ran a proper statistical analysis (`scripts/python/skew_analysis.py`, 483 roots)
+→ [`docs/SKEW_ANALYSIS_FINDINGS.md`](docs/SKEW_ANALYSIS_FINDINGS.md):
+- **Gelling agent drives skewing:** agar 7.21° vs phytogel 5.70° |tip angle| (p=0.0026).
+- Sucrose % and gelling % have **no** significant effect (p=0.74, p=0.39).
+- **Handedness:** agar imposes a consistent skew direction (+2.65°, p<0.0001); phytogel none (p=0.34).
+- Sets the ground baseline for the spaceflight (ABRS/OSD-121) root behaviour.
+
+## GitHub submission ✅
+
+- [x] Pushed branch `fair-overhaul` (90 files, additive — master untouched) and opened
+  **[PR #2](https://github.com/dr-richard-barker/image-analysis-software-and-R-codes/pull/2)**.
+  Spurious line-ending diffs excluded; only the 7 intentionally-edited files + new files committed.
+- [ ] Merge PR; then run `restructure.sh` on a branch (Tier 4) and the Zenodo release (Tier 6).
+
+---
+
 ## Open questions / decisions needed
 
 | # | Question | Blocks | Owner |
