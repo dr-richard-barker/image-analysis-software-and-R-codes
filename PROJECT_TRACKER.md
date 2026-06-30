@@ -169,7 +169,10 @@ multi-seedling/overlapping, but APEX-03 GC is the most tractable input in the re
       loads APEX-03 GC + ABRS GC frames; Path A = RootNav2→RSML scaffold; Path B = runnable CV
       angle-distribution fallback (robust to overlap); shared RSML→angle-trait reader; builds the
       18-way skew baseline. Verified: parses 500 roots, angles valid.
-- [ ] Run Path A (RootNav2) on a GPU; spot-check traces by eye (decision gate)
+- [x] **Ran Path A (RootNav2) on the GPU** — `scripts/rootnav2_setup.sh` (clone + 2 patches for
+  torch2.6/Pillow12), `arabidopsis_plate` model, ~57s/plate. Verdict: feasible but **trace is
+  fragmented on the dense APEX-03 plates** (149 segments, tangled) → confirms Path B is more
+  robust here. → [`docs/ROOTNAV2_APEX_FINDINGS.md`](docs/ROOTNAV2_APEX_FINDINGS.md).
 - [ ] If automatic fails → RootNav **v1 semi-automatic** (matches skew method) or fine-tune
 - [ ] Extract angle traits → compare flight vs ground vs the 18 skew treatments
 - [ ] Document method + results; export new traces as RSML for consistency

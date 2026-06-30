@@ -148,7 +148,10 @@ Reproducible analyses of the datasets here (scripts in `scripts/python/`):
 - **[Cellpose plant segmentation](docs/CELLPOSE_PLANTS_FINDINGS.md)** — per-well
   plant counts in the Lemna/Londultia plates.
 - **[Aquatic treatment experiment](docs/AQUATIC_TREATMENT_FINDINGS.md)** — GA +
-  nutrients increase plant size ~4× across all four aquatic species.
+  nutrients increase plant size ~4× (mm²-calibrated) across all four aquatic
+  species, with growth curves.
+- **[RootNav2 on APEX-03](docs/ROOTNAV2_APEX_FINDINGS.md)** — GPU root tracing;
+  works but fragments on dense plates (model-free angle method preferred).
 - **[OSDR plant-image catalogue](docs/OSDR_PLANT_IMAGE_DATASETS.md)** — what's in
   NASA OSDR and what to pull next.
 
