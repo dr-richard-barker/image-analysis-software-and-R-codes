@@ -1,0 +1,399 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rsml xmlns:po='http://www.plantontology.org/xml-dtd/po.dtd'>
+	<metadata>
+		<version>1</version>
+		<unit>inch</unit>
+		<resolution>308.0</resolution>
+		<last-modified>today</last-modified>
+		<software>smartroot</software>
+		<user>globet</user>
+		<file-key>myimage</file-key>
+		<property-definitions>
+			<property-definition>
+		    	<label>diameter</label>
+		        <type>float</type>
+		        <unit>cm</unit>
+			</property-definition>
+			<property-definition>
+		    	<label>length</label>
+		        <type>float</type>
+		        <unit>cm</unit>
+			</property-definition>
+			<property-definition>
+		    	<label>angle</label>
+		        <type>float</type>
+		        <unit>degree</unit>
+			</property-definition>
+			<property-definition>
+		    	<label>insertion</label>
+		        <type>float</type>
+		        <unit>cm</unit>
+			</property-definition>
+			<property-definition>
+		    	<label>lauz</label>
+		        <type>float</type>
+		        <unit>cm</unit>
+			</property-definition>
+			<property-definition>
+		    	<label>lbuz</label>
+		        <type>float</type>
+		        <unit>cm</unit>
+			</property-definition>
+			<property-definition>
+		    	<label>node-orientation</label>
+		        <type>float</type>
+		        <unit>radian</unit>
+			</property-definition>
+		</property-definitions>
+		<image>
+			<captured>today</captured>
+			<label>Col_FL_A1_4</label>
+		</image>
+	</metadata>
+	<scene>
+		<plant>
+			<root ID='df0f84e4-e35c-4612-8025-4b64fe5aa4a5' label='Col_FL_day2_9' po:accession='PO:0009005'>
+				<properties>
+  <rulerAtOrigin>0.0</rulerAtOrigin>
+					<length>1.777815</length>
+					<orientation>4.173735</orientation>
+				</properties>
+				<geometry>
+					<polyline>
+						<point x='878.77075' y='119.52058'/>
+						<point x='857.3822' y='172.45851'/>
+						<point x='835.9936' y='225.39645'/>
+						<point x='809.74286' y='276.98755'/>
+						<point x='775.2396' y='303.4802'/>
+					</polyline>
+				</geometry>
+				<functions>
+					<function name='diameter' domain='polyline'>
+						<sample>6.498343</sample>
+						<sample>5.993785</sample>
+						<sample>5.489227</sample>
+						<sample>5.3234034</sample>
+						<sample>5.9929795</sample>
+					</function>
+					<function name='orientation' domain='polyline'>
+						<sample>4.3284125</sample>
+						<sample>4.3284116</sample>
+						<sample>4.241708</sample>
+						<sample>3.7964082</sample>
+						<sample>0.0</sample>
+					</function>
+				</functions>
+				<annotations>
+				</annotations>
+ </root>
+			<root ID='212bd18e-be41-47d3-867c-8108293e3b3d' label='Col_FL_day2_8' po:accession='PO:0009005'>
+				<properties>
+  <rulerAtOrigin>0.0</rulerAtOrigin>
+					<length>0.16189195</length>
+					<orientation>4.765231</orientation>
+				</properties>
+				<geometry>
+					<polyline>
+						<point x='801.9684' y='139.3127'/>
+						<point x='803.00525' y='158.91629'/>
+					</polyline>
+				</geometry>
+				<functions>
+					<function name='diameter' domain='polyline'>
+						<sample>5.4982214</sample>
+						<sample>4.850471</sample>
+					</function>
+					<function name='orientation' domain='polyline'>
+						<sample>4.765231</sample>
+						<sample>0.0</sample>
+					</function>
+				</functions>
+				<annotations>
+				</annotations>
+ </root>
+			<root ID='426059f2-5802-45ca-a01a-6e97cd572f39' label='Col_FL_day2_7' po:accession='PO:0009005'>
+				<properties>
+  <rulerAtOrigin>0.0</rulerAtOrigin>
+					<length>1.0535579</length>
+					<orientation>3.8631163</orientation>
+				</properties>
+				<geometry>
+					<polyline>
+						<point x='728.88' y='121.88397'/>
+						<point x='709.4437' y='121.40486'/>
+						<point x='710.0399' y='98.926926'/>
+						<point x='723.0481' y='81.2943'/>
+						<point x='751.76404' y='87.61386'/>
+						<point x='768.7529' y='98.23482'/>
+						<point x='781.5122' y='105.072205'/>
+					</polyline>
+				</geometry>
+				<functions>
+					<function name='diameter' domain='polyline'>
+						<sample>20.709957</sample>
+						<sample>13.1793375</sample>
+						<sample>10.991009</sample>
+						<sample>7.497502</sample>
+						<sample>6.9666843</sample>
+						<sample>5.971905</sample>
+						<sample>3.3436792</sample>
+					</function>
+					<function name='orientation' domain='polyline'>
+						<sample>3.1169448</sample>
+						<sample>1.5442791</sample>
+						<sample>0.9351922</sample>
+						<sample>6.066567</sample>
+						<sample>5.7244635</sample>
+						<sample>5.7912507</sample>
+						<sample>0.0</sample>
+					</function>
+				</functions>
+				<annotations>
+				</annotations>
+ </root>
+			<root ID='f8ebe318-fbbf-45c5-90f7-1f05eb36ae8b' label='Col_FL_day2_6' po:accession='PO:0009005'>
+				<properties>
+  <rulerAtOrigin>0.0</rulerAtOrigin>
+					<length>0.88168436</length>
+					<orientation>3.1674166</orientation>
+				</properties>
+				<geometry>
+					<polyline>
+						<point x='585.49927' y='128.9856'/>
+						<point x='570.3081' y='146.11737'/>
+						<point x='565.1167' y='166.2677'/>
+						<point x='584.6208' y='169.62787'/>
+						<point x='598.51294' y='153.21191'/>
+						<point x='618.61816' y='144.5015'/>
+					</polyline>
+				</geometry>
+				<functions>
+					<function name='diameter' domain='polyline'>
+						<sample>16.875227</sample>
+						<sample>8.141704</sample>
+						<sample>13.960788</sample>
+						<sample>8.494438</sample>
+						<sample>6.4432707</sample>
+						<sample>10.250401</sample>
+					</function>
+					<function name='orientation' domain='polyline'>
+						<sample>3.986957</sample>
+						<sample>4.4602385</sample>
+						<sample>6.11258</sample>
+						<sample>0.86847806</sample>
+						<sample>0.4088306</sample>
+						<sample>0.0</sample>
+					</function>
+				</functions>
+				<annotations>
+				</annotations>
+ </root>
+			<root ID='8e2cea63-f093-45c2-a0a8-0fa50b91b679' label='Col_FL_day2_5' po:accession='PO:0009005'>
+				<properties>
+  <rulerAtOrigin>0.0</rulerAtOrigin>
+					<length>1.6628112</length>
+					<orientation>5.4698734</orientation>
+				</properties>
+				<geometry>
+					<polyline>
+						<point x='510.63385' y='142.99332'/>
+						<point x='531.99255' y='167.54906'/>
+						<point x='568.02405' y='194.61719'/>
+						<point x='594.42615' y='202.47673'/>
+						<point x='614.3539' y='212.34276'/>
+						<point x='628.81055' y='227.89258'/>
+						<point x='636.8568' y='243.82059'/>
+						<point x='645.8848' y='260.8412'/>
+						<point x='650.8922' y='275.9259'/>
+					</polyline>
+				</geometry>
+				<functions>
+					<function name='diameter' domain='polyline'>
+						<sample>9.475822</sample>
+						<sample>9.499781</sample>
+						<sample>9.488883</sample>
+						<sample>6.4219995</sample>
+						<sample>4.2990665</sample>
+						<sample>7.387518</sample>
+						<sample>3.9557853</sample>
+						<sample>4.9442134</sample>
+						<sample>3.852142</sample>
+					</function>
+					<function name='orientation' domain='polyline'>
+						<sample>5.428269</sample>
+						<sample>5.638894</sample>
+						<sample>5.9938526</sample>
+						<sample>5.823473</sample>
+						<sample>5.4613724</sample>
+						<sample>5.1801596</sample>
+						<sample>5.2000732</sample>
+						<sample>5.0328946</sample>
+						<sample>0.0</sample>
+					</function>
+				</functions>
+				<annotations>
+				</annotations>
+ </root>
+			<root ID='7670bb53-8ad7-49ea-a13b-060e1f53652b' label='Col_FL_day2_4' po:accession='PO:0009005'>
+				<properties>
+  <rulerAtOrigin>0.0</rulerAtOrigin>
+					<length>0.9354177</length>
+					<orientation>5.427248</orientation>
+				</properties>
+				<geometry>
+					<polyline>
+						<point x='427.46155' y='148.7537'/>
+						<point x='453.4399' y='169.82294'/>
+						<point x='470.45142' y='192.57498'/>
+						<point x='485.57605' y='210.3754'/>
+						<point x='502.05487' y='233.27621'/>
+					</polyline>
+				</geometry>
+				<functions>
+					<function name='diameter' domain='polyline'>
+						<sample>9.398131</sample>
+						<sample>12.969697</sample>
+						<sample>6.862006</sample>
+						<sample>8.351704</sample>
+						<sample>6.04831</sample>
+					</function>
+					<function name='orientation' domain='polyline'>
+						<sample>5.6017547</sample>
+						<sample>5.3544106</sample>
+						<sample>5.4166965</sample>
+						<sample>5.336131</sample>
+						<sample>0.0</sample>
+					</function>
+				</functions>
+				<annotations>
+				</annotations>
+ </root>
+			<root ID='96a09694-65b2-4243-9f9b-7b0eef39948b' label='Col_FL_day2_3' po:accession='PO:0009005'>
+				<properties>
+  <rulerAtOrigin>0.0</rulerAtOrigin>
+					<length>1.0716513</length>
+					<orientation>5.4973817</orientation>
+				</properties>
+				<geometry>
+					<polyline>
+						<point x='350.42627' y='152.9845'/>
+						<point x='365.94296' y='176.34547'/>
+						<point x='379.52368' y='197.92291'/>
+						<point x='393.13983' y='216.19028'/>
+						<point x='414.58337' y='230.75531'/>
+						<point x='440.00522' y='241.76149'/>
+					</polyline>
+				</geometry>
+				<functions>
+					<function name='diameter' domain='polyline'>
+						<sample>5.969097</sample>
+						<sample>3.82078</sample>
+						<sample>11.457242</sample>
+						<sample>5.77611</sample>
+						<sample>6.9478626</sample>
+						<sample>2.2213552</sample>
+					</function>
+					<function name='orientation' domain='polyline'>
+						<sample>5.2986917</sample>
+						<sample>5.2741423</sample>
+						<sample>5.3529277</sample>
+						<sample>5.6865377</sample>
+						<sample>5.874607</sample>
+						<sample>0.0</sample>
+					</function>
+				</functions>
+				<annotations>
+				</annotations>
+ </root>
+			<root ID='7e47a683-1b81-4533-ba55-0494a810311d' label='Col_FL_day2_2' po:accession='PO:0009005'>
+				<properties>
+  <rulerAtOrigin>0.0</rulerAtOrigin>
+					<length>1.5199181</length>
+					<orientation>4.533345</orientation>
+				</properties>
+				<geometry>
+					<polyline>
+						<point x='164.04095' y='143.69925'/>
+						<point x='148.3523' y='163.80309'/>
+						<point x='153.1041' y='190.40016'/>
+						<point x='164.13504' y='226.92915'/>
+						<point x='152.79214' y='277.2751'/>
+						<point x='133.35037' y='314.52664'/>
+					</polyline>
+				</geometry>
+				<functions>
+					<function name='diameter' domain='polyline'>
+						<sample>9.171361</sample>
+						<sample>8.839713</sample>
+						<sample>17.000332</sample>
+						<sample>11.990826</sample>
+						<sample>4.994356</sample>
+						<sample>2.1101222</sample>
+					</function>
+					<function name='orientation' domain='polyline'>
+						<sample>4.0497255</sample>
+						<sample>4.8891826</sample>
+						<sample>5.005659</sample>
+						<sample>4.49079</sample>
+						<sample>4.2313714</sample>
+						<sample>0.0</sample>
+					</function>
+				</functions>
+				<annotations>
+				</annotations>
+ </root>
+			<root ID='2d3c63c7-dac6-4416-95e8-3f63b5b35177' label='Col_FL_day2_1' po:accession='PO:0009005'>
+				<properties>
+  <rulerAtOrigin>0.0</rulerAtOrigin>
+					<length>1.5297275</length>
+					<orientation>4.153865</orientation>
+				</properties>
+				<geometry>
+					<polyline>
+						<point x='115.194336' y='134.51016'/>
+						<point x='112.39787' y='147.81042'/>
+						<point x='109.60141' y='161.1107'/>
+						<point x='107.0855' y='173.95575'/>
+						<point x='107.40918' y='198.1903'/>
+						<point x='104.49553' y='219.44852'/>
+						<point x='98.751434' y='240.04637'/>
+						<point x='90.2995' y='254.67657'/>
+						<point x='66.84715' y='269.43402'/>
+						<point x='50.094635' y='270.20572'/>
+						<point x='33.342117' y='270.97742'/>
+					</polyline>
+				</geometry>
+				<functions>
+					<function name='diameter' domain='polyline'>
+						<sample>5.908988</sample>
+						<sample>4.7916265</sample>
+						<sample>3.6742651</sample>
+						<sample>5.0831804</sample>
+						<sample>7.492463</sample>
+						<sample>3.49339</sample>
+						<sample>4.000031</sample>
+						<sample>4.1447287</sample>
+						<sample>5.0000334</sample>
+						<sample>5.2284956</sample>
+						<sample>5.456958</sample>
+					</function>
+					<function name='orientation' domain='polyline'>
+						<sample>4.5051513</sample>
+						<sample>4.5051517</sample>
+						<sample>4.5189714</sample>
+						<sample>4.7257442</sample>
+						<sample>4.5761776</sample>
+						<sample>4.4404297</sample>
+						<sample>4.1885247</sample>
+						<sample>3.703244</sample>
+						<sample>3.187625</sample>
+						<sample>3.187625</sample>
+						<sample>0.0</sample>
+					</function>
+				</functions>
+				<annotations>
+				</annotations>
+ </root>
+		</plant>
+	</scene>
+</rsml>

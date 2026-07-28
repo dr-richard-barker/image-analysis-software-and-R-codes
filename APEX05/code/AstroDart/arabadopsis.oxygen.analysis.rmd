@@ -1,0 +1,84 @@
+---
+title: "arabidopsis.oxygen.project"
+author: "Amanda Salvi"
+date: "3/2/2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+rm(list=ls())
+library(dplyr)
+library(ggplot2)
+```
+
+## Oxygen's Effect on Photosynthesis
+Control group has lower photosynthesis rate than 12% oxygen group (p = 0.02). Control and 6% oxygen groups have same photosynthesis rates (p = 0.41)
+
+```{r, echo = FALSE}
+photo = read.csv("/Users/amandasalvi9/Documents/Barker Projects/Arabadopsis.oxygen.levels/compiled data/ara.oxygen.photo.master.csv")
+
+photo$treatment = factor(photo$treatment,
+                levels = c("control","12%", "6%"))
+
+photo %>% ggplot(aes(x=treatment,y=Photo.out)) +
+  geom_boxplot() +
+  theme_bw()
+
+model_photo = lm(Photo.out ~ treatment + block + subsample, data=photo)
+summary(model_photo)  
+
+```
+## Let's look at the stomatal conductance too
+Stomatal conductance is different among the three species. From lowest to highest: control, 12%, 6%. So decreasing oxygen levels increased stomatal conductance. Interesting that stomatal conductance was highest in 6%, even though photosynthesis rates weren't different from control.
+
+```{r, echo = FALSE}
+photo$treatment = factor(photo$treatment,
+                levels = c("control","12%", "6%"))
+
+photo %>% ggplot(aes(x=treatment,y=Cond.out)) +
+  geom_boxplot() +
+  theme_bw()
+
+model_cond = lm(Cond.out ~ treatment + block + subsample, data=photo)
+summary(model_cond)  
+
+
+
+```
+
+## Oxygen's Effect on Respiration
+Respiration not different among the three groups (p=0.33)
+
+```{r, echo = FALSE}
+resp = read.csv("/Users/amandasalvi9/Documents/Barker Projects/Arabadopsis.oxygen.levels/compiled data/ara.oxygen.resp.master.csv")
+
+resp$treatment = factor(resp$treatment,
+                levels = c("control","12%", "6%"))
+
+resp %>% ggplot(aes(x=treatment,y=Photo.out)) +
+  geom_boxplot() +
+  theme_bw()
+
+model_resp = lm(Photo.out ~ treatment + block + subsample, data=resp)
+summary(model_resp)  
+
+```
+
+## Let's look at night time transpiration (stomatal conductance at induced night time)
+Again, treatment 6% oxygen had highest level of stomatal conductance. However, control and 12% were not statistically different.
+
+```{r, echo = FALSE}
+resp %>% ggplot(aes(x=treatment,y=Cond.out)) +
+  geom_boxplot() +
+  theme_bw()
+
+model_resp.cond = lm(Cond.out ~ treatment + block + subsample, data=resp)
+summary(model_resp.cond)  
+
+```
+
+##Conclusions
+* Different atmospheric oxygen levels change stomatal conductance in Arabidopsis, such that lower oxygen levels tend to increase stomatal conductance. Trying to open stomata to get more oxygen in ?  
+* Different oxygen levels don't affect respiration.  
+* Different oxygen levels seem to change photosynthesis, at least in 12% group. So maybe there is a "sweet spot" of oxygen levels. Decreasing oxygen levels would decrease rates of photorespiration, which would increase net assimilation rates (which is actually what was measured by the instrument); but decreasing oxygen levels more than that (6%) may result in decreases of true photosynthetic rates, making negligible the decrease in photorespiration, and thus making the 6% treatment the same as the control ?  

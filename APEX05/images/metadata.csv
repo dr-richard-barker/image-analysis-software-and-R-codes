@@ -1,0 +1,121 @@
+filename,species,condition,day,genotype,processing,source_path
+APEX05_001_FL_cax2-2_2day.jpg,Arabidopsis thaliana,Flight,day 2,cax2-2,aligned+cropped,/APEX5_images/Time-Lapse_Corners/Cropped_selected_FL/FL_Aligned_2/A10_cax22_FL_aligned/2day.jpg
+APEX05_002_FL_cax2-2_3day.jpg,Arabidopsis thaliana,Flight,day 3,cax2-2,aligned+cropped,/APEX5_images/Time-Lapse_Corners/Cropped_selected_FL/FL_Aligned_2/A10_cax22_FL_aligned/3day.jpg
+APEX05_003_FL_cax2-2_4day.jpg,Arabidopsis thaliana,Flight,day 4,cax2-2,aligned+cropped,/APEX5_images/Time-Lapse_Corners/Cropped_selected_FL/FL_Aligned_2/A10_cax22_FL_aligned/4day.jpg
+APEX05_004_FL_cax2-2_5day.jpg,Arabidopsis thaliana,Flight,day 5,cax2-2,aligned+cropped,/APEX5_images/Time-Lapse_Corners/Cropped_selected_FL/FL_Aligned_2/A10_cax22_FL_aligned/5day.jpg
+APEX05_005_FL_cax2-2_6day.jpg,Arabidopsis thaliana,Flight,day 6,cax2-2,aligned+cropped,/APEX5_images/Time-Lapse_Corners/Cropped_selected_FL/FL_Aligned_2/A10_cax22_FL_aligned/6day.jpg
+APEX05_006_FL_cax2-2_7day.jpg,Arabidopsis thaliana,Flight,day 7,cax2-2,aligned+cropped,/APEX5_images/Time-Lapse_Corners/Cropped_selected_FL/FL_Aligned_2/A10_cax22_FL_aligned/7day.jpg
+APEX05_007_FL_cax2-2_8day.jpg,Arabidopsis thaliana,Flight,day 8,cax2-2,aligned+cropped,/APEX5_images/Time-Lapse_Corners/Cropped_selected_FL/FL_Aligned_2/A10_cax22_FL_aligned/8day.jpg
+APEX05_008_FL_Col-0_2day.jpg,Arabidopsis thaliana,Flight,day 2,Col-0,aligned+cropped,/APEX5_images/Time-Lapse_Corners/Cropped_selected_FL/FL_Aligned_2/A1_Col_FL_aligned/2day.jpg
+APEX05_009_FL_Col-0_3day.jpg,Arabidopsis thaliana,Flight,day 3,Col-0,aligned+cropped,/APEX5_images/Time-Lapse_Corners/Cropped_selected_FL/FL_Aligned_2/A1_Col_FL_aligned/3day.jpg
+APEX05_010_FL_Col-0_4day.jpg,Arabidopsis thaliana,Flight,day 4,Col-0,aligned+cropped,/APEX5_images/Time-Lapse_Corners/Cropped_selected_FL/FL_Aligned_2/A1_Col_FL_aligned/4day.jpg
+APEX05_011_FL_Col-0_5day.jpg,Arabidopsis thaliana,Flight,day 5,Col-0,aligned+cropped,/APEX5_images/Time-Lapse_Corners/Cropped_selected_FL/FL_Aligned_2/A1_Col_FL_aligned/5day.jpg
+APEX05_012_FL_Col-0_6day.jpg,Arabidopsis thaliana,Flight,day 6,Col-0,aligned+cropped,/APEX5_images/Time-Lapse_Corners/Cropped_selected_FL/FL_Aligned_2/A1_Col_FL_aligned/6day.jpg
+APEX05_013_FL_Col-0_7day.jpg,Arabidopsis thaliana,Flight,day 7,Col-0,aligned+cropped,/APEX5_images/Time-Lapse_Corners/Cropped_selected_FL/FL_Aligned_2/A1_Col_FL_aligned/7day.jpg
+APEX05_014_FL_Col-0_8day.jpg,Arabidopsis thaliana,Flight,day 8,Col-0,aligned+cropped,/APEX5_images/Time-Lapse_Corners/Cropped_selected_FL/FL_Aligned_2/A1_Col_FL_aligned/8day.jpg
+APEX05_015_FL_d1_rbohD_2day-1.jpg,Arabidopsis thaliana,Flight,day 1,rbohD,aligned+cropped,/APEX5_images/Time-Lapse_Corners/Cropped_selected_FL/FL_Aligned_2/C10_rbohD_FL_aligned/2day_1.jpg
+APEX05_016_FL_d1_rbohD_3day-1.jpg,Arabidopsis thaliana,Flight,day 1,rbohD,aligned+cropped,/APEX5_images/Time-Lapse_Corners/Cropped_selected_FL/FL_Aligned_2/C10_rbohD_FL_aligned/3day_1.jpg
+APEX05_017_FL_d1_rbohD_4day-1.jpg,Arabidopsis thaliana,Flight,day 1,rbohD,aligned+cropped,/APEX5_images/Time-Lapse_Corners/Cropped_selected_FL/FL_Aligned_2/C10_rbohD_FL_aligned/4day_1.jpg
+APEX05_018_FL_d1_rbohD_5day-1.jpg,Arabidopsis thaliana,Flight,day 1,rbohD,aligned+cropped,/APEX5_images/Time-Lapse_Corners/Cropped_selected_FL/FL_Aligned_2/C10_rbohD_FL_aligned/5day_1.jpg
+APEX05_019_FL_d1_rbohD_6day-1.jpg,Arabidopsis thaliana,Flight,day 1,rbohD,aligned+cropped,/APEX5_images/Time-Lapse_Corners/Cropped_selected_FL/FL_Aligned_2/C10_rbohD_FL_aligned/6day_1.jpg
+APEX05_020_FL_d1_rbohD_7day-1.jpg,Arabidopsis thaliana,Flight,day 1,rbohD,aligned+cropped,/APEX5_images/Time-Lapse_Corners/Cropped_selected_FL/FL_Aligned_2/C10_rbohD_FL_aligned/7day_1.jpg
+APEX05_021_FL_d1_rbohD_8day-1.jpg,Arabidopsis thaliana,Flight,day 1,rbohD,aligned+cropped,/APEX5_images/Time-Lapse_Corners/Cropped_selected_FL/FL_Aligned_2/C10_rbohD_FL_aligned/8day_1.jpg
+APEX05_022_FL_d1_cax2-3_2day-1.jpg,Arabidopsis thaliana,Flight,day 1,cax2-3,aligned+cropped,/APEX5_images/Time-Lapse_Corners/Cropped_selected_FL/FL_Aligned_2/C1_cax23_FL_aligned/2day_1.jpg
+APEX05_023_FL_d1_cax2-3_3day-1.jpg,Arabidopsis thaliana,Flight,day 1,cax2-3,aligned+cropped,/APEX5_images/Time-Lapse_Corners/Cropped_selected_FL/FL_Aligned_2/C1_cax23_FL_aligned/3day_1.jpg
+APEX05_024_FL_d1_cax2-3_4day-1.jpg,Arabidopsis thaliana,Flight,day 1,cax2-3,aligned+cropped,/APEX5_images/Time-Lapse_Corners/Cropped_selected_FL/FL_Aligned_2/C1_cax23_FL_aligned/4day_1.jpg
+APEX05_025_FL_d1_cax2-3_5day-1.jpg,Arabidopsis thaliana,Flight,day 1,cax2-3,aligned+cropped,/APEX5_images/Time-Lapse_Corners/Cropped_selected_FL/FL_Aligned_2/C1_cax23_FL_aligned/5day_1.jpg
+APEX05_026_FL_d1_cax2-3_6day-1.jpg,Arabidopsis thaliana,Flight,day 1,cax2-3,aligned+cropped,/APEX5_images/Time-Lapse_Corners/Cropped_selected_FL/FL_Aligned_2/C1_cax23_FL_aligned/6day_1.jpg
+APEX05_027_FL_d1_cax2-3_7day-1.jpg,Arabidopsis thaliana,Flight,day 1,cax2-3,aligned+cropped,/APEX5_images/Time-Lapse_Corners/Cropped_selected_FL/FL_Aligned_2/C1_cax23_FL_aligned/7day_1.jpg
+APEX05_028_FL_d1_cax2-3_8day-1.jpg,Arabidopsis thaliana,Flight,day 1,cax2-3,aligned+cropped,/APEX5_images/Time-Lapse_Corners/Cropped_selected_FL/FL_Aligned_2/C1_cax23_FL_aligned/8day_1.jpg
+APEX05_029_GC_cax2-2_A10-DSC-2744.jpg,Arabidopsis thaliana,Ground control,,cax2-2,cropped,/APEX5_images/Time-Lapse_Corners/Cropped_selected_GC/Selected/A10_cax22/A10_DSC_2744.jpg
+APEX05_030_GC_cax2-2_A10-DSC-2763.jpg,Arabidopsis thaliana,Ground control,,cax2-2,cropped,/APEX5_images/Time-Lapse_Corners/Cropped_selected_GC/Selected/A10_cax22/A10_DSC_2763.jpg
+APEX05_031_GC_cax2-2_A10-DSC-2781.jpg,Arabidopsis thaliana,Ground control,,cax2-2,cropped,/APEX5_images/Time-Lapse_Corners/Cropped_selected_GC/Selected/A10_cax22/A10_DSC_2781.jpg
+APEX05_032_GC_cax2-2_A10-DSC-2824.jpg,Arabidopsis thaliana,Ground control,,cax2-2,cropped,/APEX5_images/Time-Lapse_Corners/Cropped_selected_GC/Selected/A10_cax22/A10_DSC_2824.jpg
+APEX05_033_GC_cax2-2_A10-DSC-2898.jpg,Arabidopsis thaliana,Ground control,,cax2-2,cropped,/APEX5_images/Time-Lapse_Corners/Cropped_selected_GC/Selected/A10_cax22/A10_DSC_2898.jpg
+APEX05_034_GC_cax2-2_A10-DSC-2914.jpg,Arabidopsis thaliana,Ground control,,cax2-2,cropped,/APEX5_images/Time-Lapse_Corners/Cropped_selected_GC/Selected/A10_cax22/A10_DSC_2914.jpg
+APEX05_035_GC_cax2-2_A10-DSC-2931.jpg,Arabidopsis thaliana,Ground control,,cax2-2,cropped,/APEX5_images/Time-Lapse_Corners/Cropped_selected_GC/Selected/A10_cax22/A10_DSC_2931.jpg
+APEX05_036_GC_cax2-2_A10-DSC-2944.jpg,Arabidopsis thaliana,Ground control,,cax2-2,cropped,/APEX5_images/Time-Lapse_Corners/Cropped_selected_GC/Selected/A10_cax22/A10_DSC_2944.jpg
+APEX05_037_GC_Col-0_A1-DSC-2735.jpg,Arabidopsis thaliana,Ground control,,Col-0,cropped,/APEX5_images/Time-Lapse_Corners/Cropped_selected_GC/Selected/A1_Col/A1_DSC_2735.jpg
+APEX05_038_GC_Col-0_A1-DSC-2758.jpg,Arabidopsis thaliana,Ground control,,Col-0,cropped,/APEX5_images/Time-Lapse_Corners/Cropped_selected_GC/Selected/A1_Col/A1_DSC_2758.jpg
+APEX05_039_GC_Col-0_A1-DSC-2775.jpg,Arabidopsis thaliana,Ground control,,Col-0,cropped,/APEX5_images/Time-Lapse_Corners/Cropped_selected_GC/Selected/A1_Col/A1_DSC_2775.jpg
+APEX05_040_GC_Col-0_A1-DSC-2794.jpg,Arabidopsis thaliana,Ground control,,Col-0,cropped,/APEX5_images/Time-Lapse_Corners/Cropped_selected_GC/Selected/A1_Col/A1_DSC_2794.jpg
+APEX05_041_GC_Col-0_A1-DSC-2894.jpg,Arabidopsis thaliana,Ground control,,Col-0,cropped,/APEX5_images/Time-Lapse_Corners/Cropped_selected_GC/Selected/A1_Col/A1_DSC_2894.jpg
+APEX05_042_GC_Col-0_A1-DSC-2909.jpg,Arabidopsis thaliana,Ground control,,Col-0,cropped,/APEX5_images/Time-Lapse_Corners/Cropped_selected_GC/Selected/A1_Col/A1_DSC_2909.jpg
+APEX05_043_GC_Col-0_A1-DSC-2925.jpg,Arabidopsis thaliana,Ground control,,Col-0,cropped,/APEX5_images/Time-Lapse_Corners/Cropped_selected_GC/Selected/A1_Col/A1_DSC_2925.jpg
+APEX05_044_GC_Col-0_A1-DSC-2950.jpg,Arabidopsis thaliana,Ground control,,Col-0,cropped,/APEX5_images/Time-Lapse_Corners/Cropped_selected_GC/Selected/A1_Col/A1_DSC_2950.jpg
+APEX05_045_GC_rbohD_C10-DSC-2753.jpg,Arabidopsis thaliana,Ground control,,rbohD,cropped,/APEX5_images/Time-Lapse_Corners/Cropped_selected_GC/Selected/C10_rbohD/C10_DSC_2753.jpg
+APEX05_046_GC_rbohD_C10-DSC-2771.jpg,Arabidopsis thaliana,Ground control,,rbohD,cropped,/APEX5_images/Time-Lapse_Corners/Cropped_selected_GC/Selected/C10_rbohD/C10_DSC_2771.jpg
+APEX05_047_GC_rbohD_C10-DSC-2791.jpg,Arabidopsis thaliana,Ground control,,rbohD,cropped,/APEX5_images/Time-Lapse_Corners/Cropped_selected_GC/Selected/C10_rbohD/C10_DSC_2791.jpg
+APEX05_048_GC_rbohD_C10-DSC-2890.jpg,Arabidopsis thaliana,Ground control,,rbohD,cropped,/APEX5_images/Time-Lapse_Corners/Cropped_selected_GC/Selected/C10_rbohD/C10_DSC_2890.jpg
+APEX05_049_GC_rbohD_C10-DSC-2905.jpg,Arabidopsis thaliana,Ground control,,rbohD,cropped,/APEX5_images/Time-Lapse_Corners/Cropped_selected_GC/Selected/C10_rbohD/C10_DSC_2905.jpg
+APEX05_050_GC_rbohD_C10-DSC-2922.jpg,Arabidopsis thaliana,Ground control,,rbohD,cropped,/APEX5_images/Time-Lapse_Corners/Cropped_selected_GC/Selected/C10_rbohD/C10_DSC_2922.jpg
+APEX05_051_GC_rbohD_C10-DSC-2939.jpg,Arabidopsis thaliana,Ground control,,rbohD,cropped,/APEX5_images/Time-Lapse_Corners/Cropped_selected_GC/Selected/C10_rbohD/C10_DSC_2939.jpg
+APEX05_052_GC_rbohD_C10-DSC-2956.jpg,Arabidopsis thaliana,Ground control,,rbohD,cropped,/APEX5_images/Time-Lapse_Corners/Cropped_selected_GC/Selected/C10_rbohD/C10_DSC_2956.jpg
+APEX05_053_GC_cax2-3_C1-DSC-2749.jpg,Arabidopsis thaliana,Ground control,,cax2-3,cropped,/APEX5_images/Time-Lapse_Corners/Cropped_selected_GC/Selected/C1_cax23/C1_DSC_2749.jpg
+APEX05_054_GC_cax2-3_C1-DSC-2767.jpg,Arabidopsis thaliana,Ground control,,cax2-3,cropped,/APEX5_images/Time-Lapse_Corners/Cropped_selected_GC/Selected/C1_cax23/C1_DSC_2767.jpg
+APEX05_055_GC_cax2-3_C1-DSC-2785.jpg,Arabidopsis thaliana,Ground control,,cax2-3,cropped,/APEX5_images/Time-Lapse_Corners/Cropped_selected_GC/Selected/C1_cax23/C1_DSC_2785.jpg
+APEX05_056_GC_cax2-3_C1-DSC-2861.jpg,Arabidopsis thaliana,Ground control,,cax2-3,cropped,/APEX5_images/Time-Lapse_Corners/Cropped_selected_GC/Selected/C1_cax23/C1_DSC_2861.jpg
+APEX05_057_GC_cax2-3_C1-DSC-2902.jpg,Arabidopsis thaliana,Ground control,,cax2-3,cropped,/APEX5_images/Time-Lapse_Corners/Cropped_selected_GC/Selected/C1_cax23/C1_DSC_2902.jpg
+APEX05_058_GC_cax2-3_C1-DSC-2917.jpg,Arabidopsis thaliana,Ground control,,cax2-3,cropped,/APEX5_images/Time-Lapse_Corners/Cropped_selected_GC/Selected/C1_cax23/C1_DSC_2917.jpg
+APEX05_059_GC_cax2-3_C1-DSC-2935.jpg,Arabidopsis thaliana,Ground control,,cax2-3,cropped,/APEX5_images/Time-Lapse_Corners/Cropped_selected_GC/Selected/C1_cax23/C1_DSC_2935.jpg
+APEX05_060_GC_cax2-3_C1-DSC-2963.jpg,Arabidopsis thaliana,Ground control,,cax2-3,cropped,/APEX5_images/Time-Lapse_Corners/Cropped_selected_GC/Selected/C1_cax23/C1_DSC_2963.jpg
+APEX05_061_FL_d2_362A6753.jpg,Arabidopsis thaliana,Flight,day 2,,,/APEX5_images/APEX5_FL_images_processing/APEX5_FL_day2/362A6753.JPG
+APEX05_062_FL_d2_362A6755.jpg,Arabidopsis thaliana,Flight,day 2,,,/APEX5_images/APEX5_FL_images_processing/APEX5_FL_day2/362A6755.JPG
+APEX05_063_FL_d2_362A6761.jpg,Arabidopsis thaliana,Flight,day 2,,,/APEX5_images/APEX5_FL_images_processing/APEX5_FL_day2/362A6761.JPG
+APEX05_064_FL_d2_362A6767.jpg,Arabidopsis thaliana,Flight,day 2,,,/APEX5_images/APEX5_FL_images_processing/APEX5_FL_day2/362A6767.JPG
+APEX05_065_FL_d3_362A6797.jpg,Arabidopsis thaliana,Flight,day 3,,,/APEX5_images/APEX5_FL_images_processing/APEX5_FL_day3/362A6797.JPG
+APEX05_066_FL_d3_362A6806.jpg,Arabidopsis thaliana,Flight,day 3,,,/APEX5_images/APEX5_FL_images_processing/APEX5_FL_day3/362A6806.JPG
+APEX05_067_FL_d3_362A6825.jpg,Arabidopsis thaliana,Flight,day 3,,,/APEX5_images/APEX5_FL_images_processing/APEX5_FL_day3/362A6825.JPG
+APEX05_068_FL_d3_362A6901.jpg,Arabidopsis thaliana,Flight,day 3,,,/APEX5_images/APEX5_FL_images_processing/APEX5_FL_day3/362A6901.JPG
+APEX05_069_FL_d4_362A7018.jpg,Arabidopsis thaliana,Flight,day 4,,,/APEX5_images/APEX5_FL_images_processing/APEX5_FL_day4_EXP/corner/362A7018.JPG
+APEX05_070_FL_d4_362A7021.jpg,Arabidopsis thaliana,Flight,day 4,,,/APEX5_images/APEX5_FL_images_processing/APEX5_FL_day4_EXP/corner/362A7021.JPG
+APEX05_071_FL_d4_362A7026.jpg,Arabidopsis thaliana,Flight,day 4,,,/APEX5_images/APEX5_FL_images_processing/APEX5_FL_day4_EXP/corner/362A7026.JPG
+APEX05_072_FL_d4_362A7032.jpg,Arabidopsis thaliana,Flight,day 4,,,/APEX5_images/APEX5_FL_images_processing/APEX5_FL_day4_EXP/corner/362A7032.JPG
+APEX05_073_FL_d4_A3-FL-362A6914.jpg,Arabidopsis thaliana,Flight,day 4,,,/APEX5_images/APEX5_FL_images_processing/APEX5_FL_day4_EXP/A3_FL_362A6914.JPG
+APEX05_074_FL_d4_A4-FL-362A6918.jpg,Arabidopsis thaliana,Flight,day 4,,,/APEX5_images/APEX5_FL_images_processing/APEX5_FL_day4_EXP/A4_FL_362A6918.JPG
+APEX05_075_FL_d4_A5-FL-362A6922.jpg,Arabidopsis thaliana,Flight,day 4,,,/APEX5_images/APEX5_FL_images_processing/APEX5_FL_day4_EXP/A5_FL_362A6922.JPG
+APEX05_076_FL_d4_A6-FL-362A6927.jpg,Arabidopsis thaliana,Flight,day 4,,,/APEX5_images/APEX5_FL_images_processing/APEX5_FL_day4_EXP/A6_FL_362A6927.JPG
+APEX05_077_FL_d4_A7-FL-362A6930.jpg,Arabidopsis thaliana,Flight,day 4,,,/APEX5_images/APEX5_FL_images_processing/APEX5_FL_day4_EXP/A7_FL_362A6930.JPG
+APEX05_078_FL_d4_A8-FL-362A6935.jpg,Arabidopsis thaliana,Flight,day 4,,,/APEX5_images/APEX5_FL_images_processing/APEX5_FL_day4_EXP/A8_FL_362A6935.JPG
+APEX05_079_FL_d4_B2-FL-day4-362A6944.jpg,Arabidopsis thaliana,Flight,day 4,,,/APEX5_images/APEX5_FL_images_processing/APEX5_FL_day4_EXP/B2_FL_day4_362A6944.JPG
+APEX05_080_FL_d4_B3-FL-362A6947.jpg,Arabidopsis thaliana,Flight,day 4,,,/APEX5_images/APEX5_FL_images_processing/APEX5_FL_day4_EXP/B3_FL_362A6947.JPG
+APEX05_081_FL_d4_B4-FL-362A6952.jpg,Arabidopsis thaliana,Flight,day 4,,,/APEX5_images/APEX5_FL_images_processing/APEX5_FL_day4_EXP/B4_FL_362A6952.JPG
+APEX05_082_FL_d4_B5-FL-362A6958.jpg,Arabidopsis thaliana,Flight,day 4,,,/APEX5_images/APEX5_FL_images_processing/APEX5_FL_day4_EXP/B5_FL_362A6958.JPG
+APEX05_083_FL_d4_B6-FL-362A6961.jpg,Arabidopsis thaliana,Flight,day 4,,,/APEX5_images/APEX5_FL_images_processing/APEX5_FL_day4_EXP/B6_FL_362A6961.JPG
+APEX05_084_FL_d4_B7-FL-362A6966.jpg,Arabidopsis thaliana,Flight,day 4,,,/APEX5_images/APEX5_FL_images_processing/APEX5_FL_day4_EXP/B7_FL_362A6966.JPG
+APEX05_085_GC_d1_DSC-2735.jpg,Arabidopsis thaliana,Ground control,day 1,,,/APEX5_images/APEX5_GC_images_processing/APEX5_GC_Day 1/DSC_2735.JPG
+APEX05_086_GC_d1_DSC-2753.jpg,Arabidopsis thaliana,Ground control,day 1,,,/APEX5_images/APEX5_GC_images_processing/APEX5_GC_Day 1/DSC_2753.JPG
+APEX05_087_GC_d2_DSC-2767.jpg,Arabidopsis thaliana,Ground control,day 2,,,/APEX5_images/APEX5_GC_images_processing/APEX5_GC_Day 2/DSC_2767.JPG
+APEX05_088_GC_d3_DSC-2781.jpg,Arabidopsis thaliana,Ground control,day 3,,,/APEX5_images/APEX5_GC_images_processing/APEX5_GC_Day 3/DSC_2781.JPG
+APEX05_089_GC_d4_DSC-2794-aligned.jpg,Arabidopsis thaliana,Ground control,day 4,,aligned,/APEX5_images/APEX5_GC_images_processing/APEX5_GC_Day 4_EXP/APEX5_Adobr_Aligned_GC/DSC_2794_aligned.jpg
+APEX05_090_GC_d4_DSC-2807-aligned.jpg,Arabidopsis thaliana,Ground control,day 4,,aligned,/APEX5_images/APEX5_GC_images_processing/APEX5_GC_Day 4_EXP/APEX5_Adobr_Aligned_GC/DSC_2807_aligned.jpg
+APEX05_091_GC_d4_DSC-2820-aligned.jpg,Arabidopsis thaliana,Ground control,day 4,,aligned,/APEX5_images/APEX5_GC_images_processing/APEX5_GC_Day 4_EXP/APEX5_Adobr_Aligned_GC/DSC_2820_aligned.jpg
+APEX05_092_GC_d4_DSC-2832-aligned.jpg,Arabidopsis thaliana,Ground control,day 4,,aligned,/APEX5_images/APEX5_GC_images_processing/APEX5_GC_Day 4_EXP/APEX5_Adobr_Aligned_GC/DSC_2832_aligned.jpg
+APEX05_093_GC_d4_DSC-2844-aligned.jpg,Arabidopsis thaliana,Ground control,day 4,,aligned,/APEX5_images/APEX5_GC_images_processing/APEX5_GC_Day 4_EXP/APEX5_Adobr_Aligned_GC/DSC_2844_aligned.jpg
+APEX05_094_GC_d4_DSC-2856-aligned.jpg,Arabidopsis thaliana,Ground control,day 4,,aligned,/APEX5_images/APEX5_GC_images_processing/APEX5_GC_Day 4_EXP/APEX5_Adobr_Aligned_GC/DSC_2856_aligned.jpg
+APEX05_095_GC_d4_DSC-2869-aligned.jpg,Arabidopsis thaliana,Ground control,day 4,,aligned,/APEX5_images/APEX5_GC_images_processing/APEX5_GC_Day 4_EXP/APEX5_Adobr_Aligned_GC/DSC_2869_aligned.jpg
+APEX05_096_GC_d4_DSC-2882-aligned.jpg,Arabidopsis thaliana,Ground control,day 4,,aligned,/APEX5_images/APEX5_GC_images_processing/APEX5_GC_Day 4_EXP/APEX5_Adobr_Aligned_GC/DSC_2882_aligned.jpg
+APEX05_097_GC_d4_cax2-2_cax22-DSC-2799.jpg,Arabidopsis thaliana,Ground control,day 4,cax2-2,,/APEX5_images/APEX5_GC_images_processing/APEX5_GC_Day 4_EXP/cax22_DSC_2799.JPG
+APEX05_098_GC_d4_cax2-2_cax22-DSC-2836.jpg,Arabidopsis thaliana,Ground control,day 4,cax2-2,,/APEX5_images/APEX5_GC_images_processing/APEX5_GC_Day 4_EXP/cax22_DSC_2836.JPG
+APEX05_099_GC_d4_cax2-3_cax23-DSC-2804.jpg,Arabidopsis thaliana,Ground control,day 4,cax2-3,,/APEX5_images/APEX5_GC_images_processing/APEX5_GC_Day 4_EXP/cax23_DSC_2804.JPG
+APEX05_100_GC_d4_cax2-3_cax23-DSC-2847.jpg,Arabidopsis thaliana,Ground control,day 4,cax2-3,,/APEX5_images/APEX5_GC_images_processing/APEX5_GC_Day 4_EXP/cax23_DSC_2847.JPG
+APEX05_101_GC_d4_Col-DSC-2794.jpg,Arabidopsis thaliana,Ground control,day 4,,,/APEX5_images/APEX5_GC_images_processing/APEX5_GC_Day 4_EXP/Col_DSC_2794.JPG
+APEX05_102_GC_d4_Col-DSC-2856.jpg,Arabidopsis thaliana,Ground control,day 4,,,/APEX5_images/APEX5_GC_images_processing/APEX5_GC_Day 4_EXP/Col_DSC_2856.JPG
+APEX05_103_GC_d4_rbohD_rbohD-DSC-2811.jpg,Arabidopsis thaliana,Ground control,day 4,rbohD,,/APEX5_images/APEX5_GC_images_processing/APEX5_GC_Day 4_EXP/rbohD_DSC_2811.JPG
+APEX05_104_GC_d4_rbohD_rbohD-DSC-2869.jpg,Arabidopsis thaliana,Ground control,day 4,rbohD,,/APEX5_images/APEX5_GC_images_processing/APEX5_GC_Day 4_EXP/rbohD_DSC_2869.JPG
+APEX05_105_GC_d5_DSC-2894.jpg,Arabidopsis thaliana,Ground control,day 5,,,/APEX5_images/APEX5_GC_images_processing/APEX5_GC_Day 5/DSC_2894.JPG
+APEX05_106_GC_d5_DSC-2905.jpg,Arabidopsis thaliana,Ground control,day 5,,,/APEX5_images/APEX5_GC_images_processing/APEX5_GC_Day 5/DSC_2905.JPG
+APEX05_107_GC_d6_DSC-2917.jpg,Arabidopsis thaliana,Ground control,day 6,,,/APEX5_images/APEX5_GC_images_processing/APEX5_GC_Day 6/DSC_2917.JPG
+APEX05_108_GC_d7_DSC-2931.jpg,Arabidopsis thaliana,Ground control,day 7,,,/APEX5_images/APEX5_GC_images_processing/APEX5_GC_Day 7/DSC_2931.JPG
+APEX05_109_GC_d8_cax2-2_cax22-A10-GC-DSC-2945.jpg,Arabidopsis thaliana,Ground control,day 8,cax2-2,,/Root Hairs Analysis/APEX5_GC_Lids_off_day8/cax22_A10_GC_DSC_2945.JPG
+APEX05_110_GC_d8_cax2-2_cax22-B8-GC-DSC-3022.jpg,Arabidopsis thaliana,Ground control,day 8,cax2-2,,/Root Hairs Analysis/APEX5_GC_Lids_off_day8/cax22_B8_GC_DSC_3022.JPG
+APEX05_111_GC_d8_cax2-3_cax23-A8-GC-DSC-3073.jpg,Arabidopsis thaliana,Ground control,day 8,cax2-3,,/Root Hairs Analysis/APEX5_GC_Lids_off_day8/cax23_A8_GC_DSC_3073.JPG
+APEX05_112_GC_d8_cax2-3_cax23-C6-GC-DSC-2986.jpg,Arabidopsis thaliana,Ground control,day 8,cax2-3,,/Root Hairs Analysis/APEX5_GC_Lids_off_day8/cax23_C6_GC_DSC_2986.JPG
+APEX05_113_GC_d8_Col-B9-GC-DSC-3015.jpg,Arabidopsis thaliana,Ground control,day 8,,,/Root Hairs Analysis/APEX5_GC_Lids_off_day8/Col_B9_GC_DSC_3015.JPG
+APEX05_114_GC_d8_rbohD_rbohD-B2-GC-DSC-3065.jpg,Arabidopsis thaliana,Ground control,day 8,rbohD,,/Root Hairs Analysis/APEX5_GC_Lids_off_day8/rbohD_B2_GC_DSC_3065.JPG
+APEX05_115_FL_cax2-2_cax22-A10-FL-iss054e007136.jpg,Arabidopsis thaliana,Flight,,cax2-2,,/Root Hairs Analysis/Images_FL_for_shoot_analysis/cax22_A10_FL_iss054e007136.jpg
+APEX05_116_FL_cax2-2_cax22-B4-FL-iss054e007238.jpg,Arabidopsis thaliana,Flight,,cax2-2,,/Root Hairs Analysis/Images_FL_for_shoot_analysis/cax22_B4_FL_iss054e007238.jpg
+APEX05_117_FL_cax2-3_cax23-A8-FL-iss054e007256.jpg,Arabidopsis thaliana,Flight,,cax2-3,,/Root Hairs Analysis/Images_FL_for_shoot_analysis/cax23_A8_FL_iss054e007256.jpg
+APEX05_118_FL_cax2-3_cax23-B7-FL-iss054e007218.jpg,Arabidopsis thaliana,Flight,,cax2-3,,/Root Hairs Analysis/Images_FL_for_shoot_analysis/cax23_B7_FL_iss054e007218.jpg
+APEX05_119_FL_Col-A1-FL-iss054e007142.jpg,Arabidopsis thaliana,Flight,,,,/Root Hairs Analysis/Images_FL_for_shoot_analysis/Col_A1_FL_iss054e007142.jpg
+APEX05_120_FL_Col-B9-FL-iss054e007205.jpg,Arabidopsis thaliana,Flight,,,,/Root Hairs Analysis/Images_FL_for_shoot_analysis/Col_B9_FL_iss054e007205.jpg
