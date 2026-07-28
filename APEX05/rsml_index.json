@@ -6,142 +6,162 @@
   {
    "file": "APEX5_RSML_day4/FL/A3_FL_362A6914_aligned_aligned.rsml",
    "url": "https://raw.githubusercontent.com/dr-richard-barker/image-analysis-software-and-R-codes/master/APEX05/rsml/APEX5_RSML_day4/FL/A3_FL_362A6914_aligned_aligned.rsml",
-   "group": "Flight",
+   "group": "Flight · Col-0",
    "name": "A3 FL 362A6914",
-   "condition": "Flight"
+   "condition": "Flight",
+   "genotype": "Col-0"
   },
   {
    "file": "APEX5_RSML_day4/FL/A4_FL_362A6918_aligned_aligned.rsml",
    "url": "https://raw.githubusercontent.com/dr-richard-barker/image-analysis-software-and-R-codes/master/APEX05/rsml/APEX5_RSML_day4/FL/A4_FL_362A6918_aligned_aligned.rsml",
-   "group": "Flight",
+   "group": "Flight · Col-0",
    "name": "A4 FL 362A6918",
-   "condition": "Flight"
+   "condition": "Flight",
+   "genotype": "Col-0"
   },
   {
    "file": "APEX5_RSML_day4/FL/A5_FL_362A6922_aligned_aligned.rsml",
    "url": "https://raw.githubusercontent.com/dr-richard-barker/image-analysis-software-and-R-codes/master/APEX05/rsml/APEX5_RSML_day4/FL/A5_FL_362A6922_aligned_aligned.rsml",
-   "group": "Flight",
+   "group": "Flight · Col-0",
    "name": "A5 FL 362A6922",
-   "condition": "Flight"
+   "condition": "Flight",
+   "genotype": "Col-0"
   },
   {
    "file": "APEX5_RSML_day4/FL/A6_FL_362A6927_aligned_aligned.rsml",
    "url": "https://raw.githubusercontent.com/dr-richard-barker/image-analysis-software-and-R-codes/master/APEX05/rsml/APEX5_RSML_day4/FL/A6_FL_362A6927_aligned_aligned.rsml",
-   "group": "Flight",
+   "group": "Flight · Col-0",
    "name": "A6 FL 362A6927",
-   "condition": "Flight"
+   "condition": "Flight",
+   "genotype": "Col-0"
   },
   {
    "file": "APEX5_RSML_day4/FL/A7_FL_362A6930_aligned_aligned.rsml",
    "url": "https://raw.githubusercontent.com/dr-richard-barker/image-analysis-software-and-R-codes/master/APEX05/rsml/APEX5_RSML_day4/FL/A7_FL_362A6930_aligned_aligned.rsml",
-   "group": "Flight",
+   "group": "Flight · Col-0",
    "name": "A7 FL 362A6930",
-   "condition": "Flight"
+   "condition": "Flight",
+   "genotype": "Col-0"
   },
   {
    "file": "APEX5_RSML_day4/FL/A8_FL_362A6935_aligned_aligned.rsml",
    "url": "https://raw.githubusercontent.com/dr-richard-barker/image-analysis-software-and-R-codes/master/APEX05/rsml/APEX5_RSML_day4/FL/A8_FL_362A6935_aligned_aligned.rsml",
-   "group": "Flight",
+   "group": "Flight · Col-0",
    "name": "A8 FL 362A6935",
-   "condition": "Flight"
+   "condition": "Flight",
+   "genotype": "Col-0"
   },
   {
    "file": "APEX5_RSML_day4/FL/B2_FL_day4_362A6944.rsml",
    "url": "https://raw.githubusercontent.com/dr-richard-barker/image-analysis-software-and-R-codes/master/APEX05/rsml/APEX5_RSML_day4/FL/B2_FL_day4_362A6944.rsml",
-   "group": "Flight",
+   "group": "Flight · cax2-2",
    "name": "B2 FL day4 362A6944",
-   "condition": "Flight"
+   "condition": "Flight",
+   "genotype": "cax2-2"
   },
   {
    "file": "APEX5_RSML_day4/FL/B3_FL_362A6947_aligned_aligned.rsml",
    "url": "https://raw.githubusercontent.com/dr-richard-barker/image-analysis-software-and-R-codes/master/APEX05/rsml/APEX5_RSML_day4/FL/B3_FL_362A6947_aligned_aligned.rsml",
-   "group": "Flight",
+   "group": "Flight · cax2-2",
    "name": "B3 FL 362A6947",
-   "condition": "Flight"
+   "condition": "Flight",
+   "genotype": "cax2-2"
   },
   {
    "file": "APEX5_RSML_day4/FL/B4_FL_362A6952_aligned_aligned.rsml",
    "url": "https://raw.githubusercontent.com/dr-richard-barker/image-analysis-software-and-R-codes/master/APEX05/rsml/APEX5_RSML_day4/FL/B4_FL_362A6952_aligned_aligned.rsml",
-   "group": "Flight",
+   "group": "Flight · cax2-2",
    "name": "B4 FL 362A6952",
-   "condition": "Flight"
+   "condition": "Flight",
+   "genotype": "cax2-2"
   },
   {
    "file": "APEX5_RSML_day4/FL/B5_FL_362A6958_aligned_aligned.rsml",
    "url": "https://raw.githubusercontent.com/dr-richard-barker/image-analysis-software-and-R-codes/master/APEX05/rsml/APEX5_RSML_day4/FL/B5_FL_362A6958_aligned_aligned.rsml",
-   "group": "Flight",
+   "group": "Flight · cax2-2",
    "name": "B5 FL 362A6958",
-   "condition": "Flight"
+   "condition": "Flight",
+   "genotype": "cax2-2"
   },
   {
    "file": "APEX5_RSML_day4/FL/B6_FL_362A6961_aligned_aligned.rsml",
    "url": "https://raw.githubusercontent.com/dr-richard-barker/image-analysis-software-and-R-codes/master/APEX05/rsml/APEX5_RSML_day4/FL/B6_FL_362A6961_aligned_aligned.rsml",
-   "group": "Flight",
+   "group": "Flight · cax2-2",
    "name": "B6 FL 362A6961",
-   "condition": "Flight"
+   "condition": "Flight",
+   "genotype": "cax2-2"
   },
   {
    "file": "APEX5_RSML_day4/FL/B7_FL_362A6966_aligned_aligned.rsml",
    "url": "https://raw.githubusercontent.com/dr-richard-barker/image-analysis-software-and-R-codes/master/APEX05/rsml/APEX5_RSML_day4/FL/B7_FL_362A6966_aligned_aligned.rsml",
-   "group": "Flight",
+   "group": "Flight · cax2-2",
    "name": "B7 FL 362A6966",
-   "condition": "Flight"
+   "condition": "Flight",
+   "genotype": "cax2-2"
   },
   {
    "file": "APEX5_RSML_day4/FL/B8_FL_362A6972_aligned_aligned.rsml",
    "url": "https://raw.githubusercontent.com/dr-richard-barker/image-analysis-software-and-R-codes/master/APEX05/rsml/APEX5_RSML_day4/FL/B8_FL_362A6972_aligned_aligned.rsml",
-   "group": "Flight",
+   "group": "Flight · cax2-2",
    "name": "B8 FL 362A6972",
-   "condition": "Flight"
+   "condition": "Flight",
+   "genotype": "cax2-2"
   },
   {
    "file": "APEX5_RSML_day4/FL/B9_FL_362A6977_aligned_aligned.rsml",
    "url": "https://raw.githubusercontent.com/dr-richard-barker/image-analysis-software-and-R-codes/master/APEX05/rsml/APEX5_RSML_day4/FL/B9_FL_362A6977_aligned_aligned.rsml",
-   "group": "Flight",
+   "group": "Flight · cax2-2",
    "name": "B9 FL 362A6977",
-   "condition": "Flight"
+   "condition": "Flight",
+   "genotype": "cax2-2"
   },
   {
    "file": "APEX5_RSML_day4/FL/C3_FL_362A6985_aligned_aligned.rsml",
    "url": "https://raw.githubusercontent.com/dr-richard-barker/image-analysis-software-and-R-codes/master/APEX05/rsml/APEX5_RSML_day4/FL/C3_FL_362A6985_aligned_aligned.rsml",
-   "group": "Flight",
+   "group": "Flight · cax2-3",
    "name": "C3 FL 362A6985",
-   "condition": "Flight"
+   "condition": "Flight",
+   "genotype": "cax2-3"
   },
   {
    "file": "APEX5_RSML_day4/FL/C4_FL_362A6988_aligned_aligned.rsml",
    "url": "https://raw.githubusercontent.com/dr-richard-barker/image-analysis-software-and-R-codes/master/APEX05/rsml/APEX5_RSML_day4/FL/C4_FL_362A6988_aligned_aligned.rsml",
-   "group": "Flight",
+   "group": "Flight · cax2-3",
    "name": "C4 FL 362A6988",
-   "condition": "Flight"
+   "condition": "Flight",
+   "genotype": "cax2-3"
   },
   {
    "file": "APEX5_RSML_day4/FL/C5_FL_362A6992_aligned_aligned.rsml",
    "url": "https://raw.githubusercontent.com/dr-richard-barker/image-analysis-software-and-R-codes/master/APEX05/rsml/APEX5_RSML_day4/FL/C5_FL_362A6992_aligned_aligned.rsml",
-   "group": "Flight",
+   "group": "Flight · cax2-3",
    "name": "C5 FL 362A6992",
-   "condition": "Flight"
+   "condition": "Flight",
+   "genotype": "cax2-3"
   },
   {
    "file": "APEX5_RSML_day4/FL/C6_FL_362A6996_aligned_aligned.rsml",
    "url": "https://raw.githubusercontent.com/dr-richard-barker/image-analysis-software-and-R-codes/master/APEX05/rsml/APEX5_RSML_day4/FL/C6_FL_362A6996_aligned_aligned.rsml",
-   "group": "Flight",
+   "group": "Flight · cax2-3",
    "name": "C6 FL 362A6996",
-   "condition": "Flight"
+   "condition": "Flight",
+   "genotype": "cax2-3"
   },
   {
    "file": "APEX5_RSML_day4/FL/C7_FL_362A7004_aligned_aligned.rsml",
    "url": "https://raw.githubusercontent.com/dr-richard-barker/image-analysis-software-and-R-codes/master/APEX05/rsml/APEX5_RSML_day4/FL/C7_FL_362A7004_aligned_aligned.rsml",
-   "group": "Flight",
+   "group": "Flight · cax2-3",
    "name": "C7 FL 362A7004",
-   "condition": "Flight"
+   "condition": "Flight",
+   "genotype": "cax2-3"
   },
   {
    "file": "APEX5_RSML_day4/FL/C8_FL_362A7007_aligned_aligned.rsml",
    "url": "https://raw.githubusercontent.com/dr-richard-barker/image-analysis-software-and-R-codes/master/APEX05/rsml/APEX5_RSML_day4/FL/C8_FL_362A7007_aligned_aligned.rsml",
-   "group": "Flight",
+   "group": "Flight · cax2-3",
    "name": "C8 FL 362A7007",
-   "condition": "Flight"
+   "condition": "Flight",
+   "genotype": "cax2-3"
   },
   {
    "file": "APEX5_RSML_day4/FL___GC/A10_FL_cax22_day4.rsml",
@@ -530,422 +550,482 @@
   {
    "file": "APEX5_RSML_day4/GC/A3_DSC_2799_aligned_aligned.rsml",
    "url": "https://raw.githubusercontent.com/dr-richard-barker/image-analysis-software-and-R-codes/master/APEX05/rsml/APEX5_RSML_day4/GC/A3_DSC_2799_aligned_aligned.rsml",
-   "group": "Ground control",
+   "group": "Ground control · Col-0",
    "name": "A3 DSC 2799",
-   "condition": "Ground control"
+   "condition": "Ground control",
+   "genotype": "Col-0"
   },
   {
    "file": "APEX5_RSML_day4/GC/A4_DSC_2804_aligned_aligned.rsml",
    "url": "https://raw.githubusercontent.com/dr-richard-barker/image-analysis-software-and-R-codes/master/APEX05/rsml/APEX5_RSML_day4/GC/A4_DSC_2804_aligned_aligned.rsml",
-   "group": "Ground control",
+   "group": "Ground control · Col-0",
    "name": "A4 DSC 2804",
-   "condition": "Ground control"
+   "condition": "Ground control",
+   "genotype": "Col-0"
   },
   {
    "file": "APEX5_RSML_day4/GC/A5_DSC_2807_aligned_aligned.rsml",
    "url": "https://raw.githubusercontent.com/dr-richard-barker/image-analysis-software-and-R-codes/master/APEX05/rsml/APEX5_RSML_day4/GC/A5_DSC_2807_aligned_aligned.rsml",
-   "group": "Ground control",
+   "group": "Ground control · Col-0",
    "name": "A5 DSC 2807",
-   "condition": "Ground control"
+   "condition": "Ground control",
+   "genotype": "Col-0"
   },
   {
    "file": "APEX5_RSML_day4/GC/A6_DSC_2811_aligned_aligned.rsml",
    "url": "https://raw.githubusercontent.com/dr-richard-barker/image-analysis-software-and-R-codes/master/APEX05/rsml/APEX5_RSML_day4/GC/A6_DSC_2811_aligned_aligned.rsml",
-   "group": "Ground control",
+   "group": "Ground control · Col-0",
    "name": "A6 DSC 2811",
-   "condition": "Ground control"
+   "condition": "Ground control",
+   "genotype": "Col-0"
   },
   {
    "file": "APEX5_RSML_day4/GC/A7_DSC_2816_aligned_aligned.rsml",
    "url": "https://raw.githubusercontent.com/dr-richard-barker/image-analysis-software-and-R-codes/master/APEX05/rsml/APEX5_RSML_day4/GC/A7_DSC_2816_aligned_aligned.rsml",
-   "group": "Ground control",
+   "group": "Ground control · Col-0",
    "name": "A7 DSC 2816",
-   "condition": "Ground control"
+   "condition": "Ground control",
+   "genotype": "Col-0"
   },
   {
    "file": "APEX5_RSML_day4/GC/A8_DSC_2820_aligned_aligned.rsml",
    "url": "https://raw.githubusercontent.com/dr-richard-barker/image-analysis-software-and-R-codes/master/APEX05/rsml/APEX5_RSML_day4/GC/A8_DSC_2820_aligned_aligned.rsml",
-   "group": "Ground control",
+   "group": "Ground control · Col-0",
    "name": "A8 DSC 2820",
-   "condition": "Ground control"
+   "condition": "Ground control",
+   "genotype": "Col-0"
   },
   {
    "file": "APEX5_RSML_day4/GC/B2_DSC_2828_aligned_aligned.rsml",
    "url": "https://raw.githubusercontent.com/dr-richard-barker/image-analysis-software-and-R-codes/master/APEX05/rsml/APEX5_RSML_day4/GC/B2_DSC_2828_aligned_aligned.rsml",
-   "group": "Ground control",
+   "group": "Ground control · cax2-2",
    "name": "B2 DSC 2828",
-   "condition": "Ground control"
+   "condition": "Ground control",
+   "genotype": "cax2-2"
   },
   {
    "file": "APEX5_RSML_day4/GC/B3_DSC_2832_aligned_aligned.rsml",
    "url": "https://raw.githubusercontent.com/dr-richard-barker/image-analysis-software-and-R-codes/master/APEX05/rsml/APEX5_RSML_day4/GC/B3_DSC_2832_aligned_aligned.rsml",
-   "group": "Ground control",
+   "group": "Ground control · cax2-2",
    "name": "B3 DSC 2832",
-   "condition": "Ground control"
+   "condition": "Ground control",
+   "genotype": "cax2-2"
   },
   {
    "file": "APEX5_RSML_day4/GC/B4_DSC_2836_aligned_aligned.rsml",
    "url": "https://raw.githubusercontent.com/dr-richard-barker/image-analysis-software-and-R-codes/master/APEX05/rsml/APEX5_RSML_day4/GC/B4_DSC_2836_aligned_aligned.rsml",
-   "group": "Ground control",
+   "group": "Ground control · cax2-2",
    "name": "B4 DSC 2836",
-   "condition": "Ground control"
+   "condition": "Ground control",
+   "genotype": "cax2-2"
   },
   {
    "file": "APEX5_RSML_day4/GC/B5_DSC_2839_aligned_aligned.rsml",
    "url": "https://raw.githubusercontent.com/dr-richard-barker/image-analysis-software-and-R-codes/master/APEX05/rsml/APEX5_RSML_day4/GC/B5_DSC_2839_aligned_aligned.rsml",
-   "group": "Ground control",
+   "group": "Ground control · cax2-2",
    "name": "B5 DSC 2839",
-   "condition": "Ground control"
+   "condition": "Ground control",
+   "genotype": "cax2-2"
   },
   {
    "file": "APEX5_RSML_day4/GC/B6_DSC_2844_aligned_aligned.rsml",
    "url": "https://raw.githubusercontent.com/dr-richard-barker/image-analysis-software-and-R-codes/master/APEX05/rsml/APEX5_RSML_day4/GC/B6_DSC_2844_aligned_aligned.rsml",
-   "group": "Ground control",
+   "group": "Ground control · cax2-2",
    "name": "B6 DSC 2844",
-   "condition": "Ground control"
+   "condition": "Ground control",
+   "genotype": "cax2-2"
   },
   {
    "file": "APEX5_RSML_day4/GC/B7_DSC_2847_aligned_aligned.rsml",
    "url": "https://raw.githubusercontent.com/dr-richard-barker/image-analysis-software-and-R-codes/master/APEX05/rsml/APEX5_RSML_day4/GC/B7_DSC_2847_aligned_aligned.rsml",
-   "group": "Ground control",
+   "group": "Ground control · cax2-2",
    "name": "B7 DSC 2847",
-   "condition": "Ground control"
+   "condition": "Ground control",
+   "genotype": "cax2-2"
   },
   {
    "file": "APEX5_RSML_day4/GC/B8_DSC_2851_aligned_aligned.rsml",
    "url": "https://raw.githubusercontent.com/dr-richard-barker/image-analysis-software-and-R-codes/master/APEX05/rsml/APEX5_RSML_day4/GC/B8_DSC_2851_aligned_aligned.rsml",
-   "group": "Ground control",
+   "group": "Ground control · cax2-2",
    "name": "B8 DSC 2851",
-   "condition": "Ground control"
+   "condition": "Ground control",
+   "genotype": "cax2-2"
   },
   {
    "file": "APEX5_RSML_day4/GC/B9_DSC_2856_aligned_aligned.rsml",
    "url": "https://raw.githubusercontent.com/dr-richard-barker/image-analysis-software-and-R-codes/master/APEX05/rsml/APEX5_RSML_day4/GC/B9_DSC_2856_aligned_aligned.rsml",
-   "group": "Ground control",
+   "group": "Ground control · cax2-2",
    "name": "B9 DSC 2856",
-   "condition": "Ground control"
+   "condition": "Ground control",
+   "genotype": "cax2-2"
   },
   {
    "file": "APEX5_RSML_day4/GC/C3_DSC_2864_aligned_aligned.rsml",
    "url": "https://raw.githubusercontent.com/dr-richard-barker/image-analysis-software-and-R-codes/master/APEX05/rsml/APEX5_RSML_day4/GC/C3_DSC_2864_aligned_aligned.rsml",
-   "group": "Ground control",
+   "group": "Ground control · cax2-3",
    "name": "C3 DSC 2864",
-   "condition": "Ground control"
+   "condition": "Ground control",
+   "genotype": "cax2-3"
   },
   {
    "file": "APEX5_RSML_day4/GC/C4_DSC_2869_aligned_aligned.rsml",
    "url": "https://raw.githubusercontent.com/dr-richard-barker/image-analysis-software-and-R-codes/master/APEX05/rsml/APEX5_RSML_day4/GC/C4_DSC_2869_aligned_aligned.rsml",
-   "group": "Ground control",
+   "group": "Ground control · cax2-3",
    "name": "C4 DSC 2869",
-   "condition": "Ground control"
+   "condition": "Ground control",
+   "genotype": "cax2-3"
   },
   {
    "file": "APEX5_RSML_day4/GC/C5_DSC_2873_aligned_aligned.rsml",
    "url": "https://raw.githubusercontent.com/dr-richard-barker/image-analysis-software-and-R-codes/master/APEX05/rsml/APEX5_RSML_day4/GC/C5_DSC_2873_aligned_aligned.rsml",
-   "group": "Ground control",
+   "group": "Ground control · cax2-3",
    "name": "C5 DSC 2873",
-   "condition": "Ground control"
+   "condition": "Ground control",
+   "genotype": "cax2-3"
   },
   {
    "file": "APEX5_RSML_day4/GC/C6_DSC_2878_aligned_aligned.rsml",
    "url": "https://raw.githubusercontent.com/dr-richard-barker/image-analysis-software-and-R-codes/master/APEX05/rsml/APEX5_RSML_day4/GC/C6_DSC_2878_aligned_aligned.rsml",
-   "group": "Ground control",
+   "group": "Ground control · cax2-3",
    "name": "C6 DSC 2878",
-   "condition": "Ground control"
+   "condition": "Ground control",
+   "genotype": "cax2-3"
   },
   {
    "file": "APEX5_RSML_day4/GC/C7_DSC_2882_aligned_aligned.rsml",
    "url": "https://raw.githubusercontent.com/dr-richard-barker/image-analysis-software-and-R-codes/master/APEX05/rsml/APEX5_RSML_day4/GC/C7_DSC_2882_aligned_aligned.rsml",
-   "group": "Ground control",
+   "group": "Ground control · cax2-3",
    "name": "C7 DSC 2882",
-   "condition": "Ground control"
+   "condition": "Ground control",
+   "genotype": "cax2-3"
   },
   {
    "file": "APEX5_RSML_day4/GC/C8_DSC_2886_aligned_aligned.rsml",
    "url": "https://raw.githubusercontent.com/dr-richard-barker/image-analysis-software-and-R-codes/master/APEX05/rsml/APEX5_RSML_day4/GC/C8_DSC_2886_aligned_aligned.rsml",
-   "group": "Ground control",
+   "group": "Ground control · cax2-3",
    "name": "C8 DSC 2886",
-   "condition": "Ground control"
+   "condition": "Ground control",
+   "genotype": "cax2-3"
   },
   {
    "file": "APEX5_images/APEX5_Measuring/APEX5_FL_day4_Macro_aligned_cropped/A3_FL_362A6914_aligned_aligned.rsml",
    "url": "https://raw.githubusercontent.com/dr-richard-barker/image-analysis-software-and-R-codes/master/APEX05/rsml/APEX5_images/APEX5_Measuring/APEX5_FL_day4_Macro_aligned_cropped/A3_FL_362A6914_aligned_aligned.rsml",
-   "group": "Flight",
+   "group": "Flight · Col-0",
    "name": "A3 FL 362A6914 · APEX5_imag",
-   "condition": "Flight"
+   "condition": "Flight",
+   "genotype": "Col-0"
   },
   {
    "file": "APEX5_images/APEX5_Measuring/APEX5_FL_day4_Macro_aligned_cropped/A4_FL_362A6918_aligned_aligned.rsml",
    "url": "https://raw.githubusercontent.com/dr-richard-barker/image-analysis-software-and-R-codes/master/APEX05/rsml/APEX5_images/APEX5_Measuring/APEX5_FL_day4_Macro_aligned_cropped/A4_FL_362A6918_aligned_aligned.rsml",
-   "group": "Flight",
+   "group": "Flight · Col-0",
    "name": "A4 FL 362A6918 · APEX5_imag",
-   "condition": "Flight"
+   "condition": "Flight",
+   "genotype": "Col-0"
   },
   {
    "file": "APEX5_images/APEX5_Measuring/APEX5_FL_day4_Macro_aligned_cropped/A5_FL_362A6922_aligned_aligned.rsml",
    "url": "https://raw.githubusercontent.com/dr-richard-barker/image-analysis-software-and-R-codes/master/APEX05/rsml/APEX5_images/APEX5_Measuring/APEX5_FL_day4_Macro_aligned_cropped/A5_FL_362A6922_aligned_aligned.rsml",
-   "group": "Flight",
+   "group": "Flight · Col-0",
    "name": "A5 FL 362A6922 · APEX5_imag",
-   "condition": "Flight"
+   "condition": "Flight",
+   "genotype": "Col-0"
   },
   {
    "file": "APEX5_images/APEX5_Measuring/APEX5_FL_day4_Macro_aligned_cropped/A6_FL_362A6927_aligned_aligned.rsml",
    "url": "https://raw.githubusercontent.com/dr-richard-barker/image-analysis-software-and-R-codes/master/APEX05/rsml/APEX5_images/APEX5_Measuring/APEX5_FL_day4_Macro_aligned_cropped/A6_FL_362A6927_aligned_aligned.rsml",
-   "group": "Flight",
+   "group": "Flight · Col-0",
    "name": "A6 FL 362A6927 · APEX5_imag",
-   "condition": "Flight"
+   "condition": "Flight",
+   "genotype": "Col-0"
   },
   {
    "file": "APEX5_images/APEX5_Measuring/APEX5_FL_day4_Macro_aligned_cropped/A7_FL_362A6930_aligned_aligned.rsml",
    "url": "https://raw.githubusercontent.com/dr-richard-barker/image-analysis-software-and-R-codes/master/APEX05/rsml/APEX5_images/APEX5_Measuring/APEX5_FL_day4_Macro_aligned_cropped/A7_FL_362A6930_aligned_aligned.rsml",
-   "group": "Flight",
+   "group": "Flight · Col-0",
    "name": "A7 FL 362A6930 · APEX5_imag",
-   "condition": "Flight"
+   "condition": "Flight",
+   "genotype": "Col-0"
   },
   {
    "file": "APEX5_images/APEX5_Measuring/APEX5_FL_day4_Macro_aligned_cropped/A8_FL_362A6935_aligned_aligned.rsml",
    "url": "https://raw.githubusercontent.com/dr-richard-barker/image-analysis-software-and-R-codes/master/APEX05/rsml/APEX5_images/APEX5_Measuring/APEX5_FL_day4_Macro_aligned_cropped/A8_FL_362A6935_aligned_aligned.rsml",
-   "group": "Flight",
+   "group": "Flight · Col-0",
    "name": "A8 FL 362A6935 · APEX5_imag",
-   "condition": "Flight"
+   "condition": "Flight",
+   "genotype": "Col-0"
   },
   {
    "file": "APEX5_images/APEX5_Measuring/APEX5_FL_day4_Macro_aligned_cropped/B2_FL_day4_362A6944.rsml",
    "url": "https://raw.githubusercontent.com/dr-richard-barker/image-analysis-software-and-R-codes/master/APEX05/rsml/APEX5_images/APEX5_Measuring/APEX5_FL_day4_Macro_aligned_cropped/B2_FL_day4_362A6944.rsml",
-   "group": "Flight",
+   "group": "Flight · cax2-2",
    "name": "B2 FL day4 362A6944 · APEX5_imag",
-   "condition": "Flight"
+   "condition": "Flight",
+   "genotype": "cax2-2"
   },
   {
    "file": "APEX5_images/APEX5_Measuring/APEX5_FL_day4_Macro_aligned_cropped/B3_FL_362A6947_aligned_aligned.rsml",
    "url": "https://raw.githubusercontent.com/dr-richard-barker/image-analysis-software-and-R-codes/master/APEX05/rsml/APEX5_images/APEX5_Measuring/APEX5_FL_day4_Macro_aligned_cropped/B3_FL_362A6947_aligned_aligned.rsml",
-   "group": "Flight",
+   "group": "Flight · cax2-2",
    "name": "B3 FL 362A6947 · APEX5_imag",
-   "condition": "Flight"
+   "condition": "Flight",
+   "genotype": "cax2-2"
   },
   {
    "file": "APEX5_images/APEX5_Measuring/APEX5_FL_day4_Macro_aligned_cropped/B4_FL_362A6952_aligned_aligned.rsml",
    "url": "https://raw.githubusercontent.com/dr-richard-barker/image-analysis-software-and-R-codes/master/APEX05/rsml/APEX5_images/APEX5_Measuring/APEX5_FL_day4_Macro_aligned_cropped/B4_FL_362A6952_aligned_aligned.rsml",
-   "group": "Flight",
+   "group": "Flight · cax2-2",
    "name": "B4 FL 362A6952 · APEX5_imag",
-   "condition": "Flight"
+   "condition": "Flight",
+   "genotype": "cax2-2"
   },
   {
    "file": "APEX5_images/APEX5_Measuring/APEX5_FL_day4_Macro_aligned_cropped/B5_FL_362A6958_aligned_aligned.rsml",
    "url": "https://raw.githubusercontent.com/dr-richard-barker/image-analysis-software-and-R-codes/master/APEX05/rsml/APEX5_images/APEX5_Measuring/APEX5_FL_day4_Macro_aligned_cropped/B5_FL_362A6958_aligned_aligned.rsml",
-   "group": "Flight",
+   "group": "Flight · cax2-2",
    "name": "B5 FL 362A6958 · APEX5_imag",
-   "condition": "Flight"
+   "condition": "Flight",
+   "genotype": "cax2-2"
   },
   {
    "file": "APEX5_images/APEX5_Measuring/APEX5_FL_day4_Macro_aligned_cropped/B6_FL_362A6961_aligned_aligned.rsml",
    "url": "https://raw.githubusercontent.com/dr-richard-barker/image-analysis-software-and-R-codes/master/APEX05/rsml/APEX5_images/APEX5_Measuring/APEX5_FL_day4_Macro_aligned_cropped/B6_FL_362A6961_aligned_aligned.rsml",
-   "group": "Flight",
+   "group": "Flight · cax2-2",
    "name": "B6 FL 362A6961 · APEX5_imag",
-   "condition": "Flight"
+   "condition": "Flight",
+   "genotype": "cax2-2"
   },
   {
    "file": "APEX5_images/APEX5_Measuring/APEX5_FL_day4_Macro_aligned_cropped/B7_FL_362A6966_aligned_aligned.rsml",
    "url": "https://raw.githubusercontent.com/dr-richard-barker/image-analysis-software-and-R-codes/master/APEX05/rsml/APEX5_images/APEX5_Measuring/APEX5_FL_day4_Macro_aligned_cropped/B7_FL_362A6966_aligned_aligned.rsml",
-   "group": "Flight",
+   "group": "Flight · cax2-2",
    "name": "B7 FL 362A6966 · APEX5_imag",
-   "condition": "Flight"
+   "condition": "Flight",
+   "genotype": "cax2-2"
   },
   {
    "file": "APEX5_images/APEX5_Measuring/APEX5_FL_day4_Macro_aligned_cropped/B8_FL_362A6972_aligned_aligned.rsml",
    "url": "https://raw.githubusercontent.com/dr-richard-barker/image-analysis-software-and-R-codes/master/APEX05/rsml/APEX5_images/APEX5_Measuring/APEX5_FL_day4_Macro_aligned_cropped/B8_FL_362A6972_aligned_aligned.rsml",
-   "group": "Flight",
+   "group": "Flight · cax2-2",
    "name": "B8 FL 362A6972 · APEX5_imag",
-   "condition": "Flight"
+   "condition": "Flight",
+   "genotype": "cax2-2"
   },
   {
    "file": "APEX5_images/APEX5_Measuring/APEX5_FL_day4_Macro_aligned_cropped/B9_FL_362A6977_aligned_aligned.rsml",
    "url": "https://raw.githubusercontent.com/dr-richard-barker/image-analysis-software-and-R-codes/master/APEX05/rsml/APEX5_images/APEX5_Measuring/APEX5_FL_day4_Macro_aligned_cropped/B9_FL_362A6977_aligned_aligned.rsml",
-   "group": "Flight",
+   "group": "Flight · cax2-2",
    "name": "B9 FL 362A6977 · APEX5_imag",
-   "condition": "Flight"
+   "condition": "Flight",
+   "genotype": "cax2-2"
   },
   {
    "file": "APEX5_images/APEX5_Measuring/APEX5_FL_day4_Macro_aligned_cropped/C3_FL_362A6985_aligned_aligned.rsml",
    "url": "https://raw.githubusercontent.com/dr-richard-barker/image-analysis-software-and-R-codes/master/APEX05/rsml/APEX5_images/APEX5_Measuring/APEX5_FL_day4_Macro_aligned_cropped/C3_FL_362A6985_aligned_aligned.rsml",
-   "group": "Flight",
+   "group": "Flight · cax2-3",
    "name": "C3 FL 362A6985 · APEX5_imag",
-   "condition": "Flight"
+   "condition": "Flight",
+   "genotype": "cax2-3"
   },
   {
    "file": "APEX5_images/APEX5_Measuring/APEX5_FL_day4_Macro_aligned_cropped/C4_FL_362A6988_aligned_aligned.rsml",
    "url": "https://raw.githubusercontent.com/dr-richard-barker/image-analysis-software-and-R-codes/master/APEX05/rsml/APEX5_images/APEX5_Measuring/APEX5_FL_day4_Macro_aligned_cropped/C4_FL_362A6988_aligned_aligned.rsml",
-   "group": "Flight",
+   "group": "Flight · cax2-3",
    "name": "C4 FL 362A6988 · APEX5_imag",
-   "condition": "Flight"
+   "condition": "Flight",
+   "genotype": "cax2-3"
   },
   {
    "file": "APEX5_images/APEX5_Measuring/APEX5_FL_day4_Macro_aligned_cropped/C5_FL_362A6992_aligned_aligned.rsml",
    "url": "https://raw.githubusercontent.com/dr-richard-barker/image-analysis-software-and-R-codes/master/APEX05/rsml/APEX5_images/APEX5_Measuring/APEX5_FL_day4_Macro_aligned_cropped/C5_FL_362A6992_aligned_aligned.rsml",
-   "group": "Flight",
+   "group": "Flight · cax2-3",
    "name": "C5 FL 362A6992 · APEX5_imag",
-   "condition": "Flight"
+   "condition": "Flight",
+   "genotype": "cax2-3"
   },
   {
    "file": "APEX5_images/APEX5_Measuring/APEX5_FL_day4_Macro_aligned_cropped/C6_FL_362A6996_aligned_aligned.rsml",
    "url": "https://raw.githubusercontent.com/dr-richard-barker/image-analysis-software-and-R-codes/master/APEX05/rsml/APEX5_images/APEX5_Measuring/APEX5_FL_day4_Macro_aligned_cropped/C6_FL_362A6996_aligned_aligned.rsml",
-   "group": "Flight",
+   "group": "Flight · cax2-3",
    "name": "C6 FL 362A6996 · APEX5_imag",
-   "condition": "Flight"
+   "condition": "Flight",
+   "genotype": "cax2-3"
   },
   {
    "file": "APEX5_images/APEX5_Measuring/APEX5_FL_day4_Macro_aligned_cropped/C7_FL_362A7004_aligned_aligned.rsml",
    "url": "https://raw.githubusercontent.com/dr-richard-barker/image-analysis-software-and-R-codes/master/APEX05/rsml/APEX5_images/APEX5_Measuring/APEX5_FL_day4_Macro_aligned_cropped/C7_FL_362A7004_aligned_aligned.rsml",
-   "group": "Flight",
+   "group": "Flight · cax2-3",
    "name": "C7 FL 362A7004 · APEX5_imag",
-   "condition": "Flight"
+   "condition": "Flight",
+   "genotype": "cax2-3"
   },
   {
    "file": "APEX5_images/APEX5_Measuring/APEX5_FL_day4_Macro_aligned_cropped/C8_FL_362A7007_aligned_aligned.rsml",
    "url": "https://raw.githubusercontent.com/dr-richard-barker/image-analysis-software-and-R-codes/master/APEX05/rsml/APEX5_images/APEX5_Measuring/APEX5_FL_day4_Macro_aligned_cropped/C8_FL_362A7007_aligned_aligned.rsml",
-   "group": "Flight",
+   "group": "Flight · cax2-3",
    "name": "C8 FL 362A7007 · APEX5_imag",
-   "condition": "Flight"
+   "condition": "Flight",
+   "genotype": "cax2-3"
   },
   {
    "file": "APEX5_images/APEX5_Measuring/APEX5_GC_day4_Macro_aligned_cropped/A3_DSC_2799_aligned_aligned.rsml",
    "url": "https://raw.githubusercontent.com/dr-richard-barker/image-analysis-software-and-R-codes/master/APEX05/rsml/APEX5_images/APEX5_Measuring/APEX5_GC_day4_Macro_aligned_cropped/A3_DSC_2799_aligned_aligned.rsml",
-   "group": "Ground control",
+   "group": "Ground control · Col-0",
    "name": "A3 DSC 2799 · APEX5_imag",
-   "condition": "Ground control"
+   "condition": "Ground control",
+   "genotype": "Col-0"
   },
   {
    "file": "APEX5_images/APEX5_Measuring/APEX5_GC_day4_Macro_aligned_cropped/A4_DSC_2804_aligned_aligned.rsml",
    "url": "https://raw.githubusercontent.com/dr-richard-barker/image-analysis-software-and-R-codes/master/APEX05/rsml/APEX5_images/APEX5_Measuring/APEX5_GC_day4_Macro_aligned_cropped/A4_DSC_2804_aligned_aligned.rsml",
-   "group": "Ground control",
+   "group": "Ground control · Col-0",
    "name": "A4 DSC 2804 · APEX5_imag",
-   "condition": "Ground control"
+   "condition": "Ground control",
+   "genotype": "Col-0"
   },
   {
    "file": "APEX5_images/APEX5_Measuring/APEX5_GC_day4_Macro_aligned_cropped/A5_DSC_2807_aligned_aligned.rsml",
    "url": "https://raw.githubusercontent.com/dr-richard-barker/image-analysis-software-and-R-codes/master/APEX05/rsml/APEX5_images/APEX5_Measuring/APEX5_GC_day4_Macro_aligned_cropped/A5_DSC_2807_aligned_aligned.rsml",
-   "group": "Ground control",
+   "group": "Ground control · Col-0",
    "name": "A5 DSC 2807 · APEX5_imag",
-   "condition": "Ground control"
+   "condition": "Ground control",
+   "genotype": "Col-0"
   },
   {
    "file": "APEX5_images/APEX5_Measuring/APEX5_GC_day4_Macro_aligned_cropped/A6_DSC_2811_aligned_aligned.rsml",
    "url": "https://raw.githubusercontent.com/dr-richard-barker/image-analysis-software-and-R-codes/master/APEX05/rsml/APEX5_images/APEX5_Measuring/APEX5_GC_day4_Macro_aligned_cropped/A6_DSC_2811_aligned_aligned.rsml",
-   "group": "Ground control",
+   "group": "Ground control · Col-0",
    "name": "A6 DSC 2811 · APEX5_imag",
-   "condition": "Ground control"
+   "condition": "Ground control",
+   "genotype": "Col-0"
   },
   {
    "file": "APEX5_images/APEX5_Measuring/APEX5_GC_day4_Macro_aligned_cropped/A7_DSC_2816_aligned_aligned.rsml",
    "url": "https://raw.githubusercontent.com/dr-richard-barker/image-analysis-software-and-R-codes/master/APEX05/rsml/APEX5_images/APEX5_Measuring/APEX5_GC_day4_Macro_aligned_cropped/A7_DSC_2816_aligned_aligned.rsml",
-   "group": "Ground control",
+   "group": "Ground control · Col-0",
    "name": "A7 DSC 2816 · APEX5_imag",
-   "condition": "Ground control"
+   "condition": "Ground control",
+   "genotype": "Col-0"
   },
   {
    "file": "APEX5_images/APEX5_Measuring/APEX5_GC_day4_Macro_aligned_cropped/A8_DSC_2820_aligned_aligned.rsml",
    "url": "https://raw.githubusercontent.com/dr-richard-barker/image-analysis-software-and-R-codes/master/APEX05/rsml/APEX5_images/APEX5_Measuring/APEX5_GC_day4_Macro_aligned_cropped/A8_DSC_2820_aligned_aligned.rsml",
-   "group": "Ground control",
+   "group": "Ground control · Col-0",
    "name": "A8 DSC 2820 · APEX5_imag",
-   "condition": "Ground control"
+   "condition": "Ground control",
+   "genotype": "Col-0"
   },
   {
    "file": "APEX5_images/APEX5_Measuring/APEX5_GC_day4_Macro_aligned_cropped/B2_DSC_2828_aligned_aligned.rsml",
    "url": "https://raw.githubusercontent.com/dr-richard-barker/image-analysis-software-and-R-codes/master/APEX05/rsml/APEX5_images/APEX5_Measuring/APEX5_GC_day4_Macro_aligned_cropped/B2_DSC_2828_aligned_aligned.rsml",
-   "group": "Ground control",
+   "group": "Ground control · cax2-2",
    "name": "B2 DSC 2828 · APEX5_imag",
-   "condition": "Ground control"
+   "condition": "Ground control",
+   "genotype": "cax2-2"
   },
   {
    "file": "APEX5_images/APEX5_Measuring/APEX5_GC_day4_Macro_aligned_cropped/B3_DSC_2832_aligned_aligned.rsml",
    "url": "https://raw.githubusercontent.com/dr-richard-barker/image-analysis-software-and-R-codes/master/APEX05/rsml/APEX5_images/APEX5_Measuring/APEX5_GC_day4_Macro_aligned_cropped/B3_DSC_2832_aligned_aligned.rsml",
-   "group": "Ground control",
+   "group": "Ground control · cax2-2",
    "name": "B3 DSC 2832 · APEX5_imag",
-   "condition": "Ground control"
+   "condition": "Ground control",
+   "genotype": "cax2-2"
   },
   {
    "file": "APEX5_images/APEX5_Measuring/APEX5_GC_day4_Macro_aligned_cropped/B4_DSC_2836_aligned_aligned.rsml",
    "url": "https://raw.githubusercontent.com/dr-richard-barker/image-analysis-software-and-R-codes/master/APEX05/rsml/APEX5_images/APEX5_Measuring/APEX5_GC_day4_Macro_aligned_cropped/B4_DSC_2836_aligned_aligned.rsml",
-   "group": "Ground control",
+   "group": "Ground control · cax2-2",
    "name": "B4 DSC 2836 · APEX5_imag",
-   "condition": "Ground control"
+   "condition": "Ground control",
+   "genotype": "cax2-2"
   },
   {
    "file": "APEX5_images/APEX5_Measuring/APEX5_GC_day4_Macro_aligned_cropped/B5_DSC_2839_aligned_aligned.rsml",
    "url": "https://raw.githubusercontent.com/dr-richard-barker/image-analysis-software-and-R-codes/master/APEX05/rsml/APEX5_images/APEX5_Measuring/APEX5_GC_day4_Macro_aligned_cropped/B5_DSC_2839_aligned_aligned.rsml",
-   "group": "Ground control",
+   "group": "Ground control · cax2-2",
    "name": "B5 DSC 2839 · APEX5_imag",
-   "condition": "Ground control"
+   "condition": "Ground control",
+   "genotype": "cax2-2"
   },
   {
    "file": "APEX5_images/APEX5_Measuring/APEX5_GC_day4_Macro_aligned_cropped/B6_DSC_2844_aligned_aligned.rsml",
    "url": "https://raw.githubusercontent.com/dr-richard-barker/image-analysis-software-and-R-codes/master/APEX05/rsml/APEX5_images/APEX5_Measuring/APEX5_GC_day4_Macro_aligned_cropped/B6_DSC_2844_aligned_aligned.rsml",
-   "group": "Ground control",
+   "group": "Ground control · cax2-2",
    "name": "B6 DSC 2844 · APEX5_imag",
-   "condition": "Ground control"
+   "condition": "Ground control",
+   "genotype": "cax2-2"
   },
   {
    "file": "APEX5_images/APEX5_Measuring/APEX5_GC_day4_Macro_aligned_cropped/B7_DSC_2847_aligned_aligned.rsml",
    "url": "https://raw.githubusercontent.com/dr-richard-barker/image-analysis-software-and-R-codes/master/APEX05/rsml/APEX5_images/APEX5_Measuring/APEX5_GC_day4_Macro_aligned_cropped/B7_DSC_2847_aligned_aligned.rsml",
-   "group": "Ground control",
+   "group": "Ground control · cax2-2",
    "name": "B7 DSC 2847 · APEX5_imag",
-   "condition": "Ground control"
+   "condition": "Ground control",
+   "genotype": "cax2-2"
   },
   {
    "file": "APEX5_images/APEX5_Measuring/APEX5_GC_day4_Macro_aligned_cropped/B8_DSC_2851_aligned_aligned.rsml",
    "url": "https://raw.githubusercontent.com/dr-richard-barker/image-analysis-software-and-R-codes/master/APEX05/rsml/APEX5_images/APEX5_Measuring/APEX5_GC_day4_Macro_aligned_cropped/B8_DSC_2851_aligned_aligned.rsml",
-   "group": "Ground control",
+   "group": "Ground control · cax2-2",
    "name": "B8 DSC 2851 · APEX5_imag",
-   "condition": "Ground control"
+   "condition": "Ground control",
+   "genotype": "cax2-2"
   },
   {
    "file": "APEX5_images/APEX5_Measuring/APEX5_GC_day4_Macro_aligned_cropped/B9_DSC_2856_aligned_aligned.rsml",
    "url": "https://raw.githubusercontent.com/dr-richard-barker/image-analysis-software-and-R-codes/master/APEX05/rsml/APEX5_images/APEX5_Measuring/APEX5_GC_day4_Macro_aligned_cropped/B9_DSC_2856_aligned_aligned.rsml",
-   "group": "Ground control",
+   "group": "Ground control · cax2-2",
    "name": "B9 DSC 2856 · APEX5_imag",
-   "condition": "Ground control"
+   "condition": "Ground control",
+   "genotype": "cax2-2"
   },
   {
    "file": "APEX5_images/APEX5_Measuring/APEX5_GC_day4_Macro_aligned_cropped/C3_DSC_2864_aligned_aligned.rsml",
    "url": "https://raw.githubusercontent.com/dr-richard-barker/image-analysis-software-and-R-codes/master/APEX05/rsml/APEX5_images/APEX5_Measuring/APEX5_GC_day4_Macro_aligned_cropped/C3_DSC_2864_aligned_aligned.rsml",
-   "group": "Ground control",
+   "group": "Ground control · cax2-3",
    "name": "C3 DSC 2864 · APEX5_imag",
-   "condition": "Ground control"
+   "condition": "Ground control",
+   "genotype": "cax2-3"
   },
   {
    "file": "APEX5_images/APEX5_Measuring/APEX5_GC_day4_Macro_aligned_cropped/C4_DSC_2869_aligned_aligned.rsml",
    "url": "https://raw.githubusercontent.com/dr-richard-barker/image-analysis-software-and-R-codes/master/APEX05/rsml/APEX5_images/APEX5_Measuring/APEX5_GC_day4_Macro_aligned_cropped/C4_DSC_2869_aligned_aligned.rsml",
-   "group": "Ground control",
+   "group": "Ground control · cax2-3",
    "name": "C4 DSC 2869 · APEX5_imag",
-   "condition": "Ground control"
+   "condition": "Ground control",
+   "genotype": "cax2-3"
   },
   {
    "file": "APEX5_images/APEX5_Measuring/APEX5_GC_day4_Macro_aligned_cropped/C5_DSC_2873_aligned_aligned.rsml",
    "url": "https://raw.githubusercontent.com/dr-richard-barker/image-analysis-software-and-R-codes/master/APEX05/rsml/APEX5_images/APEX5_Measuring/APEX5_GC_day4_Macro_aligned_cropped/C5_DSC_2873_aligned_aligned.rsml",
-   "group": "Ground control",
+   "group": "Ground control · cax2-3",
    "name": "C5 DSC 2873 · APEX5_imag",
-   "condition": "Ground control"
+   "condition": "Ground control",
+   "genotype": "cax2-3"
   },
   {
    "file": "APEX5_images/APEX5_Measuring/APEX5_GC_day4_Macro_aligned_cropped/C6_DSC_2878_aligned_aligned.rsml",
    "url": "https://raw.githubusercontent.com/dr-richard-barker/image-analysis-software-and-R-codes/master/APEX05/rsml/APEX5_images/APEX5_Measuring/APEX5_GC_day4_Macro_aligned_cropped/C6_DSC_2878_aligned_aligned.rsml",
-   "group": "Ground control",
+   "group": "Ground control · cax2-3",
    "name": "C6 DSC 2878 · APEX5_imag",
-   "condition": "Ground control"
+   "condition": "Ground control",
+   "genotype": "cax2-3"
   },
   {
    "file": "APEX5_images/APEX5_Measuring/APEX5_GC_day4_Macro_aligned_cropped/C7_DSC_2882_aligned_aligned.rsml",
    "url": "https://raw.githubusercontent.com/dr-richard-barker/image-analysis-software-and-R-codes/master/APEX05/rsml/APEX5_images/APEX5_Measuring/APEX5_GC_day4_Macro_aligned_cropped/C7_DSC_2882_aligned_aligned.rsml",
-   "group": "Ground control",
+   "group": "Ground control · cax2-3",
    "name": "C7 DSC 2882 · APEX5_imag",
-   "condition": "Ground control"
+   "condition": "Ground control",
+   "genotype": "cax2-3"
   },
   {
    "file": "APEX5_images/APEX5_Measuring/APEX5_GC_day4_Macro_aligned_cropped/C8_DSC_2886_aligned_aligned.rsml",
    "url": "https://raw.githubusercontent.com/dr-richard-barker/image-analysis-software-and-R-codes/master/APEX05/rsml/APEX5_images/APEX5_Measuring/APEX5_GC_day4_Macro_aligned_cropped/C8_DSC_2886_aligned_aligned.rsml",
-   "group": "Ground control",
+   "group": "Ground control · cax2-3",
    "name": "C8 DSC 2886 · APEX5_imag",
-   "condition": "Ground control"
+   "condition": "Ground control",
+   "genotype": "cax2-3"
   },
   {
    "file": "APEX5_images/APEX5_Measuring/Corners/APEX5_FL_Col_A1-corner_Macro_aligned_cropped/2day_Col_FL_aligned.rsml",
@@ -1838,9 +1918,10 @@
   {
    "file": "APEX5_images/Processing_for_measuring./APEX5_Adobe_Aligned_FL_day8/APEX5_FL_adobe_aligned_day8/B5_iss054e007230_aligned.rsml",
    "url": "https://raw.githubusercontent.com/dr-richard-barker/image-analysis-software-and-R-codes/master/APEX05/rsml/APEX5_images/Processing_for_measuring./APEX5_Adobe_Aligned_FL_day8/APEX5_FL_adobe_aligned_day8/B5_iss054e007230_aligned.rsml",
-   "group": "Flight",
+   "group": "Flight · cax2-2",
    "name": "B5 iss054e007230",
-   "condition": "Flight"
+   "condition": "Flight",
+   "genotype": "cax2-2"
   },
   {
    "file": "APEX_RSML_corners_fixed_2_7_18/Col_FL_A1_2.rsml",
