@@ -1,0 +1,1393 @@
+{
+ "name": "TICTOC cotton root architecture",
+ "description": "Cotton (Gossypium) spaceflight vs ground, days 3-6; SmartRoot RSML.",
+ "count": 198,
+ "files": [
+  {
+   "file": "Data/Final_RSML_format/A68_a12_FL_3.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/A68_a12_FL_3.rsml",
+   "group": "Flight \u00b7 day 3",
+   "name": "A68 a12 FL 3",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/A68_a12_FL_4.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/A68_a12_FL_4.rsml",
+   "group": "Flight \u00b7 day 4",
+   "name": "A68 a12 FL 4",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/A68_a12_FL_5.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/A68_a12_FL_5.rsml",
+   "group": "Flight \u00b7 day 5",
+   "name": "A68 a12 FL 5",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/A68_a12_FL_6.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/A68_a12_FL_6.rsml",
+   "group": "Flight \u00b7 day 6",
+   "name": "A68 a12 FL 6",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/A68_a4_GC_3.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/A68_a4_GC_3.rsml",
+   "group": "Ground control \u00b7 day 3",
+   "name": "A68 a4 GC 3",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/A68_a4_GC_4.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/A68_a4_GC_4.rsml",
+   "group": "Ground control \u00b7 day 4",
+   "name": "A68 a4 GC 4",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/A68_a4_GC_5.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/A68_a4_GC_5.rsml",
+   "group": "Ground control \u00b7 day 5",
+   "name": "A68 a4 GC 5",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/A68_a4_GC_6.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/A68_a4_GC_6.rsml",
+   "group": "Ground control \u00b7 day 6",
+   "name": "A68 a4 GC 6",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/A68_b12_GC_3.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/A68_b12_GC_3.rsml",
+   "group": "Ground control \u00b7 day 3",
+   "name": "A68 b12 GC 3",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/A68_b12_GC_4.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/A68_b12_GC_4.rsml",
+   "group": "Ground control \u00b7 day 4",
+   "name": "A68 b12 GC 4",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/A68_b12_GC_5.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/A68_b12_GC_5.rsml",
+   "group": "Ground control \u00b7 day 5",
+   "name": "A68 b12 GC 5",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/A68_b12_GC_6.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/A68_b12_GC_6.rsml",
+   "group": "Ground control \u00b7 day 6",
+   "name": "A68 b12 GC 6",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/A68_b2_FL_3.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/A68_b2_FL_3.rsml",
+   "group": "Flight \u00b7 day 3",
+   "name": "A68 b2 FL 3",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/A68_b2_FL_4.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/A68_b2_FL_4.rsml",
+   "group": "Flight \u00b7 day 4",
+   "name": "A68 b2 FL 4",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/A68_b2_FL_5.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/A68_b2_FL_5.rsml",
+   "group": "Flight \u00b7 day 5",
+   "name": "A68 b2 FL 5",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/A68_b2_FL_6.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/A68_b2_FL_6.rsml",
+   "group": "Flight \u00b7 day 6",
+   "name": "A68 b2 FL 6",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/A68_b4_FL_3.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/A68_b4_FL_3.rsml",
+   "group": "Flight \u00b7 day 3",
+   "name": "A68 b4 FL 3",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/A68_b4_FL_4.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/A68_b4_FL_4.rsml",
+   "group": "Flight \u00b7 day 4",
+   "name": "A68 b4 FL 4",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/A68_b4_FL_5.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/A68_b4_FL_5.rsml",
+   "group": "Flight \u00b7 day 5",
+   "name": "A68 b4 FL 5",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/A68_b4_FL_6.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/A68_b4_FL_6.rsml",
+   "group": "Flight \u00b7 day 6",
+   "name": "A68 b4 FL 6",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/A68_b8_FL_3.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/A68_b8_FL_3.rsml",
+   "group": "Flight \u00b7 day 3",
+   "name": "A68 b8 FL 3",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/A68_b8_FL_4.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/A68_b8_FL_4.rsml",
+   "group": "Flight \u00b7 day 4",
+   "name": "A68 b8 FL 4",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/A68_b8_FL_5.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/A68_b8_FL_5.rsml",
+   "group": "Flight \u00b7 day 5",
+   "name": "A68 b8 FL 5",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/A68_b8_FL_6.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/A68_b8_FL_6.rsml",
+   "group": "Flight \u00b7 day 6",
+   "name": "A68 b8 FL 6",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/A68_c2_GC_4.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/A68_c2_GC_4.rsml",
+   "group": "Ground control \u00b7 day 4",
+   "name": "A68 c2 GC 4",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/A68_c2_GC_5.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/A68_c2_GC_5.rsml",
+   "group": "Ground control \u00b7 day 5",
+   "name": "A68 c2 GC 5",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/A68_c2_GC_6.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/A68_c2_GC_6.rsml",
+   "group": "Ground control \u00b7 day 6",
+   "name": "A68 c2 GC 6",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/A68_d12_FL_3.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/A68_d12_FL_3.rsml",
+   "group": "Flight \u00b7 day 3",
+   "name": "A68 d12 FL 3",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/A68_d12_FL_4.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/A68_d12_FL_4.rsml",
+   "group": "Flight \u00b7 day 4",
+   "name": "A68 d12 FL 4",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/A68_d12_FL_5.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/A68_d12_FL_5.rsml",
+   "group": "Flight \u00b7 day 5",
+   "name": "A68 d12 FL 5",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/A68_d12_FL_6.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/A68_d12_FL_6.rsml",
+   "group": "Flight \u00b7 day 6",
+   "name": "A68 d12 FL 6",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/A68_d12_GC_3.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/A68_d12_GC_3.rsml",
+   "group": "Ground control \u00b7 day 3",
+   "name": "A68 d12 GC 3",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/A68_d12_GC_4.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/A68_d12_GC_4.rsml",
+   "group": "Ground control \u00b7 day 4",
+   "name": "A68 d12 GC 4",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/A68_d12_GC_5.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/A68_d12_GC_5.rsml",
+   "group": "Ground control \u00b7 day 5",
+   "name": "A68 d12 GC 5",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/A68_d12_GC_6.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/A68_d12_GC_6.rsml",
+   "group": "Ground control \u00b7 day 6",
+   "name": "A68 d12 GC 6",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/A68_d8_GC_3.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/A68_d8_GC_3.rsml",
+   "group": "Ground control \u00b7 day 3",
+   "name": "A68 d8 GC 3",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/A68_d8_GC_4.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/A68_d8_GC_4.rsml",
+   "group": "Ground control \u00b7 day 4",
+   "name": "A68 d8 GC 4",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/A68_d8_GC_5.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/A68_d8_GC_5.rsml",
+   "group": "Ground control \u00b7 day 5",
+   "name": "A68 d8 GC 5",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/A68_d8_GC_6.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/A68_d8_GC_6.rsml",
+   "group": "Ground control \u00b7 day 6",
+   "name": "A68 d8 GC 6",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/D130_a11_FL_3.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/D130_a11_FL_3.rsml",
+   "group": "Flight \u00b7 day 3",
+   "name": "D130 a11 FL 3",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/D130_a11_FL_4.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/D130_a11_FL_4.rsml",
+   "group": "Flight \u00b7 day 4",
+   "name": "D130 a11 FL 4",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/D130_a11_FL_5.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/D130_a11_FL_5.rsml",
+   "group": "Flight \u00b7 day 5",
+   "name": "D130 a11 FL 5",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/D130_a11_FL_6.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/D130_a11_FL_6.rsml",
+   "group": "Flight \u00b7 day 6",
+   "name": "D130 a11 FL 6",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/D130_a11_GC_3.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/D130_a11_GC_3.rsml",
+   "group": "Ground control \u00b7 day 3",
+   "name": "D130 a11 GC 3",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/D130_a11_GC_4.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/D130_a11_GC_4.rsml",
+   "group": "Ground control \u00b7 day 4",
+   "name": "D130 a11 GC 4",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/D130_a11_GC_5.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/D130_a11_GC_5.rsml",
+   "group": "Ground control \u00b7 day 5",
+   "name": "D130 a11 GC 5",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/D130_a11_GC_6.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/D130_a11_GC_6.rsml",
+   "group": "Ground control \u00b7 day 6",
+   "name": "D130 a11 GC 6",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/D130_a1_GC_3.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/D130_a1_GC_3.rsml",
+   "group": "Ground control \u00b7 day 3",
+   "name": "D130 a1 GC 3",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/D130_a1_GC_4.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/D130_a1_GC_4.rsml",
+   "group": "Ground control \u00b7 day 4",
+   "name": "D130 a1 GC 4",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/D130_a1_GC_5.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/D130_a1_GC_5.rsml",
+   "group": "Ground control \u00b7 day 5",
+   "name": "D130 a1 GC 5",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/D130_a1_GC_6.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/D130_a1_GC_6.rsml",
+   "group": "Ground control \u00b7 day 6",
+   "name": "D130 a1 GC 6",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/D130_a6_FL_3.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/D130_a6_FL_3.rsml",
+   "group": "Flight \u00b7 day 3",
+   "name": "D130 a6 FL 3",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/D130_a6_FL_4.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/D130_a6_FL_4.rsml",
+   "group": "Flight \u00b7 day 4",
+   "name": "D130 a6 FL 4",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/D130_a6_FL_5.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/D130_a6_FL_5.rsml",
+   "group": "Flight \u00b7 day 5",
+   "name": "D130 a6 FL 5",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/D130_a6_FL_6.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/D130_a6_FL_6.rsml",
+   "group": "Flight \u00b7 day 6",
+   "name": "D130 a6 FL 6",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/D130_a7_FL_3.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/D130_a7_FL_3.rsml",
+   "group": "Flight \u00b7 day 3",
+   "name": "D130 a7 FL 3",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/D130_a7_FL_4.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/D130_a7_FL_4.rsml",
+   "group": "Flight \u00b7 day 4",
+   "name": "D130 a7 FL 4",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/D130_a7_FL_5.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/D130_a7_FL_5.rsml",
+   "group": "Flight \u00b7 day 5",
+   "name": "D130 a7 FL 5",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/D130_a7_FL_6.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/D130_a7_FL_6.rsml",
+   "group": "Flight \u00b7 day 6",
+   "name": "D130 a7 FL 6",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/D130_b11_FL_3.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/D130_b11_FL_3.rsml",
+   "group": "Flight \u00b7 day 3",
+   "name": "D130 b11 FL 3",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/D130_b11_FL_4.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/D130_b11_FL_4.rsml",
+   "group": "Flight \u00b7 day 4",
+   "name": "D130 b11 FL 4",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/D130_b11_FL_5.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/D130_b11_FL_5.rsml",
+   "group": "Flight \u00b7 day 5",
+   "name": "D130 b11 FL 5",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/D130_b11_FL_6.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/D130_b11_FL_6.rsml",
+   "group": "Flight \u00b7 day 6",
+   "name": "D130 b11 FL 6",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/D130_b11_GC_3.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/D130_b11_GC_3.rsml",
+   "group": "Ground control \u00b7 day 3",
+   "name": "D130 b11 GC 3",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/D130_b11_GC_4.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/D130_b11_GC_4.rsml",
+   "group": "Ground control \u00b7 day 4",
+   "name": "D130 b11 GC 4",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/D130_b11_GC_5.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/D130_b11_GC_5.rsml",
+   "group": "Ground control \u00b7 day 5",
+   "name": "D130 b11 GC 5",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/D130_b11_GC_6.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/D130_b11_GC_6.rsml",
+   "group": "Ground control \u00b7 day 6",
+   "name": "D130 b11 GC 6",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/D130_b1_GC_3.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/D130_b1_GC_3.rsml",
+   "group": "Ground control \u00b7 day 3",
+   "name": "D130 b1 GC 3",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/D130_b1_GC_4.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/D130_b1_GC_4.rsml",
+   "group": "Ground control \u00b7 day 4",
+   "name": "D130 b1 GC 4",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/D130_b1_GC_5.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/D130_b1_GC_5.rsml",
+   "group": "Ground control \u00b7 day 5",
+   "name": "D130 b1 GC 5",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/D130_b1_GC_6.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/D130_b1_GC_6.rsml",
+   "group": "Ground control \u00b7 day 6",
+   "name": "D130 b1 GC 6",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/D130_b6_GC_3.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/D130_b6_GC_3.rsml",
+   "group": "Ground control \u00b7 day 3",
+   "name": "D130 b6 GC 3",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/D130_b6_GC_4.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/D130_b6_GC_4.rsml",
+   "group": "Ground control \u00b7 day 4",
+   "name": "D130 b6 GC 4",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/D130_b6_GC_5.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/D130_b6_GC_5.rsml",
+   "group": "Ground control \u00b7 day 5",
+   "name": "D130 b6 GC 5",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/D130_b6_GC_6.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/D130_b6_GC_6.rsml",
+   "group": "Ground control \u00b7 day 6",
+   "name": "D130 b6 GC 6",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/D130_c11_FL_3.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/D130_c11_FL_3.rsml",
+   "group": "Flight \u00b7 day 3",
+   "name": "D130 c11 FL 3",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/D130_c11_FL_4.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/D130_c11_FL_4.rsml",
+   "group": "Flight \u00b7 day 4",
+   "name": "D130 c11 FL 4",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/D130_c11_FL_5.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/D130_c11_FL_5.rsml",
+   "group": "Flight \u00b7 day 5",
+   "name": "D130 c11 FL 5",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/D130_c11_FL_6.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/D130_c11_FL_6.rsml",
+   "group": "Flight \u00b7 day 6",
+   "name": "D130 c11 FL 6",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/D130_c11_GC_3.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/D130_c11_GC_3.rsml",
+   "group": "Ground control \u00b7 day 3",
+   "name": "D130 c11 GC 3",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/D130_c11_GC_4.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/D130_c11_GC_4.rsml",
+   "group": "Ground control \u00b7 day 4",
+   "name": "D130 c11 GC 4",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/D130_c11_GC_5.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/D130_c11_GC_5.rsml",
+   "group": "Ground control \u00b7 day 5",
+   "name": "D130 c11 GC 5",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/D130_c11_GC_6.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/D130_c11_GC_6.rsml",
+   "group": "Ground control \u00b7 day 6",
+   "name": "D130 c11 GC 6",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/D130_c6_GC_3.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/D130_c6_GC_3.rsml",
+   "group": "Ground control \u00b7 day 3",
+   "name": "D130 c6 GC 3",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/D130_c6_GC_4.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/D130_c6_GC_4.rsml",
+   "group": "Ground control \u00b7 day 4",
+   "name": "D130 c6 GC 4",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/D130_c6_GC_5.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/D130_c6_GC_5.rsml",
+   "group": "Ground control \u00b7 day 5",
+   "name": "D130 c6 GC 5",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/D130_c6_GC_6.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/D130_c6_GC_6.rsml",
+   "group": "Ground control \u00b7 day 6",
+   "name": "D130 c6 GC 6",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/D130_c7_GC_4.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/D130_c7_GC_4.rsml",
+   "group": "Ground control \u00b7 day 4",
+   "name": "D130 c7 GC 4",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/D130_c7_GC_5.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/D130_c7_GC_5.rsml",
+   "group": "Ground control \u00b7 day 5",
+   "name": "D130 c7 GC 5",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/D130_c7_GC_6.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/D130_c7_GC_6.rsml",
+   "group": "Ground control \u00b7 day 6",
+   "name": "D130 c7 GC 6",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/D130_d11_FL_3.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/D130_d11_FL_3.rsml",
+   "group": "Flight \u00b7 day 3",
+   "name": "D130 d11 FL 3",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/D130_d11_FL_4.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/D130_d11_FL_4.rsml",
+   "group": "Flight \u00b7 day 4",
+   "name": "D130 d11 FL 4",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/D130_d11_FL_5.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/D130_d11_FL_5.rsml",
+   "group": "Flight \u00b7 day 5",
+   "name": "D130 d11 FL 5",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/D130_d11_FL_6.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/D130_d11_FL_6.rsml",
+   "group": "Flight \u00b7 day 6",
+   "name": "D130 d11 FL 6",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/D130_d11_GC_4.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/D130_d11_GC_4.rsml",
+   "group": "Ground control \u00b7 day 4",
+   "name": "D130 d11 GC 4",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/D130_d11_GC_5.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/D130_d11_GC_5.rsml",
+   "group": "Ground control \u00b7 day 5",
+   "name": "D130 d11 GC 5",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/D130_d11_GC_6.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/D130_d11_GC_6.rsml",
+   "group": "Ground control \u00b7 day 6",
+   "name": "D130 d11 GC 6",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/D130_d1_GC_3.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/D130_d1_GC_3.rsml",
+   "group": "Ground control \u00b7 day 3",
+   "name": "D130 d1 GC 3",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/D130_d1_GC_4.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/D130_d1_GC_4.rsml",
+   "group": "Ground control \u00b7 day 4",
+   "name": "D130 d1 GC 4",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/D130_d1_GC_5.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/D130_d1_GC_5.rsml",
+   "group": "Ground control \u00b7 day 5",
+   "name": "D130 d1 GC 5",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/D130_d1_GC_6.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/D130_d1_GC_6.rsml",
+   "group": "Ground control \u00b7 day 6",
+   "name": "D130 d1 GC 6",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/D130_d6_GC_3.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/D130_d6_GC_3.rsml",
+   "group": "Ground control \u00b7 day 3",
+   "name": "D130 d6 GC 3",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/D130_d6_GC_4.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/D130_d6_GC_4.rsml",
+   "group": "Ground control \u00b7 day 4",
+   "name": "D130 d6 GC 4",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/D130_d6_GC_5.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/D130_d6_GC_5.rsml",
+   "group": "Ground control \u00b7 day 5",
+   "name": "D130 d6 GC 5",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/D130_d6_GC_6.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/D130_d6_GC_6.rsml",
+   "group": "Ground control \u00b7 day 6",
+   "name": "D130 d6 GC 6",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/D130_d7_GC_3.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/D130_d7_GC_3.rsml",
+   "group": "Ground control \u00b7 day 3",
+   "name": "D130 d7 GC 3",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/D130_d7_GC_4.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/D130_d7_GC_4.rsml",
+   "group": "Ground control \u00b7 day 4",
+   "name": "D130 d7 GC 4",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/D130_d7_GC_5.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/D130_d7_GC_5.rsml",
+   "group": "Ground control \u00b7 day 5",
+   "name": "D130 d7 GC 5",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/D130_d7_GC_6.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/D130_d7_GC_6.rsml",
+   "group": "Ground control \u00b7 day 6",
+   "name": "D130 d7 GC 6",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_a10_FL_3.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_a10_FL_3.rsml",
+   "group": "Flight \u00b7 day 3",
+   "name": "WT a10 FL 3",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_a10_FL_4.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_a10_FL_4.rsml",
+   "group": "Flight \u00b7 day 4",
+   "name": "WT a10 FL 4",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_a10_FL_5.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_a10_FL_5.rsml",
+   "group": "Flight \u00b7 day 5",
+   "name": "WT a10 FL 5",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_a10_FL_6.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_a10_FL_6.rsml",
+   "group": "Flight \u00b7 day 6",
+   "name": "WT a10 FL 6",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_a10_GC_3.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_a10_GC_3.rsml",
+   "group": "Ground control \u00b7 day 3",
+   "name": "WT a10 GC 3",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_a10_GC_4.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_a10_GC_4.rsml",
+   "group": "Ground control \u00b7 day 4",
+   "name": "WT a10 GC 4",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_a10_GC_5.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_a10_GC_5.rsml",
+   "group": "Ground control \u00b7 day 5",
+   "name": "WT a10 GC 5",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_a10_GC_6.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_a10_GC_6.rsml",
+   "group": "Ground control \u00b7 day 6",
+   "name": "WT a10 GC 6",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_a3_FL_3.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_a3_FL_3.rsml",
+   "group": "Flight \u00b7 day 3",
+   "name": "WT a3 FL 3",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_a3_FL_4.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_a3_FL_4.rsml",
+   "group": "Flight \u00b7 day 4",
+   "name": "WT a3 FL 4",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_a3_FL_5.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_a3_FL_5.rsml",
+   "group": "Flight \u00b7 day 5",
+   "name": "WT a3 FL 5",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_a3_FL_6.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_a3_FL_6.rsml",
+   "group": "Flight \u00b7 day 6",
+   "name": "WT a3 FL 6",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_a3_GC_3.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_a3_GC_3.rsml",
+   "group": "Ground control \u00b7 day 3",
+   "name": "WT a3 GC 3",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_a3_GC_4.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_a3_GC_4.rsml",
+   "group": "Ground control \u00b7 day 4",
+   "name": "WT a3 GC 4",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_a3_GC_5.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_a3_GC_5.rsml",
+   "group": "Ground control \u00b7 day 5",
+   "name": "WT a3 GC 5",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_a3_GC_6.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_a3_GC_6.rsml",
+   "group": "Ground control \u00b7 day 6",
+   "name": "WT a3 GC 6",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_a5_GC_3.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_a5_GC_3.rsml",
+   "group": "Ground control \u00b7 day 3",
+   "name": "WT a5 GC 3",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_a5_GC_4.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_a5_GC_4.rsml",
+   "group": "Ground control \u00b7 day 4",
+   "name": "WT a5 GC 4",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_a5_GC_5.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_a5_GC_5.rsml",
+   "group": "Ground control \u00b7 day 5",
+   "name": "WT a5 GC 5",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_a5_GC_6.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_a5_GC_6.rsml",
+   "group": "Ground control \u00b7 day 6",
+   "name": "WT a5 GC 6",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_a9_FL_3.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_a9_FL_3.rsml",
+   "group": "Flight \u00b7 day 3",
+   "name": "WT a9 FL 3",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_a9_FL_4.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_a9_FL_4.rsml",
+   "group": "Flight \u00b7 day 4",
+   "name": "WT a9 FL 4",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_a9_FL_5.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_a9_FL_5.rsml",
+   "group": "Flight \u00b7 day 5",
+   "name": "WT a9 FL 5",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_a9_FL_6.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_a9_FL_6.rsml",
+   "group": "Flight \u00b7 day 6",
+   "name": "WT a9 FL 6",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_a9_GC_3.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_a9_GC_3.rsml",
+   "group": "Ground control \u00b7 day 3",
+   "name": "WT a9 GC 3",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_a9_GC_4.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_a9_GC_4.rsml",
+   "group": "Ground control \u00b7 day 4",
+   "name": "WT a9 GC 4",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_a9_GC_5.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_a9_GC_5.rsml",
+   "group": "Ground control \u00b7 day 5",
+   "name": "WT a9 GC 5",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_a9_GC_6.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_a9_GC_6.rsml",
+   "group": "Ground control \u00b7 day 6",
+   "name": "WT a9 GC 6",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_b10_FL_3.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_b10_FL_3.rsml",
+   "group": "Flight \u00b7 day 3",
+   "name": "WT b10 FL 3",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_b10_FL_4.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_b10_FL_4.rsml",
+   "group": "Flight \u00b7 day 4",
+   "name": "WT b10 FL 4",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_b10_FL_5.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_b10_FL_5.rsml",
+   "group": "Flight \u00b7 day 5",
+   "name": "WT b10 FL 5",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_b10_FL_6.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_b10_FL_6.rsml",
+   "group": "Flight \u00b7 day 6",
+   "name": "WT b10 FL 6",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_b3_FL_3.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_b3_FL_3.rsml",
+   "group": "Flight \u00b7 day 3",
+   "name": "WT b3 FL 3",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_b3_FL_4.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_b3_FL_4.rsml",
+   "group": "Flight \u00b7 day 4",
+   "name": "WT b3 FL 4",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_b3_FL_5.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_b3_FL_5.rsml",
+   "group": "Flight \u00b7 day 5",
+   "name": "WT b3 FL 5",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_b3_FL_6.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_b3_FL_6.rsml",
+   "group": "Flight \u00b7 day 6",
+   "name": "WT b3 FL 6",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_b3_GC_3.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_b3_GC_3.rsml",
+   "group": "Ground control \u00b7 day 3",
+   "name": "WT b3 GC 3",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_b3_GC_4.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_b3_GC_4.rsml",
+   "group": "Ground control \u00b7 day 4",
+   "name": "WT b3 GC 4",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_b3_GC_5.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_b3_GC_5.rsml",
+   "group": "Ground control \u00b7 day 5",
+   "name": "WT b3 GC 5",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_b3_GC_6.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_b3_GC_6.rsml",
+   "group": "Ground control \u00b7 day 6",
+   "name": "WT b3 GC 6",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_b5_FL_3.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_b5_FL_3.rsml",
+   "group": "Flight \u00b7 day 3",
+   "name": "WT b5 FL 3",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_b5_FL_4.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_b5_FL_4.rsml",
+   "group": "Flight \u00b7 day 4",
+   "name": "WT b5 FL 4",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_b9_FL_3.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_b9_FL_3.rsml",
+   "group": "Flight \u00b7 day 3",
+   "name": "WT b9 FL 3",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_b9_FL_4.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_b9_FL_4.rsml",
+   "group": "Flight \u00b7 day 4",
+   "name": "WT b9 FL 4",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_b9_FL_5.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_b9_FL_5.rsml",
+   "group": "Flight \u00b7 day 5",
+   "name": "WT b9 FL 5",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_b9_FL_6.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_b9_FL_6.rsml",
+   "group": "Flight \u00b7 day 6",
+   "name": "WT b9 FL 6",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_b9_GC_3.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_b9_GC_3.rsml",
+   "group": "Ground control \u00b7 day 3",
+   "name": "WT b9 GC 3",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_c10_FL_3.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_c10_FL_3.rsml",
+   "group": "Flight \u00b7 day 3",
+   "name": "WT c10 FL 3",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_c10_FL_4.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_c10_FL_4.rsml",
+   "group": "Flight \u00b7 day 4",
+   "name": "WT c10 FL 4",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_c10_FL_5.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_c10_FL_5.rsml",
+   "group": "Flight \u00b7 day 5",
+   "name": "WT c10 FL 5",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_c10_FL_6.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_c10_FL_6.rsml",
+   "group": "Flight \u00b7 day 6",
+   "name": "WT c10 FL 6",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_c10_GC_3.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_c10_GC_3.rsml",
+   "group": "Ground control \u00b7 day 3",
+   "name": "WT c10 GC 3",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_c10_GC_4.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_c10_GC_4.rsml",
+   "group": "Ground control \u00b7 day 4",
+   "name": "WT c10 GC 4",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_c10_GC_5.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_c10_GC_5.rsml",
+   "group": "Ground control \u00b7 day 5",
+   "name": "WT c10 GC 5",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_c10_GC_6.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_c10_GC_6.rsml",
+   "group": "Ground control \u00b7 day 6",
+   "name": "WT c10 GC 6",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_c3_FL_3.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_c3_FL_3.rsml",
+   "group": "Flight \u00b7 day 3",
+   "name": "WT c3 FL 3",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_c3_FL_4.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_c3_FL_4.rsml",
+   "group": "Flight \u00b7 day 4",
+   "name": "WT c3 FL 4",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_c3_FL_5.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_c3_FL_5.rsml",
+   "group": "Flight \u00b7 day 5",
+   "name": "WT c3 FL 5",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_c3_FL_6.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_c3_FL_6.rsml",
+   "group": "Flight \u00b7 day 6",
+   "name": "WT c3 FL 6",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_c3_GC_3.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_c3_GC_3.rsml",
+   "group": "Ground control \u00b7 day 3",
+   "name": "WT c3 GC 3",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_c3_GC_4.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_c3_GC_4.rsml",
+   "group": "Ground control \u00b7 day 4",
+   "name": "WT c3 GC 4",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_c3_GC_5.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_c3_GC_5.rsml",
+   "group": "Ground control \u00b7 day 5",
+   "name": "WT c3 GC 5",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_c3_GC_6.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_c3_GC_6.rsml",
+   "group": "Ground control \u00b7 day 6",
+   "name": "WT c3 GC 6",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_c5_GC_3.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_c5_GC_3.rsml",
+   "group": "Ground control \u00b7 day 3",
+   "name": "WT c5 GC 3",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_c5_GC_4.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_c5_GC_4.rsml",
+   "group": "Ground control \u00b7 day 4",
+   "name": "WT c5 GC 4",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_c5_GC_6.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_c5_GC_6.rsml",
+   "group": "Ground control \u00b7 day 6",
+   "name": "WT c5 GC 6",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_c9_FL_3.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_c9_FL_3.rsml",
+   "group": "Flight \u00b7 day 3",
+   "name": "WT c9 FL 3",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_c9_FL_4.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_c9_FL_4.rsml",
+   "group": "Flight \u00b7 day 4",
+   "name": "WT c9 FL 4",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_c9_FL_5.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_c9_FL_5.rsml",
+   "group": "Flight \u00b7 day 5",
+   "name": "WT c9 FL 5",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_c9_GC_3.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_c9_GC_3.rsml",
+   "group": "Ground control \u00b7 day 3",
+   "name": "WT c9 GC 3",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_c9_GC_5.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_c9_GC_5.rsml",
+   "group": "Ground control \u00b7 day 5",
+   "name": "WT c9 GC 5",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_c9_GC_6.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_c9_GC_6.rsml",
+   "group": "Ground control \u00b7 day 6",
+   "name": "WT c9 GC 6",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_d10_FL_3.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_d10_FL_3.rsml",
+   "group": "Flight \u00b7 day 3",
+   "name": "WT d10 FL 3",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_d10_FL_4.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_d10_FL_4.rsml",
+   "group": "Flight \u00b7 day 4",
+   "name": "WT d10 FL 4",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_d10_FL_5.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_d10_FL_5.rsml",
+   "group": "Flight \u00b7 day 5",
+   "name": "WT d10 FL 5",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_d10_FL_6.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_d10_FL_6.rsml",
+   "group": "Flight \u00b7 day 6",
+   "name": "WT d10 FL 6",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_d3_FL_3.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_d3_FL_3.rsml",
+   "group": "Flight \u00b7 day 3",
+   "name": "WT d3 FL 3",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_d3_FL_4.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_d3_FL_4.rsml",
+   "group": "Flight \u00b7 day 4",
+   "name": "WT d3 FL 4",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_d3_FL_5.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_d3_FL_5.rsml",
+   "group": "Flight \u00b7 day 5",
+   "name": "WT d3 FL 5",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_d3_FL_6.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_d3_FL_6.rsml",
+   "group": "Flight \u00b7 day 6",
+   "name": "WT d3 FL 6",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_d3_GC_3.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_d3_GC_3.rsml",
+   "group": "Ground control \u00b7 day 3",
+   "name": "WT d3 GC 3",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_d3_GC_4.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_d3_GC_4.rsml",
+   "group": "Ground control \u00b7 day 4",
+   "name": "WT d3 GC 4",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_d3_GC_5.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_d3_GC_5.rsml",
+   "group": "Ground control \u00b7 day 5",
+   "name": "WT d3 GC 5",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_d3_GC_6.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_d3_GC_6.rsml",
+   "group": "Ground control \u00b7 day 6",
+   "name": "WT d3 GC 6",
+   "condition": "Ground control"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_d5_FL_3.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_d5_FL_3.rsml",
+   "group": "Flight \u00b7 day 3",
+   "name": "WT d5 FL 3",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_d5_FL_4.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_d5_FL_4.rsml",
+   "group": "Flight \u00b7 day 4",
+   "name": "WT d5 FL 4",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_d5_FL_5.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_d5_FL_5.rsml",
+   "group": "Flight \u00b7 day 5",
+   "name": "WT d5 FL 5",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_d5_FL_6.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_d5_FL_6.rsml",
+   "group": "Flight \u00b7 day 6",
+   "name": "WT d5 FL 6",
+   "condition": "Flight"
+  },
+  {
+   "file": "Data/Final_RSML_format/WT_d9_GC_6.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TICTOC/main/Data/Final_RSML_format/WT_d9_GC_6.rsml",
+   "group": "Ground control \u00b7 day 6",
+   "name": "WT d9 GC 6",
+   "condition": "Ground control"
+  }
+ ]
+}
