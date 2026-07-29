@@ -1,0 +1,49 @@
+filename,species,genotype,tissue,condition,light,day,rep,osdr_source
+OSD-120_GR_Ws_d13_dark_001.jpg,Arabidopsis thaliana,Ws,root,Ground control,dark,day 13,3,LSDS-33_morphometric-photography_Atha_Ws_root_GC_dark_Rep3_GSM2493773_Day13_image2.jpg
+OSD-120_GR_Ws_d13_dark_002.jpg,Arabidopsis thaliana,Ws,root,Ground control,dark,day 13,3,LSDS-33_morphometric-photography_Atha_Ws_root_GC_dark_Rep3_GSM2493773_Day13_image1.jpg
+OSD-120_GR_Ws_d09_ambient_003.jpg,Arabidopsis thaliana,Ws,root,Ground control,ambient,day 9,3,LSDS-33_morphometric-photography_Atha_Ws_root_GC_Alight_Rep3_GSM2493764_Day09_image3.jpg
+OSD-120_GR_Ws_d09_ambient_004.jpg,Arabidopsis thaliana,Ws,root,Ground control,ambient,day 9,3,LSDS-33_morphometric-photography_Atha_Ws_root_GC_Alight_Rep3_GSM2493764_Day09_image2.jpg
+OSD-120_GR_Ws_d06_ambient_005.jpg,Arabidopsis thaliana,Ws,root,Ground control,ambient,day 6,3,LSDS-33_morphometric-photography_Atha_Ws_root_GC_Alight_Rep3_GSM2493764_Day06_image1.jpg
+OSD-120_GR_Ws_d06_ambient_006.jpg,Arabidopsis thaliana,Ws,root,Ground control,ambient,day 6,2,LSDS-33_morphometric-photography_Atha_Ws_root_GC_Alight_Rep2_GSM2493763_Day06_image4.jpg
+OSD-120_GR_Ws_d03_ambient_007.jpg,Arabidopsis thaliana,Ws,root,Ground control,ambient,day 3,3,LSDS-33_morphometric-photography_Atha_Ws_root_GC_Alight_Rep3_GSM2493764_Day03_image1.jpg
+OSD-120_GR_Ws_d03_ambient_008.jpg,Arabidopsis thaliana,Ws,root,Ground control,ambient,day 3,2,LSDS-33_morphometric-photography_Atha_Ws_root_GC_Alight_Rep2_GSM2493763_Day03_image1.jpg
+OSD-120_FL_Ws_d13_dark_009.jpg,Arabidopsis thaliana,Ws,root,Flight,dark,day 13,3,LSDS-33_morphometric-photography_Atha_Ws_root_FLT_dark_Rep3_GSM2493791_Day13_image5.jpg
+OSD-120_FL_Ws_d13_dark_010.jpg,Arabidopsis thaliana,Ws,root,Flight,dark,day 13,3,LSDS-33_morphometric-photography_Atha_Ws_root_FLT_dark_Rep3_GSM2493791_Day13_image4.jpg
+OSD-120_FL_Ws_d09_ambient_011.jpg,Arabidopsis thaliana,Ws,root,Flight,ambient,day 9,3,LSDS-33_morphometric-photography_Atha_Ws_root_FLT_Alight_Rep3_GSM2493782_Day09_image2.jpg
+OSD-120_FL_Ws_d09_ambient_012.jpg,Arabidopsis thaliana,Ws,root,Flight,ambient,day 9,3,LSDS-33_morphometric-photography_Atha_Ws_root_FLT_Alight_Rep3_GSM2493782_Day09_image1.jpg
+OSD-120_FL_Ws_d06_ambient_013.jpg,Arabidopsis thaliana,Ws,root,Flight,ambient,day 6,3,LSDS-33_morphometric-photography_Atha_Ws_root_FLT_Alight_Rep3_GSM2493782_Day06_image2.jpg
+OSD-120_FL_Ws_d06_ambient_014.jpg,Arabidopsis thaliana,Ws,root,Flight,ambient,day 6,3,LSDS-33_morphometric-photography_Atha_Ws_root_FLT_Alight_Rep3_GSM2493782_Day06_image1.jpg
+OSD-120_FL_Ws_d03_ambient_015.jpg,Arabidopsis thaliana,Ws,root,Flight,ambient,day 3,3,LSDS-33_morphometric-photography_Atha_Ws_root_FLT_Alight_Rep3_GSM2493782_Day03_image2.jpg
+OSD-120_FL_Ws_d03_ambient_016.jpg,Arabidopsis thaliana,Ws,root,Flight,ambient,day 3,3,LSDS-33_morphometric-photography_Atha_Ws_root_FLT_Alight_Rep3_GSM2493782_Day03_image1.jpg
+OSD-120_GR_Col-0_d13_dark_017.jpg,Arabidopsis thaliana,Col-0,root,Ground control,dark,day 13,3,LSDS-33_morphometric-photography_Atha_Col-0_root_GC_dark_Rep3_GSM2493770_Day13_image2.jpg
+OSD-120_GR_Col-0_d13_dark_018.jpg,Arabidopsis thaliana,Col-0,root,Ground control,dark,day 13,3,LSDS-33_morphometric-photography_Atha_Col-0_root_GC_dark_Rep3_GSM2493770_Day13_image1.jpg
+OSD-120_GR_Col-0_d09_ambient_019.jpg,Arabidopsis thaliana,Col-0,root,Ground control,ambient,day 9,3,LSDS-33_morphometric-photography_Atha_Col-0_root_GC_Alight_Rep3_GSM2493761_Day09_image2.jpg
+OSD-120_GR_Col-0_d09_ambient_020.jpg,Arabidopsis thaliana,Col-0,root,Ground control,ambient,day 9,3,LSDS-33_morphometric-photography_Atha_Col-0_root_GC_Alight_Rep3_GSM2493761_Day09_image1.jpg
+OSD-120_GR_Col-0_d06_ambient_021.jpg,Arabidopsis thaliana,Col-0,root,Ground control,ambient,day 6,3,LSDS-33_morphometric-photography_Atha_Col-0_root_GC_Alight_Rep3_GSM2493761_Day06_image2.jpg
+OSD-120_GR_Col-0_d06_ambient_022.jpg,Arabidopsis thaliana,Col-0,root,Ground control,ambient,day 6,3,LSDS-33_morphometric-photography_Atha_Col-0_root_GC_Alight_Rep3_GSM2493761_Day06_image1.jpg
+OSD-120_GR_Col-0_d03_ambient_023.jpg,Arabidopsis thaliana,Col-0,root,Ground control,ambient,day 3,3,LSDS-33_morphometric-photography_Atha_Col-0_root_GC_Alight_Rep3_GSM2493761_Day03_image1.jpg
+OSD-120_GR_Col-0_d03_ambient_024.jpg,Arabidopsis thaliana,Col-0,root,Ground control,ambient,day 3,2,LSDS-33_morphometric-photography_Atha_Col-0_root_GC_Alight_Rep2_GSM2493760_Day03_image1.jpg
+OSD-120_FL_Col-0_d13_dark_025.jpg,Arabidopsis thaliana,Col-0,root,Flight,dark,day 13,3,LSDS-33_morphometric-photography_Atha_Col-0_root_FLT_dark_Rep3_GSM2493788_Day13_image2.jpg
+OSD-120_FL_Col-0_d13_dark_026.jpg,Arabidopsis thaliana,Col-0,root,Flight,dark,day 13,3,LSDS-33_morphometric-photography_Atha_Col-0_root_FLT_dark_Rep3_GSM2493788_Day13_image1.jpg
+OSD-120_FL_Col-0_d09_ambient_027.jpg,Arabidopsis thaliana,Col-0,root,Flight,ambient,day 9,3,LSDS-33_morphometric-photography_Atha_Col-0_root_FLT_Alight_Rep3_GSM2493779_Day09_image3.jpg
+OSD-120_FL_Col-0_d09_ambient_028.jpg,Arabidopsis thaliana,Col-0,root,Flight,ambient,day 9,3,LSDS-33_morphometric-photography_Atha_Col-0_root_FLT_Alight_Rep3_GSM2493779_Day09_image2.jpg
+OSD-120_FL_Col-0_d06_ambient_029.jpg,Arabidopsis thaliana,Col-0,root,Flight,ambient,day 6,3,LSDS-33_morphometric-photography_Atha_Col-0_root_FLT_Alight_Rep3_GSM2493779_Day06_image2.jpg
+OSD-120_FL_Col-0_d06_ambient_030.jpg,Arabidopsis thaliana,Col-0,root,Flight,ambient,day 6,3,LSDS-33_morphometric-photography_Atha_Col-0_root_FLT_Alight_Rep3_GSM2493779_Day06_image1.jpg
+OSD-120_FL_Col-0_d03_ambient_031.jpg,Arabidopsis thaliana,Col-0,root,Flight,ambient,day 3,3,LSDS-33_morphometric-photography_Atha_Col-0_root_FLT_Alight_Rep3_GSM2493779_Day03_image3.jpg
+OSD-120_FL_Col-0_d03_ambient_032.jpg,Arabidopsis thaliana,Col-0,root,Flight,ambient,day 3,3,LSDS-33_morphometric-photography_Atha_Col-0_root_FLT_Alight_Rep3_GSM2493779_Day03_image2.jpg
+OSD-120_GR_Col-0-PhyD_d13_dark_033.jpg,Arabidopsis thaliana,Col-0 phyD,root,Ground control,dark,day 13,3,LSDS-33_morphometric-photography_Atha_Col-0-PhyD_root_GC_dark_Rep3_GSM2493776_Day13_image2.jpg
+OSD-120_GR_Col-0-PhyD_d13_dark_034.jpg,Arabidopsis thaliana,Col-0 phyD,root,Ground control,dark,day 13,3,LSDS-33_morphometric-photography_Atha_Col-0-PhyD_root_GC_dark_Rep3_GSM2493776_Day13_image1.jpg
+OSD-120_GR_Col-0-PhyD_d09_ambient_035.jpg,Arabidopsis thaliana,Col-0 phyD,root,Ground control,ambient,day 9,3,LSDS-33_morphometric-photography_Atha_Col-0-PhyD_root_GC_Alight_Rep3_GSM2493767_Day09_image2.jpg
+OSD-120_GR_Col-0-PhyD_d09_ambient_036.jpg,Arabidopsis thaliana,Col-0 phyD,root,Ground control,ambient,day 9,3,LSDS-33_morphometric-photography_Atha_Col-0-PhyD_root_GC_Alight_Rep3_GSM2493767_Day09_image1.jpg
+OSD-120_GR_Col-0-PhyD_d06_ambient_037.jpg,Arabidopsis thaliana,Col-0 phyD,root,Ground control,ambient,day 6,3,LSDS-33_morphometric-photography_Atha_Col-0-PhyD_root_GC_Alight_Rep3_GSM2493767_Day06_image2.jpg
+OSD-120_GR_Col-0-PhyD_d06_ambient_038.jpg,Arabidopsis thaliana,Col-0 phyD,root,Ground control,ambient,day 6,3,LSDS-33_morphometric-photography_Atha_Col-0-PhyD_root_GC_Alight_Rep3_GSM2493767_Day06_image1.jpg
+OSD-120_GR_Col-0-PhyD_d03_ambient_039.jpg,Arabidopsis thaliana,Col-0 phyD,root,Ground control,ambient,day 3,3,LSDS-33_morphometric-photography_Atha_Col-0-PhyD_root_GC_Alight_Rep3_GSM2493767_Day03_image1.jpg
+OSD-120_GR_Col-0-PhyD_d03_ambient_040.jpg,Arabidopsis thaliana,Col-0 phyD,root,Ground control,ambient,day 3,2,LSDS-33_morphometric-photography_Atha_Col-0-PhyD_root_GC_Alight_Rep2_GSM2493766_Day03_image1.jpg
+OSD-120_FL_Col-0-PhyD_d13_dark_041.jpg,Arabidopsis thaliana,Col-0 phyD,root,Flight,dark,day 13,3,LSDS-33_morphometric-photography_Atha_Col-0-PhyD_root_FLT_dark_Rep3_GSM2493794_Day13_image2.jpg
+OSD-120_FL_Col-0-PhyD_d13_dark_042.jpg,Arabidopsis thaliana,Col-0 phyD,root,Flight,dark,day 13,3,LSDS-33_morphometric-photography_Atha_Col-0-PhyD_root_FLT_dark_Rep3_GSM2493794_Day13_image1.jpg
+OSD-120_FL_Col-0-PhyD_d06_ambient_043.jpg,Arabidopsis thaliana,Col-0 phyD,root,Flight,ambient,day 6,3,LSDS-33_morphometric-photography_Atha_Col-0-PhyD_root_FLT_Alight_Rep3_GSM2493785_Day06_image2.jpg
+OSD-120_FL_Col-0-PhyD_d06_ambient_044.jpg,Arabidopsis thaliana,Col-0 phyD,root,Flight,ambient,day 6,3,LSDS-33_morphometric-photography_Atha_Col-0-PhyD_root_FLT_Alight_Rep3_GSM2493785_Day06_image1.jpg
+OSD-120_FL_Col-0-PhyD_d03_ambient_045.jpg,Arabidopsis thaliana,Col-0 phyD,root,Flight,ambient,day 3,3,LSDS-33_morphometric-photography_Atha_Col-0-PhyD_root_FLT_Alight_Rep3_GSM2493785_Day03_image3.jpg
+OSD-120_FL_Col-0-PhyD_d03_ambient_046.jpg,Arabidopsis thaliana,Col-0 phyD,root,Flight,ambient,day 3,3,LSDS-33_morphometric-photography_Atha_Col-0-PhyD_root_FLT_Alight_Rep3_GSM2493785_Day03_image2.jpg
+OSD-120_FL_Col-0-PhyD_d09_ambient_047.jpg,Arabidopsis thaliana,Col-0 phyD,root,Flight,ambient,day 9,2,LSDS-33_morphometric-photography_Atha_Col-0-PhyD_root_FLT_Alight_Rep2_GSM2493784_Day09_image1.jpg
+OSD-120_FL_Col-0-PhyD_d09_ambient_048.jpg,Arabidopsis thaliana,Col-0 phyD,root,Flight,ambient,day 9,1,LSDS-33_morphometric-photography_Atha_Col-0-PhyD_root_FLT_Alight_Rep1_GSM2493783_Day09_image2.jpg
