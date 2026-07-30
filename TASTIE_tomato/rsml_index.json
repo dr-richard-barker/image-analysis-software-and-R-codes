@@ -1,0 +1,350 @@
+{
+ "name": "TASTIE tomato root architecture",
+ "description": "Tomato (Solanum lycopersicum) roots \u00b1 Trichoderma; SmartRoot RSML.",
+ "count": 49,
+ "files": [
+  {
+   "file": "APEX10_SVT_RSML/Control_TOM_12_DSC_6000_cropped_300dpi_01.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TASTIE_tomato/main/APEX10_SVT_RSML/Control_TOM_12_DSC_6000_cropped_300dpi_01.rsml",
+   "group": "Control \u00b7 TOM 12",
+   "name": "Control TOM 12 DSC 6000 cropped 300dpi 01",
+   "treatment": "Control"
+  },
+  {
+   "file": "APEX10_SVT_RSML/Control_TOM_12_DSC_6009_cropped_300dpi_02.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TASTIE_tomato/main/APEX10_SVT_RSML/Control_TOM_12_DSC_6009_cropped_300dpi_02.rsml",
+   "group": "Control \u00b7 TOM 12",
+   "name": "Control TOM 12 DSC 6009 cropped 300dpi 02",
+   "treatment": "Control"
+  },
+  {
+   "file": "APEX10_SVT_RSML/Control_TOM_12_DSC_6046_cropped_300dpi_05.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TASTIE_tomato/main/APEX10_SVT_RSML/Control_TOM_12_DSC_6046_cropped_300dpi_05.rsml",
+   "group": "Control \u00b7 TOM 12",
+   "name": "Control TOM 12 DSC 6046 cropped 300dpi 05",
+   "treatment": "Control"
+  },
+  {
+   "file": "APEX10_SVT_RSML/Just%20primary%20roots%20and%20fungi%20line/Control_TOM_14_DSC_6000_cropped_300dpi_01.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TASTIE_tomato/main/APEX10_SVT_RSML/Just%20primary%20roots%20and%20fungi%20line/Control_TOM_14_DSC_6000_cropped_300dpi_01.rsml",
+   "group": "Control \u00b7 TOM 14",
+   "name": "Control TOM 14 DSC 6000 cropped 300dpi 01",
+   "treatment": "Control"
+  },
+  {
+   "file": "APEX10_SVT_RSML/Just%20primary%20roots%20and%20fungi%20line/Control_TOM_14_DSC_6009_cropped_300dpi_02.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TASTIE_tomato/main/APEX10_SVT_RSML/Just%20primary%20roots%20and%20fungi%20line/Control_TOM_14_DSC_6009_cropped_300dpi_02.rsml",
+   "group": "Control \u00b7 TOM 14",
+   "name": "Control TOM 14 DSC 6009 cropped 300dpi 02",
+   "treatment": "Control"
+  },
+  {
+   "file": "APEX10_SVT_RSML/Just%20primary%20roots%20and%20fungi%20line/Control_TOM_14_DSC_6019_cropped_300dpi_03.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TASTIE_tomato/main/APEX10_SVT_RSML/Just%20primary%20roots%20and%20fungi%20line/Control_TOM_14_DSC_6019_cropped_300dpi_03.rsml",
+   "group": "Control \u00b7 TOM 14",
+   "name": "Control TOM 14 DSC 6019 cropped 300dpi 03",
+   "treatment": "Control"
+  },
+  {
+   "file": "APEX10_SVT_RSML/Just%20primary%20roots%20and%20fungi%20line/Control_TOM_14_DSC_6036_cropped_300dpi_04.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TASTIE_tomato/main/APEX10_SVT_RSML/Just%20primary%20roots%20and%20fungi%20line/Control_TOM_14_DSC_6036_cropped_300dpi_04.rsml",
+   "group": "Control \u00b7 TOM 14",
+   "name": "Control TOM 14 DSC 6036 cropped 300dpi 04",
+   "treatment": "Control"
+  },
+  {
+   "file": "APEX10_SVT_RSML/Just%20primary%20roots%20and%20fungi%20line/Control_TOM_14_DSC_6046_cropped_300dpi_05.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TASTIE_tomato/main/APEX10_SVT_RSML/Just%20primary%20roots%20and%20fungi%20line/Control_TOM_14_DSC_6046_cropped_300dpi_05.rsml",
+   "group": "Control \u00b7 TOM 14",
+   "name": "Control TOM 14 DSC 6046 cropped 300dpi 05",
+   "treatment": "Control"
+  },
+  {
+   "file": "APEX10_SVT_RSML/Just%20primary%20roots%20and%20fungi%20line/Control_TOM_14_DSC_6056_cropped_300dpi_06.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TASTIE_tomato/main/APEX10_SVT_RSML/Just%20primary%20roots%20and%20fungi%20line/Control_TOM_14_DSC_6056_cropped_300dpi_06.rsml",
+   "group": "Control \u00b7 TOM 14",
+   "name": "Control TOM 14 DSC 6056 cropped 300dpi 06",
+   "treatment": "Control"
+  },
+  {
+   "file": "APEX10_SVT_RSML/Just%20primary%20roots%20and%20fungi%20line/Tricho_TOM_14_DSC_6003_cropped_300dpi_13.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TASTIE_tomato/main/APEX10_SVT_RSML/Just%20primary%20roots%20and%20fungi%20line/Tricho_TOM_14_DSC_6003_cropped_300dpi_13.rsml",
+   "group": "+ Trichoderma \u00b7 TOM 14",
+   "name": "Tricho TOM 14 DSC 6003 cropped 300dpi 13",
+   "treatment": "+ Trichoderma"
+  },
+  {
+   "file": "APEX10_SVT_RSML/Just%20primary%20roots%20and%20fungi%20line/Tricho_TOM_14_DSC_6013_cropped_300dpi_14.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TASTIE_tomato/main/APEX10_SVT_RSML/Just%20primary%20roots%20and%20fungi%20line/Tricho_TOM_14_DSC_6013_cropped_300dpi_14.rsml",
+   "group": "+ Trichoderma \u00b7 TOM 14",
+   "name": "Tricho TOM 14 DSC 6013 cropped 300dpi 14",
+   "treatment": "+ Trichoderma"
+  },
+  {
+   "file": "APEX10_SVT_RSML/Just%20primary%20roots%20and%20fungi%20line/Tricho_TOM_14_DSC_6022_cropped_300dpi_15.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TASTIE_tomato/main/APEX10_SVT_RSML/Just%20primary%20roots%20and%20fungi%20line/Tricho_TOM_14_DSC_6022_cropped_300dpi_15.rsml",
+   "group": "+ Trichoderma \u00b7 TOM 14",
+   "name": "Tricho TOM 14 DSC 6022 cropped 300dpi 15",
+   "treatment": "+ Trichoderma"
+  },
+  {
+   "file": "APEX10_SVT_RSML/Just%20primary%20roots%20and%20fungi%20line/Tricho_TOM_14_DSC_6030_cropped_300dpi_16.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TASTIE_tomato/main/APEX10_SVT_RSML/Just%20primary%20roots%20and%20fungi%20line/Tricho_TOM_14_DSC_6030_cropped_300dpi_16.rsml",
+   "group": "+ Trichoderma \u00b7 TOM 14",
+   "name": "Tricho TOM 14 DSC 6030 cropped 300dpi 16",
+   "treatment": "+ Trichoderma"
+  },
+  {
+   "file": "APEX10_SVT_RSML/Just%20primary%20roots%20and%20fungi%20line/Tricho_TOM_14_DSC_6039_cropped_300dpi_17.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TASTIE_tomato/main/APEX10_SVT_RSML/Just%20primary%20roots%20and%20fungi%20line/Tricho_TOM_14_DSC_6039_cropped_300dpi_17.rsml",
+   "group": "+ Trichoderma \u00b7 TOM 14",
+   "name": "Tricho TOM 14 DSC 6039 cropped 300dpi 17",
+   "treatment": "+ Trichoderma"
+  },
+  {
+   "file": "APEX10_SVT_RSML/Just%20primary%20roots%20and%20fungi%20line/Tricho_TOM_14_DSC_6062_cropped_300dpi_19.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TASTIE_tomato/main/APEX10_SVT_RSML/Just%20primary%20roots%20and%20fungi%20line/Tricho_TOM_14_DSC_6062_cropped_300dpi_19.rsml",
+   "group": "+ Trichoderma \u00b7 TOM 14",
+   "name": "Tricho TOM 14 DSC 6062 cropped 300dpi 19",
+   "treatment": "+ Trichoderma"
+  },
+  {
+   "file": "APEX10_SVT_RSML/Just%20primary%20roots%20and%20fungi%20line/Tricho_control_14_APEX10_Project_cropped_20220711_0001.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TASTIE_tomato/main/APEX10_SVT_RSML/Just%20primary%20roots%20and%20fungi%20line/Tricho_control_14_APEX10_Project_cropped_20220711_0001.rsml",
+   "group": "+ Trichoderma",
+   "name": "Tricho control 14 APEX10 Project cropped 20220711 ",
+   "treatment": "+ Trichoderma"
+  },
+  {
+   "file": "APEX10_SVT_RSML/Just%20primary%20roots%20and%20fungi%20line/Tricho_control_14_APEX10_Project_cropped_20220711_0002.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TASTIE_tomato/main/APEX10_SVT_RSML/Just%20primary%20roots%20and%20fungi%20line/Tricho_control_14_APEX10_Project_cropped_20220711_0002.rsml",
+   "group": "+ Trichoderma",
+   "name": "Tricho control 14 APEX10 Project cropped 20220711 ",
+   "treatment": "+ Trichoderma"
+  },
+  {
+   "file": "APEX10_SVT_RSML/Just%20primary%20roots%20and%20fungi%20line/Tricho_control_14_APEX10_Project_cropped_20220711_0003.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TASTIE_tomato/main/APEX10_SVT_RSML/Just%20primary%20roots%20and%20fungi%20line/Tricho_control_14_APEX10_Project_cropped_20220711_0003.rsml",
+   "group": "+ Trichoderma",
+   "name": "Tricho control 14 APEX10 Project cropped 20220711 ",
+   "treatment": "+ Trichoderma"
+  },
+  {
+   "file": "APEX10_SVT_RSML/Just%20primary%20roots%20and%20fungi%20line/Tricho_control_14_APEX10_Project_cropped_20220711_0004.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TASTIE_tomato/main/APEX10_SVT_RSML/Just%20primary%20roots%20and%20fungi%20line/Tricho_control_14_APEX10_Project_cropped_20220711_0004.rsml",
+   "group": "+ Trichoderma",
+   "name": "Tricho control 14 APEX10 Project cropped 20220711 ",
+   "treatment": "+ Trichoderma"
+  },
+  {
+   "file": "APEX10_SVT_RSML/Just%20primary%20roots%20and%20fungi%20line/Tricho_control_14_APEX10_Project_cropped_20220711_0005.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TASTIE_tomato/main/APEX10_SVT_RSML/Just%20primary%20roots%20and%20fungi%20line/Tricho_control_14_APEX10_Project_cropped_20220711_0005.rsml",
+   "group": "+ Trichoderma",
+   "name": "Tricho control 14 APEX10 Project cropped 20220711 ",
+   "treatment": "+ Trichoderma"
+  },
+  {
+   "file": "APEX10_SVT_RSML/Just%20primary%20roots%20and%20fungi%20line/Tricho_control_14_APEX10_Project_cropped_20220711_0006.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TASTIE_tomato/main/APEX10_SVT_RSML/Just%20primary%20roots%20and%20fungi%20line/Tricho_control_14_APEX10_Project_cropped_20220711_0006.rsml",
+   "group": "+ Trichoderma",
+   "name": "Tricho control 14 APEX10 Project cropped 20220711 ",
+   "treatment": "+ Trichoderma"
+  },
+  {
+   "file": "APEX10_SVT_RSML/Tricho_Control_12_APEX10_Project_cropped_20220711_0001.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TASTIE_tomato/main/APEX10_SVT_RSML/Tricho_Control_12_APEX10_Project_cropped_20220711_0001.rsml",
+   "group": "+ Trichoderma",
+   "name": "Tricho Control 12 APEX10 Project cropped 20220711 ",
+   "treatment": "+ Trichoderma"
+  },
+  {
+   "file": "APEX10_SVT_RSML/Tricho_Control_12_APEX10_Project_cropped_20220711_0002.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TASTIE_tomato/main/APEX10_SVT_RSML/Tricho_Control_12_APEX10_Project_cropped_20220711_0002.rsml",
+   "group": "+ Trichoderma",
+   "name": "Tricho Control 12 APEX10 Project cropped 20220711 ",
+   "treatment": "+ Trichoderma"
+  },
+  {
+   "file": "APEX10_SVT_RSML/Tricho_Control_12_APEX10_Project_cropped_20220711_0003.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TASTIE_tomato/main/APEX10_SVT_RSML/Tricho_Control_12_APEX10_Project_cropped_20220711_0003.rsml",
+   "group": "+ Trichoderma",
+   "name": "Tricho Control 12 APEX10 Project cropped 20220711 ",
+   "treatment": "+ Trichoderma"
+  },
+  {
+   "file": "APEX10_SVT_RSML/Tricho_Control_12_APEX10_Project_cropped_20220711_0004.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TASTIE_tomato/main/APEX10_SVT_RSML/Tricho_Control_12_APEX10_Project_cropped_20220711_0004.rsml",
+   "group": "+ Trichoderma",
+   "name": "Tricho Control 12 APEX10 Project cropped 20220711 ",
+   "treatment": "+ Trichoderma"
+  },
+  {
+   "file": "APEX10_SVT_RSML/Tricho_Control_12_APEX10_Project_cropped_20220711_0005.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TASTIE_tomato/main/APEX10_SVT_RSML/Tricho_Control_12_APEX10_Project_cropped_20220711_0005.rsml",
+   "group": "+ Trichoderma",
+   "name": "Tricho Control 12 APEX10 Project cropped 20220711 ",
+   "treatment": "+ Trichoderma"
+  },
+  {
+   "file": "APEX10_SVT_RSML/Tricho_Control_12_APEX10_Project_cropped_20220711_0006.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TASTIE_tomato/main/APEX10_SVT_RSML/Tricho_Control_12_APEX10_Project_cropped_20220711_0006.rsml",
+   "group": "+ Trichoderma",
+   "name": "Tricho Control 12 APEX10 Project cropped 20220711 ",
+   "treatment": "+ Trichoderma"
+  },
+  {
+   "file": "APEX10_SVT_RSML/Tricho_TOM_12_DSC_6003_cropped_300dpi_13.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TASTIE_tomato/main/APEX10_SVT_RSML/Tricho_TOM_12_DSC_6003_cropped_300dpi_13.rsml",
+   "group": "+ Trichoderma \u00b7 TOM 12",
+   "name": "Tricho TOM 12 DSC 6003 cropped 300dpi 13",
+   "treatment": "+ Trichoderma"
+  },
+  {
+   "file": "APEX10_SVT_RSML/Tricho_TOM_12_DSC_6013_cropped_300dpi_14.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TASTIE_tomato/main/APEX10_SVT_RSML/Tricho_TOM_12_DSC_6013_cropped_300dpi_14.rsml",
+   "group": "+ Trichoderma \u00b7 TOM 12",
+   "name": "Tricho TOM 12 DSC 6013 cropped 300dpi 14",
+   "treatment": "+ Trichoderma"
+  },
+  {
+   "file": "APEX10_SVT_RSML/Tricho_TOM_12_DSC_6030_cropped_300dpi_16.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TASTIE_tomato/main/APEX10_SVT_RSML/Tricho_TOM_12_DSC_6030_cropped_300dpi_16.rsml",
+   "group": "+ Trichoderma \u00b7 TOM 12",
+   "name": "Tricho TOM 12 DSC 6030 cropped 300dpi 16",
+   "treatment": "+ Trichoderma"
+  },
+  {
+   "file": "Tastie_SVT_images_and_RSML/Fungi_Lid_off_AstroDART_shrink_workflow_RSML/Tricho_control_APEX10_Project_20220711_0001.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TASTIE_tomato/main/Tastie_SVT_images_and_RSML/Fungi_Lid_off_AstroDART_shrink_workflow_RSML/Tricho_control_APEX10_Project_20220711_0001.rsml",
+   "group": "+ Trichoderma",
+   "name": "Tricho control APEX10 Project 20220711 0001",
+   "treatment": "+ Trichoderma"
+  },
+  {
+   "file": "Tastie_SVT_images_and_RSML/Fungi_Lid_off_AstroDART_shrink_workflow_RSML/Tricho_control_APEX10_Project_20220711_0002.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TASTIE_tomato/main/Tastie_SVT_images_and_RSML/Fungi_Lid_off_AstroDART_shrink_workflow_RSML/Tricho_control_APEX10_Project_20220711_0002.rsml",
+   "group": "+ Trichoderma",
+   "name": "Tricho control APEX10 Project 20220711 0002",
+   "treatment": "+ Trichoderma"
+  },
+  {
+   "file": "Tastie_SVT_images_and_RSML/Fungi_Lid_off_AstroDART_shrink_workflow_RSML/Tricho_control_APEX10_Project_20220711_0003.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TASTIE_tomato/main/Tastie_SVT_images_and_RSML/Fungi_Lid_off_AstroDART_shrink_workflow_RSML/Tricho_control_APEX10_Project_20220711_0003.rsml",
+   "group": "+ Trichoderma",
+   "name": "Tricho control APEX10 Project 20220711 0003",
+   "treatment": "+ Trichoderma"
+  },
+  {
+   "file": "Tastie_SVT_images_and_RSML/Fungi_Lid_off_AstroDART_shrink_workflow_RSML/Tricho_control_APEX10_Project_20220711_0004.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TASTIE_tomato/main/Tastie_SVT_images_and_RSML/Fungi_Lid_off_AstroDART_shrink_workflow_RSML/Tricho_control_APEX10_Project_20220711_0004.rsml",
+   "group": "+ Trichoderma",
+   "name": "Tricho control APEX10 Project 20220711 0004",
+   "treatment": "+ Trichoderma"
+  },
+  {
+   "file": "Tastie_SVT_images_and_RSML/Fungi_Lid_off_AstroDART_shrink_workflow_RSML/Tricho_control_APEX10_Project_20220711_0005.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TASTIE_tomato/main/Tastie_SVT_images_and_RSML/Fungi_Lid_off_AstroDART_shrink_workflow_RSML/Tricho_control_APEX10_Project_20220711_0005.rsml",
+   "group": "+ Trichoderma",
+   "name": "Tricho control APEX10 Project 20220711 0005",
+   "treatment": "+ Trichoderma"
+  },
+  {
+   "file": "Tastie_SVT_images_and_RSML/Fungi_Lid_off_AstroDART_shrink_workflow_RSML/Tricho_control_APEX10_Project_20220711_0006.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TASTIE_tomato/main/Tastie_SVT_images_and_RSML/Fungi_Lid_off_AstroDART_shrink_workflow_RSML/Tricho_control_APEX10_Project_20220711_0006.rsml",
+   "group": "+ Trichoderma",
+   "name": "Tricho control APEX10 Project 20220711 0006",
+   "treatment": "+ Trichoderma"
+  },
+  {
+   "file": "Tastie_SVT_images_and_RSML/Plant_Lids_off_Inverted_for_astrodart_RSML/Control_TOM_14_DSC_6000_cropped_aligned_300dpi_01.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TASTIE_tomato/main/Tastie_SVT_images_and_RSML/Plant_Lids_off_Inverted_for_astrodart_RSML/Control_TOM_14_DSC_6000_cropped_aligned_300dpi_01.rsml",
+   "group": "Control \u00b7 TOM 14",
+   "name": "Control TOM 14 DSC 6000 cropped aligned 300dpi 01",
+   "treatment": "Control"
+  },
+  {
+   "file": "Tastie_SVT_images_and_RSML/Plant_Lids_off_Inverted_for_astrodart_RSML/Control_TOM_14_DSC_6009_cropped_aligned_300dpi_02.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TASTIE_tomato/main/Tastie_SVT_images_and_RSML/Plant_Lids_off_Inverted_for_astrodart_RSML/Control_TOM_14_DSC_6009_cropped_aligned_300dpi_02.rsml",
+   "group": "Control \u00b7 TOM 14",
+   "name": "Control TOM 14 DSC 6009 cropped aligned 300dpi 02",
+   "treatment": "Control"
+  },
+  {
+   "file": "Tastie_SVT_images_and_RSML/Plant_Lids_off_Inverted_for_astrodart_RSML/Control_TOM_14_DSC_6019_cropped_aligned_300dpi_03.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TASTIE_tomato/main/Tastie_SVT_images_and_RSML/Plant_Lids_off_Inverted_for_astrodart_RSML/Control_TOM_14_DSC_6019_cropped_aligned_300dpi_03.rsml",
+   "group": "Control \u00b7 TOM 14",
+   "name": "Control TOM 14 DSC 6019 cropped aligned 300dpi 03",
+   "treatment": "Control"
+  },
+  {
+   "file": "Tastie_SVT_images_and_RSML/Plant_Lids_off_Inverted_for_astrodart_RSML/Control_TOM_14_DSC_6036_cropped_aligned_300dpi_04.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TASTIE_tomato/main/Tastie_SVT_images_and_RSML/Plant_Lids_off_Inverted_for_astrodart_RSML/Control_TOM_14_DSC_6036_cropped_aligned_300dpi_04.rsml",
+   "group": "Control \u00b7 TOM 14",
+   "name": "Control TOM 14 DSC 6036 cropped aligned 300dpi 04",
+   "treatment": "Control"
+  },
+  {
+   "file": "Tastie_SVT_images_and_RSML/Plant_Lids_off_Inverted_for_astrodart_RSML/Control_TOM_14_DSC_6046_cropped_aligned_300dpi_05.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TASTIE_tomato/main/Tastie_SVT_images_and_RSML/Plant_Lids_off_Inverted_for_astrodart_RSML/Control_TOM_14_DSC_6046_cropped_aligned_300dpi_05.rsml",
+   "group": "Control \u00b7 TOM 14",
+   "name": "Control TOM 14 DSC 6046 cropped aligned 300dpi 05",
+   "treatment": "Control"
+  },
+  {
+   "file": "Tastie_SVT_images_and_RSML/Plant_Lids_off_Inverted_for_astrodart_RSML/Control_TOM_14_DSC_6056_cropped_aligned_300dpi_06.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TASTIE_tomato/main/Tastie_SVT_images_and_RSML/Plant_Lids_off_Inverted_for_astrodart_RSML/Control_TOM_14_DSC_6056_cropped_aligned_300dpi_06.rsml",
+   "group": "Control \u00b7 TOM 14",
+   "name": "Control TOM 14 DSC 6056 cropped aligned 300dpi 06",
+   "treatment": "Control"
+  },
+  {
+   "file": "Tastie_SVT_images_and_RSML/Plant_Lids_off_Inverted_for_astrodart_RSML/Tricho_TOM_14_DSC_6003_cropped_aligned_300dpi_13.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TASTIE_tomato/main/Tastie_SVT_images_and_RSML/Plant_Lids_off_Inverted_for_astrodart_RSML/Tricho_TOM_14_DSC_6003_cropped_aligned_300dpi_13.rsml",
+   "group": "+ Trichoderma \u00b7 TOM 14",
+   "name": "Tricho TOM 14 DSC 6003 cropped aligned 300dpi 13",
+   "treatment": "+ Trichoderma"
+  },
+  {
+   "file": "Tastie_SVT_images_and_RSML/Plant_Lids_off_Inverted_for_astrodart_RSML/Tricho_TOM_14_DSC_6013_cropped_aligned_300dpi_14.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TASTIE_tomato/main/Tastie_SVT_images_and_RSML/Plant_Lids_off_Inverted_for_astrodart_RSML/Tricho_TOM_14_DSC_6013_cropped_aligned_300dpi_14.rsml",
+   "group": "+ Trichoderma \u00b7 TOM 14",
+   "name": "Tricho TOM 14 DSC 6013 cropped aligned 300dpi 14",
+   "treatment": "+ Trichoderma"
+  },
+  {
+   "file": "Tastie_SVT_images_and_RSML/Plant_Lids_off_Inverted_for_astrodart_RSML/Tricho_TOM_14_DSC_6022_cropped_aligned_300dpi_15.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TASTIE_tomato/main/Tastie_SVT_images_and_RSML/Plant_Lids_off_Inverted_for_astrodart_RSML/Tricho_TOM_14_DSC_6022_cropped_aligned_300dpi_15.rsml",
+   "group": "+ Trichoderma \u00b7 TOM 14",
+   "name": "Tricho TOM 14 DSC 6022 cropped aligned 300dpi 15",
+   "treatment": "+ Trichoderma"
+  },
+  {
+   "file": "Tastie_SVT_images_and_RSML/Plant_Lids_off_Inverted_for_astrodart_RSML/Tricho_TOM_14_DSC_6030_cropped_aligned_300dpi_16.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TASTIE_tomato/main/Tastie_SVT_images_and_RSML/Plant_Lids_off_Inverted_for_astrodart_RSML/Tricho_TOM_14_DSC_6030_cropped_aligned_300dpi_16.rsml",
+   "group": "+ Trichoderma \u00b7 TOM 14",
+   "name": "Tricho TOM 14 DSC 6030 cropped aligned 300dpi 16",
+   "treatment": "+ Trichoderma"
+  },
+  {
+   "file": "Tastie_SVT_images_and_RSML/Plant_Lids_off_Inverted_for_astrodart_RSML/Tricho_TOM_14_DSC_6039_cropped_aligned_300dpi_17.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TASTIE_tomato/main/Tastie_SVT_images_and_RSML/Plant_Lids_off_Inverted_for_astrodart_RSML/Tricho_TOM_14_DSC_6039_cropped_aligned_300dpi_17.rsml",
+   "group": "+ Trichoderma \u00b7 TOM 14",
+   "name": "Tricho TOM 14 DSC 6039 cropped aligned 300dpi 17",
+   "treatment": "+ Trichoderma"
+  },
+  {
+   "file": "Tastie_SVT_images_and_RSML/Plant_Lids_off_Inverted_for_astrodart_RSML/Tricho_TOM_14_DSC_6049_cropped_aligned_300dpi_18.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TASTIE_tomato/main/Tastie_SVT_images_and_RSML/Plant_Lids_off_Inverted_for_astrodart_RSML/Tricho_TOM_14_DSC_6049_cropped_aligned_300dpi_18.rsml",
+   "group": "+ Trichoderma \u00b7 TOM 14",
+   "name": "Tricho TOM 14 DSC 6049 cropped aligned 300dpi 18",
+   "treatment": "+ Trichoderma"
+  },
+  {
+   "file": "Tastie_SVT_images_and_RSML/Plant_Lids_off_Inverted_for_astrodart_RSML/Tricho_TOM_14_DSC_6062_cropped_aligned_300dpi_19.rsml",
+   "url": "https://raw.githubusercontent.com/dr-richard-barker/TASTIE_tomato/main/Tastie_SVT_images_and_RSML/Plant_Lids_off_Inverted_for_astrodart_RSML/Tricho_TOM_14_DSC_6062_cropped_aligned_300dpi_19.rsml",
+   "group": "+ Trichoderma \u00b7 TOM 14",
+   "name": "Tricho TOM 14 DSC 6062 cropped aligned 300dpi 19",
+   "treatment": "+ Trichoderma"
+  }
+ ]
+}
