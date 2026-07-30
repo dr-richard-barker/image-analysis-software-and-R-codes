@@ -1,0 +1,13 @@
+filename,species,genotype,condition,day,sample,image_id
+11D FLT Col-0 304 iss042e158911.jpg,Arabidopsis thaliana,Col-0,Flight,day 11,304,iss042e158911
+11D FLT SKU6(spiral1) 306 iss042e158922.jpg,Arabidopsis thaliana,SKU6 (spiral),Flight,day 11,306,iss042e158922
+11D FLT Sku5 305 iss042e158917.jpg,Arabidopsis thaliana,SKU5,Flight,day 11,305,iss042e158917
+11D FLT WS 301  iss042e158892.jpg,Arabidopsis thaliana,WS (Wassilewskija),Flight,day 11,301,iss042e158892
+11D FLT WS 302 iss042e158899.jpg,Arabidopsis thaliana,WS (Wassilewskija),Flight,day 11,302,iss042e158899
+11D FLT WS 303 iss042e158904.jpg,Arabidopsis thaliana,WS (Wassilewskija),Flight,day 11,303,iss042e158904
+11D GC Col-0 404 DSC_0952.JPG,Arabidopsis thaliana,Col-0,Ground control,day 11,404,DSC_0952
+11D GC SKU6 406 DSC_0976.JPG,Arabidopsis thaliana,SKU6,Ground control,day 11,406,DSC_0976
+11D GC Sku5 405 DSC_0963.JPG,Arabidopsis thaliana,SKU5,Ground control,day 11,405,DSC_0963
+11D GC WS 401 DSC_0921.JPG,Arabidopsis thaliana,WS (Wassilewskija),Ground control,day 11,401,DSC_0921
+11D GC WS 402 DSC_0934.JPG,Arabidopsis thaliana,WS (Wassilewskija),Ground control,day 11,402,DSC_0934
+11D GC WS 403 DSC_0942.JPG,Arabidopsis thaliana,WS (Wassilewskija),Ground control,day 11,403,DSC_0942
